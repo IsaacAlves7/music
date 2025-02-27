@@ -54,6 +54,10 @@ Conheça os modelos mais famosos: (Pesquise o som de cada)
 
 Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar.
 
+Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, Mas seja perspicaz, tenha a percepão adequada.
+
+Todos os instrumentos com 6 cordas são considerados como guitarra, em inglês "guitar". Basicamente, quem toca um instrumento de 4 cordas ou menos. Portanto, é um mito aquela frase "Antes de aprender a tocar guitarra comece a aprender violão".
+
 <img src="https://github.com/user-attachments/assets/bdd0058a-a841-45a2-8464-736a796c4e1b" align="right" height="477">
 
 
