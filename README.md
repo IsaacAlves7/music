@@ -1,7 +1,7 @@
 # 🎶 Music
 🎸🥁🎶 Music from scratch.
 
-# 🎼 Sound and Musical Theory
+# 🎼 Sound and Music Theory
 A matéria prima da música é o **som** e o som tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som.
 
 E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
