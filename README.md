@@ -45,6 +45,16 @@ Os profissionais do instrumento são chamados de **guitarristas**, onde envolve 
 
 **Noise Gate**
 
+**WahWah**
+
+**Cuvave Pedal baby**
+
+**Boost**
+
+**Compressor**
+
+**Fuzz**
+
 ## Leitura
 Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
 
