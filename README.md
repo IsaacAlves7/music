@@ -2,7 +2,7 @@
 🎸🥁🎶 Music from scratch.
 
 # 🎼 Sound and Musical Theory
-A matéria prima da música é o **som**
+A matéria prima da música é o **som** e o som tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som.
 
 # 🎸 Guitar
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
