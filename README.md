@@ -56,6 +56,22 @@ Riffs, Grooves e Medley
 
 ## Vibratos
 
+## Pull off
+
+## Hammer-On
+
+## Release e Pré-Bend
+
+## Percepção
+Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (Tríades), Chord Melody Style, Tétrades
+
+## Estilos
+Blues, Rock, Pop, Jazz, MPB e Gospel
+
+## Velocidade Rítmica
+
+## Solo e base
+
 # 🥁 Drum
 
 # 🎹 Musical Keyboard
