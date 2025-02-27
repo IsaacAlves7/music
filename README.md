@@ -8,6 +8,8 @@ E som é vibração, no caso, a frequência vibratória. No caso, das notas musi
 
 A **duração** se relaciona com a rítmica musical e a duração do som. A rítmica é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia.
 
+A **altura** do som é a propriedade que define se um som é grave ou agudo, ou seja, se ele possui uma **frequência**
+
 # 🎸 Guitar
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
 
