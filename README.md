@@ -33,13 +33,14 @@ Conheça os modelos mais famosos: (Pesquise o som de cada)
 - Vip
 - Mustang
 
-
-
 ## Cordas e afinação
 
 ## Amplificadores
 
 ## Pedais e pedaleiras
+<img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
+
+**Noise Gate**
 
 ## Leitura
 Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
