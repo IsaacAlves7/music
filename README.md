@@ -58,6 +58,8 @@ Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pel
 
 Todos os instrumentos com 6 cordas são considerados como guitarra, em inglês "guitar". Basicamente, quem toca um instrumento de 4 cordas ou menos. Portanto, é um mito aquela frase "Antes de aprender a tocar guitarra comece a aprender violão".
 
+E como já vimos, existem vários modelos de guitarra, com até 7 ou 8 cordas, e também 24 ou 26 casas.
+
 <img src="https://github.com/user-attachments/assets/bdd0058a-a841-45a2-8464-736a796c4e1b" align="right" height="477">
 
 
