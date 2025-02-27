@@ -60,6 +60,10 @@ Todos os instrumentos com 6 cordas são considerados como guitarra, em inglês "
 
 E como já vimos, existem vários modelos de guitarra, com até 7 ou 8 cordas, e também 24 ou 26 casas.
 
+Outros instrumentos de corda como **baixo**, **cavaco** (cavaquinho), e **ukulele** não são considerados como guitarra, embora todos sejam instrumentos de corda. A guitarra é um instrumento específico, geralmente com seis cordas, que pode ser acústico ou elétrico, e é amplamente utilizado em diversos estilos musicais como rock, pop, blues e jazz.
+
+O **baixo** ou **contrabaixo** (bass), embora tenha o formato semelhante ao da guitarra elétrica, é projetado para produzir sons em frequências mais baixas e normalmente possui 4 cordas, embora existam modelos com cinco, seis ou mais cordas.
+
 <img src="https://github.com/user-attachments/assets/bdd0058a-a841-45a2-8464-736a796c4e1b" align="right" height="477">
 
 
