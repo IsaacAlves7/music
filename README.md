@@ -11,6 +11,8 @@ A **duração** se relaciona com a rítmica musical e a duração do som. A rít
 A **altura** do som é a propriedade que define se um som é grave ou agudo, ou seja, se ele possui uma **frequência**
 
 # 🎸 Guitar
+<img src="https://github.com/user-attachments/assets/bdd0058a-a841-45a2-8464-736a796c4e1b" align="right">
+
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
 
 Muitas pessoas, equivocadamente, acreditam que Les Paul foi o inventor da guitarra elétrica, mas o crédito deve ser atribuído ao músico George Beaicchamp e ao engenheiro elétrico Adolph Rickenbacker, que criaram a primeira guitarra elétrica amplificada e comercialmente viável.
