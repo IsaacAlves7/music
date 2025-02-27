@@ -4,6 +4,10 @@
 # 🎼 Sound and Musical Theory
 A matéria prima da música é o **som** e o som tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som.
 
+E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
+
+A **duração** se relaciona com a rítmica musical e a duração do som. A rítmica é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde
+
 # 🎸 Guitar
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
 
