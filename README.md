@@ -2,6 +2,7 @@
 🎸🥁🎶 Music from scratch.
 
 # 🎼 Sound and Musical Theory
+A matéria prima da música é o **som**
 
 # 🎸 Guitar
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
@@ -32,6 +33,8 @@ Conheça os modelos mais famosos: (Pesquise o som de cada)
 - Iceman
 - Vip
 - Mustang
+
+Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar.
 
 ## Cordas e afinação
 
