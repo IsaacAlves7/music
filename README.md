@@ -76,7 +76,19 @@ A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas
 
 No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
 
-No **corpo** (body)
+No **corpo** (body), lá dentro do corpo você tem os **pickups** (captadores) que são **médio**, **grave** e **agudo**. A **chave seletora** que depende da guitarra, depende do modelo se poderá mudar essa configuração do corpo. Depende do seu sistema Fenders, sistema Gibson e tal.
+
+> O primeiro captador é do braço, do meio e o terceiro é o da ponte.
+
+Quando estamos com a chave seletora para baixo só usamos o terceiro captador, no caso essa chave tem 5 seleções:
+
+1. seleção = captador da ponte (bridge)
+2. seleção = captador do meio e da ponte
+3. seleção = captador do meio
+4. seleção = captador do braço e do meio
+5. seleção = captador do braço
+
+A 2° seleção é mais indicada e recomendada em contraste com as outras seleções pela redução de ruídos incluídos nos captadores.
 
 ## Cordas e afinação
 
