@@ -70,6 +70,8 @@ O contrabaixo, também conhecido simplesmente como baixo, não é considerado um
 
 Agora, vamos conhecer a guitarra, como você pode ver na anatomia da guitarra, o instrumento é dividido em cabeça, braço e corpo.
 
+A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as cordas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço
+
 ## Cordas e afinação
 
 ## Amplificadores
