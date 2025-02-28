@@ -64,11 +64,11 @@ Outros instrumentos de corda como **baixo**, **cavaco** (cavaquinho), e **ukulel
 
 O **baixo** ou **contrabaixo** (bass), embora tenha o formato semelhante ao da guitarra elétrica, é projetado para produzir sons em frequências mais baixas e normalmente possui 4 cordas, embora existam modelos com cinco, seis ou mais cordas.
 
-O contrabaixo, também conhecido simplesmente como baixo, não é considerado uma guitarra, embora compartilhe algumas semelhanças com a guitarra elétrica em termos de formato e construção. O contrabaixo é um instrumento de corda
+O contrabaixo, também conhecido simplesmente como baixo, não é considerado uma guitarra, embora compartilhe algumas semelhanças com a guitarra elétrica em termos de formato e construção. O contrabaixo é um instrumento de corda.
 
 <img src="https://github.com/user-attachments/assets/bdd0058a-a841-45a2-8464-736a796c4e1b" align="right" height="477">
 
-
+Agora, vamos conhecer a guitarra, como você pode ver na anatomia da guitarra, o instrumento é dividido em cabeça, braço e corpo.
 
 ## Cordas e afinação
 
