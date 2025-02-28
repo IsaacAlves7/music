@@ -72,7 +72,9 @@ Agora, vamos conhecer a guitarra, como você pode ver na **anatomia da guitarra*
 
 A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as cordas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas.
 
-No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo.
+No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
+
+No **corpo** (body)
 
 ## Cordas e afinação
 
