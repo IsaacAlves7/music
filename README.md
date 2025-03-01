@@ -124,6 +124,27 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 ## Leitura
 Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
 
+<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right">
+
+Como vimos anteriormente sobre som e teoria musical as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
+
+E essa representação é da nota é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). 
+
+<img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
+
+É muito importante compreender o papel de cada dedo para tocar violão/guitarra. Há uma nomenclatura correta para eles, ajudando a lidar com a prática.
+
+Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são identificados de 1 a 4. Lembrando que o polegar não está incluído, pois seu lugar é quase sempre atrás do braço.
+
+1. Indicador
+2. Médio
+3. Anelar
+4. Mínimo
+
+Já na mão direita, eles são identificados pelas letras p (de polegar), i (de indicador), m (de médio) e a (de anular/anelar). O mindinho, quando utilizado, pode aparecer com a letra c (do espanhol chiquillo), mas é algo menos usual.
+
+É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante 
+
 Progressão de Acordes Famosa: (Capo 3)
 
 - D#
