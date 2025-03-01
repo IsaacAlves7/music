@@ -100,6 +100,8 @@ Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte*
 
 O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores</a>, ou <a href="">pedais e pedaleiras</a> (presets). 
 
+Mesmo com todas essas especificações, a guitarra também conta com ferramentas de ataque das cordas chamada de **palheta** e um **capotraste** para simular a famosa técnica chamada pestana, deixando o som mais encorpado ao tocas os acordes, o que facilita para não trocar de afinação nas cordas.
+
 ## Cordas e afinação
 
 ## Amplificadores
