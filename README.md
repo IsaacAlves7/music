@@ -169,7 +169,7 @@ Já na mão direita, eles são identificados pelas letras p (de polegar), i (de 
 
 É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante 
 
-Progressão de Acordes Famosa: (Capo 3)
+<a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
 - A#
