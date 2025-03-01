@@ -109,9 +109,21 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 ## Pedais e pedaleiras
 <img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
 
-**Noise Gate**
+**Noise Gate** é um processador de áudio ou pedal de efeito que serve para eliminar ou reduzir ruídos indesejados em um sinal de áudio. Ele funciona como um "portão" que se abre e fecha automaticamente com base na intensidade do sinal.
 
-**WahWah**
+Quando o volume do sinal está abaixo de um determinado limite (threshold), o noise gate "fecha" o portão, silenciando completamente ou atenuando significativamente o sinal. Quando o volume ultrapassa esse limite, o "portão" se abre, permitindo que o sinal passe normalmente.
+
+Os Noise Gates são muito utilizados por guitarristas, especialmente aqueles que usam distorção ou ganho alto, para eliminar zumbidos e interferências quando não estão tocando. Também são comuns em estúdios de gravação e apresentações ao vivo para melhorar a qualidade sonora.
+
+Os controles típicos de um Noise Gate incluem:
+- Threshold (limiar): define o nível abaixo do qual o sinal será cortado
+- Attack: controla a velocidade com que o gate se abre quando o sinal excede o threshold
+- Release: define quanto tempo o gate leva para fechar após o sinal cair abaixo do threshold
+- Reduction: determina quanto o sinal será atenuado quando o gate estiver fechado
+
+**WahWah** (também escrito Wah-Wah ou apenas Wah) é um pedal de efeitos para guitarra que cria um som característico semelhante à pronúncia de "wah-wah". Este efeito foi popularizado nos anos 60 e 70 por guitarristas como Jimi Hendrix, Eric Clapton e Jimmy Page. O pedal funciona como um filtro que alterna entre frequências graves e agudas quando o músico pressiona e solta o pedal com o pé. Essa ação cria uma mudança no timbre que imita a voz humana dizendo "wah-wah", daí seu nome.
+
+Algumas músicas famosas que utilizam o efeito wah-wah incluem "Voodoo Child (Slight Return)" de Jimi Hendrix, "White Room" do Cream e o tema de abertura do filme "Shaft". O wah-wah continua sendo um dos pedais de efeito mais populares e reconhecíveis no mundo da guitarra elétrica.
 
 **Cuvave Pedal baby**
 
