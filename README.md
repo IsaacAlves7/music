@@ -122,7 +122,7 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 **Fuzz**
 
 ## Leitura
-<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right">
+> Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
 
 Como vimos anteriormente sobre som e teoria musical as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
@@ -136,9 +136,15 @@ As notas musicais podem ser identificadas por letras para facilitar a escrita e 
 - `A` –> Lá
 - `B` –> Si  (H no alemão)
 
-Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
+<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right">
 
 E essa representação é da nota é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). 
+
+Os símbolos de ataque da corda são:
+
+- `x` = não deve ser tocado
+- `●` = começa a ser tocado (a partir dele)
+- `○` = segue tocando
 
 <img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
 
