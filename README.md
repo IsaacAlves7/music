@@ -128,6 +128,16 @@ Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
 
 Como vimos anteriormente sobre som e teoria musical as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
+As notas musicais podem ser identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
+
+`C` –> Dó
+`D` –> Ré
+`E` –> Mi
+`F` –> Fá
+`G` –> Sol
+`A` –> Lá
+`B` –> Si  (H no alemão)
+
 E essa representação é da nota é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). 
 
 <img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
