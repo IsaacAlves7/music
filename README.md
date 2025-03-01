@@ -90,6 +90,8 @@ Quando estamos com a chave seletora para baixo só usamos o terceiro captador, n
 
 A 2° seleção é mais indicada e recomendada em contraste com as outras seleções pela redução de ruídos incluídos nos captadores.
 
+Os botões de **volume** e **tonalidades** (graves e agudos), que são chamados de **knobs**, que é o botão exterior porque dentro da guitarra são potenciômetros, que servem para a regulagem dos captadores.
+
 ## Cordas e afinação
 
 ## Amplificadores
