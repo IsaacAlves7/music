@@ -94,7 +94,7 @@ Os botões de **volume** e **tonalidades** (graves e agudos), que são chamados 
 
 Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte** (bridge), a **ponte trêmolo** e **Floyd Rose** possuem suporte.
 
-O **Jack** que é a entrada do **cabo P10**
+O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores</a>, ou <a href="">pedais e pedaleiras</a> (presets)
 
 ## Cordas e afinação
 
