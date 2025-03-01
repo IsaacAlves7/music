@@ -124,6 +124,13 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 ## Leitura
 Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
 
+Progressão de Acordes Famosa: (Capo 3)
+
+- D#
+- A#
+- Cm
+- G#7+/C#
+
 ## Técnicas
 Pestana, CAGED, Tocar de ouvido, Velocidade
 
