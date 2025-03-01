@@ -138,6 +138,12 @@ As notas musicais podem ser identificadas por letras para facilitar a escrita e 
 
 Existe também outra representação para as notas musicais, que não depende de letras. É a famosa <a href="">partitura</a>. Você já deve ter visto por aí algo parecido com isto:
 
+![image](https://github.com/user-attachments/assets/872f2856-6229-474e-af42-fed8b7e6aaa7)
+
+Pois bem, isso é uma representação por partitura. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). 
+
+> Caso esse seja seu primeiro contato com representações musicais, não se preocupe tanto com a partitura, procure antes decorar a representação por letras, que é bem mais simples.
+
 <img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right">
 
 E essa representação é da nota é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). 
