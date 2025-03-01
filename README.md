@@ -109,6 +109,21 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 ## Pedais e pedaleiras
 <img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
 
+Os **pedais e pedaleiras** de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
+
+Os **pedais Individuais** são unidades separadas, cada uma com um efeito específico (distorção, delay, chorus, etc.) e permitem que o músico monte seu próprio set de efeitos, escolhendo exatamente os pedais que deseja, chamamos isso de **preset set** ou **pedalboard**, pode ser criado em uma maleta ou um deck, o que o torna bem customizável. Portanto, oferecem maior flexibilidade para trocar, adicionar ou reorganizar efeitos específicos. Precisam ser conectados individualmente e requerem mais cabos e espaço. Geralmente têm controles físicos dedicados e simples para cada parâmetro. Costumam ser mais robustos e fáceis de substituir em caso de falha de um efeito. A maioria dos guitarristas preferem criar seu set de pedais.
+
+As **pedaleiras** são unidades multi-efeitos e compactas que combinam diversos efeitos em um único equipamento. Oferecem dezenas ou centenas de efeitos pré-programados e possibilidade de criar presets. Permitem salvar configurações completas para diferentes músicas ou situações. Ocupam menos espaço e requerem menos cabos. Geralmente têm interface digital com menus e botões multifuncionais. Costumam incluir recursos adicionais como afinador, looper, simuladores de amplificadores. Muitas vezes oferecem conexões mais avançadas (USB, MIDI, saídas balanceadas). Tendem a ser mais econômicas quando se considera o custo por efeito.
+
+**Considerações práticas:**
+- Muitos guitarristas profissionais utilizam uma combinação de pedais individuais para seus efeitos favoritos e uma pedaleira para efeitos adicionais
+- Pedais individuais costumam ser preferidos por puristas que buscam um som específico e autêntico
+- Pedaleiras são ideais para músicos que precisam de versatilidade e diferentes sonoridades com configuração rápida
+- Pedais individuais facilitam ajustes rápidos durante performances
+- Pedaleiras modernas têm qualidade sonora comparável aos pedais individuais em muitos casos
+
+A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista.
+
 **Noise Gate** é um processador de áudio ou pedal de efeito que serve para eliminar ou reduzir ruídos indesejados em um sinal de áudio. Ele funciona como um "portão" que se abre e fecha automaticamente com base na intensidade do sinal.
 
 Quando o volume do sinal está abaixo de um determinado limite (threshold), o noise gate "fecha" o portão, silenciando completamente ou atenuando significativamente o sinal. Quando o volume ultrapassa esse limite, o "portão" se abre, permitindo que o sinal passe normalmente.
