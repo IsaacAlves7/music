@@ -132,7 +132,7 @@ E essa representação é da nota é chamada de **diagrama de acordes**, nele vo
 
 <img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
 
-É muito importante compreender o papel de cada dedo para tocar violão/guitarra. Há uma nomenclatura correta para eles, ajudando a lidar com a prática.
+Sobre a posição das mãos e dedos para tocar o instrumento, é muito importante compreender o papel de cada dedo para tocar violão/guitarra. Há uma nomenclatura correta para eles, ajudando a lidar com a prática.
 
 Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são identificados de 1 a 4. Lembrando que o polegar não está incluído, pois seu lugar é quase sempre atrás do braço.
 
