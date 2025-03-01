@@ -92,9 +92,9 @@ A 2° seleção é mais indicada e recomendada em contraste com as outras seleç
 
 Os botões de **volume** e **tonalidades** (graves e agudos), que são chamados de **knobs**, que é o botão exterior porque dentro da guitarra são potenciômetros, que servem para a regulagem dos captadores.
 
-Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte** (bridge), a **ponte trêmolo** e **Floyd Rose** possuem suporte.
+Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte** (bridge), a **ponte trêmolo** e **Floyd Rose** possuem suporte. A ponte regula e conecta as cordas da guitarra até as tarraxas, e atrás da guitarra ficam as molas para servir de efeitos de tremolos com a alavanca, muito usado em solos.
 
-O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores</a>, ou <a href="">pedais e pedaleiras</a> (presets)
+O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores</a>, ou <a href="">pedais e pedaleiras</a> (presets). 
 
 ## Cordas e afinação
 
