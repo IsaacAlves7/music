@@ -25,6 +25,8 @@ Os instrumentos de melodia, que também são chamados de instrumentos de canto, 
 ![Captura de tela 2025-02-25 100033](https://github.com/user-attachments/assets/dce0bc8b-11f6-4776-aef6-78ebebe9ca01)
 
 # 🎸 Guitar
+<img src="" align="right" height="77">
+
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
 
 Muitas pessoas, equivocadamente, acreditam que Les Paul foi o inventor da guitarra elétrica, mas o crédito deve ser atribuído ao músico George Beaicchamp e ao engenheiro elétrico Adolph Rickenbacker, que criaram a primeira guitarra elétrica amplificada e comercialmente viável.
