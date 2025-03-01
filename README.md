@@ -37,7 +37,7 @@ Em 1950, Léo Fender lançou a guitarra Telecaster e em 1954, foi lançada o mod
 
 Conheça os modelos mais famosos: (Pesquise o som de cada)
 
-<img src="https://github.com/user-attachments/assets/b3ce9c7a-e902-4946-82f1-cf57e1baec02" align="right" height="277">
+<img src="https://github.com/user-attachments/assets/b3ce9c7a-e902-4946-82f1-cf57e1baec02" align="right" height="377">
 
 - **Stratocaster**
 - Les Paul
