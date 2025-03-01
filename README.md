@@ -92,6 +92,8 @@ A 2° seleção é mais indicada e recomendada em contraste com as outras seleç
 
 Os botões de **volume** e **tonalidades** (graves e agudos), que são chamados de **knobs**, que é o botão exterior porque dentro da guitarra são potenciômetros, que servem para a regulagem dos captadores.
 
+Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte** (bridge), a **ponte trêmolo** e **Floyd Rose** possuem suporte.
+
 ## Cordas e afinação
 
 ## Amplificadores
