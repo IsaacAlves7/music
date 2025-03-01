@@ -121,6 +121,10 @@ Os controles típicos de um Noise Gate incluem:
 - Release: define quanto tempo o gate leva para fechar após o sinal cair abaixo do threshold
 - Reduction: determina quanto o sinal será atenuado quando o gate estiver fechado
 
+No entanto, muitos guitarristas não o utilizam em algumas músicas, pelo fato do Noise Gate reduzir alguns timbres que são encorpados por alguns guitarristas, o que eles naturalmente fazem para tirar o ruído momentâneo após tocarem é diminuírem o volume rapidamente da própria guitarra, isso garante que eles toquem sem perder a qualidade do som.
+
+<img src="https://github.com/user-attachments/assets/f05b5ba9-073c-4798-bf0f-d4cff594d8cc" align="right" height="277">
+
 **WahWah** (também escrito Wah-Wah ou apenas Wah) é um pedal de efeitos para guitarra que cria um som característico semelhante à pronúncia de "wah-wah". Este efeito foi popularizado nos anos 60 e 70 por guitarristas como Jimi Hendrix, Eric Clapton e Jimmy Page. O pedal funciona como um filtro que alterna entre frequências graves e agudas quando o músico pressiona e solta o pedal com o pé. Essa ação cria uma mudança no timbre que imita a voz humana dizendo "wah-wah", daí seu nome.
 
 Algumas músicas famosas que utilizam o efeito wah-wah incluem "Voodoo Child (Slight Return)" de Jimi Hendrix, "White Room" do Cream e o tema de abertura do filme "Shaft". O wah-wah continua sendo um dos pedais de efeito mais populares e reconhecíveis no mundo da guitarra elétrica.
