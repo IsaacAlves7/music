@@ -180,7 +180,7 @@ No entanto, muitos guitarristas não o utilizam em algumas músicas, pelo fato d
 
 Algumas músicas famosas que utilizam o efeito wah-wah incluem "Voodoo Child (Slight Return)" de Jimi Hendrix, "White Room" do Cream e o tema de abertura do filme "Shaft". O wah-wah continua sendo um dos pedais de efeito mais populares e reconhecíveis no mundo da guitarra elétrica.
 
-<img src="https://github.com/user-attachments/assets/e445c463-a097-4341-b287-7823bbe0709f" align="right" height="277">
+<img src="https://github.com/user-attachments/assets/e445c463-a097-4341-b287-7823bbe0709f" align="right" height="177">
 
 **Cuvave Pedal baby** é um pedal de efeitos para guitarra da marca chinesa Cuvave. Trata-se de um multi-efeitos compacto e acessível que combina vários efeitos diferentes em um único pedal. As características específicas podem variar dependendo do modelo exato, mas geralmente os pedais Cuvave Pedal Baby oferecem:
 
