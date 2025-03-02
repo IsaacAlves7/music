@@ -162,9 +162,7 @@ A escolha entre pedais individuais e pedaleiras depende muito do estilo musical,
 
 <img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
 
-**Noise Gate** é um processador de áudio ou pedal de efeito que serve para eliminar ou reduzir ruídos indesejados em um sinal de áudio. Ele funciona como um "portão" que se abre e fecha automaticamente com base na intensidade do sinal.
-
-Quando o volume do sinal está abaixo de um determinado limite (threshold), o noise gate "fecha" o portão, silenciando completamente ou atenuando significativamente o sinal. Quando o volume ultrapassa esse limite, o "portão" se abre, permitindo que o sinal passe normalmente.
+**Noise Gate** é um processador de áudio ou pedal de efeito que serve para eliminar ou reduzir ruídos indesejados em um sinal de áudio. Ele funciona como um "portão" que se abre e fecha automaticamente com base na intensidade do sinal. Quando o volume do sinal está abaixo de um determinado limite (threshold), o noise gate "fecha" o portão, silenciando completamente ou atenuando significativamente o sinal. Quando o volume ultrapassa esse limite, o "portão" se abre, permitindo que o sinal passe normalmente.
 
 Os Noise Gates são muito utilizados por guitarristas, especialmente aqueles que usam distorção ou ganho alto, para eliminar zumbidos e interferências quando não estão tocando. Também são comuns em estúdios de gravação e apresentações ao vivo para melhorar a qualidade sonora.
 
@@ -229,9 +227,7 @@ O pedal **Compressor** é um efeito que controla a dinâmica do seu som, ou seja
 
 <img src="https://github.com/user-attachments/assets/ffff68bf-cbab-4f8d-93f6-5098e21fe3f3" align="right" height="277">
 
-O pedal **Fuzz** é um dos efeitos de distorção mais distintos e clássicos para guitarra. Diferente de outros pedais de distorção, o Fuzz produz um som mais extremo, áspero e com um caráter único.
-
-Características principais do efeito Fuzz:
+O pedal **Fuzz** é um dos efeitos de distorção mais distintos e clássicos para guitarra. Diferente de outros pedais de distorção, o Fuzz produz um som mais extremo, áspero e com um caráter único. Características principais do efeito Fuzz:
 
 - Produz uma distorção mais agressiva e "quadrada" ao clipar severamente a onda sonora
 - Cria um som "felpudo", "empoeirado" ou "veludo rasgado", como o próprio nome sugere (fuzz = penugem/felpa)
