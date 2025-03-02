@@ -86,6 +86,10 @@ A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas
 
 4. (`D`) **Ré** é a quarta, com um timbre equilibrado, funcionando bem tanto para bases quanto para solos, especialmente em riffs e power chords.
 
+5. (`A`) **Lá** é a quinta, possui um timbre equilibrado entre graves e médios, sendo essencial tanto para bases quanto para solos.
+
+6. (`E`) **Mi** é a sexta, é a corda mais grossa e possui um timbre grave e encorpado, sendo essencial para bases pesadas, riffs e notas graves em solos.
+
 No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
 
 No **corpo** (body), lá dentro do corpo você tem os **pickups** (captadores) que são **médio**, **grave** e **agudo**. A **chave seletora** que depende da guitarra, depende do modelo se poderá mudar essa configuração do corpo. Depende do seu sistema Fenders, sistema Gibson e tal. Os principais tipos de captadores são:
