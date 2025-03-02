@@ -182,6 +182,8 @@ No entanto, muitos guitarristas não o utilizam em algumas músicas, pelo fato d
 
 Algumas músicas famosas que utilizam o efeito wah-wah incluem "Voodoo Child (Slight Return)" de Jimi Hendrix, "White Room" do Cream e o tema de abertura do filme "Shaft". O wah-wah continua sendo um dos pedais de efeito mais populares e reconhecíveis no mundo da guitarra elétrica.
 
+<img src="" align="right" height="277">
+
 **Cuvave Pedal baby** é um pedal de efeitos para guitarra da marca chinesa Cuvave. Trata-se de um multi-efeitos compacto e acessível que combina vários efeitos diferentes em um único pedal. As características específicas podem variar dependendo do modelo exato, mas geralmente os pedais Cuvave Pedal Baby oferecem:
 
 1. Múltiplos tipos de efeitos (como distorção, delay, reverb, chorus, etc.)
@@ -194,11 +196,62 @@ A Cuvave se tornou conhecida por produzir pedais de qualidade razoável a preço
 
 Se você estiver considerando adquirir um Cuvave Pedal Baby, seria recomendável assistir a alguns vídeos de demonstração online para avaliar se o som atende às suas expectativas.
 
-**Boost**
+<img src="https://github.com/user-attachments/assets/9b0df31d-1524-4f59-ba3b-97b1d4c08a9a" align="right" height="277">
+
+O pedal **Boost** é um dos efeitos mais simples e versáteis para guitarra. Sua função principal é aumentar o nível do sinal da guitarra sem alterar significativamente o timbre original (embora alguns modelos adicionem um leve colorido ao som). Características principais do pedal Boost:
+
+- Amplifica o sinal da guitarra, tornando-o mais forte
+- Geralmente possui apenas um ou dois controles (normalmente apenas volume/ganho)
+- Pode ser usado para dar mais destaque a solos sem mudar drasticamente o timbre
+- Quando colocado antes de um amplificador ou outro pedal de distorção, pode empurrá-los para uma saturação natural
+- Ajuda a compensar perdas de sinal causadas por cabos longos ou múltiplos pedais na cadeia
+
+Usos comuns do pedal Boost:
+1. Aumento de volume para solos
+2. Forçar a entrada de um amplificador valvulado para obter overdrive natural
+3. Dar mais corpo e presença ao som limpo
+4. Melhorar a definição e ataque em configurações de alto ganho
+5. Compensar a queda de volume ao ativar certos efeitos
+
+Alguns pedais Boost populares incluem:
+- MXR Micro Amp
+- Xotic EP Booster
+- TC Electronic Spark Booster
+- Electro-Harmonix LPB-1
+- Catalinbread Naga Viper
+- EarthQuaker Devices Arrows
+
+O Boost é muitas vezes considerado uma ferramenta essencial no arsenal de pedais de um guitarrista, devido à sua simplicidade e utilidade em múltiplas situações, desde apresentações ao vivo até gravações em estúdio.
+
+<img src="" align="right" height="277">
 
 **Compressor**
 
-**Fuzz**
+<img src="https://github.com/user-attachments/assets/ffff68bf-cbab-4f8d-93f6-5098e21fe3f3" align="right" height="277">
+
+O pedal **Fuzz** é um dos efeitos de distorção mais distintos e clássicos para guitarra. Diferente de outros pedais de distorção, o Fuzz produz um som mais extremo, áspero e com um caráter único.
+
+Características principais do efeito Fuzz:
+
+- Produz uma distorção mais agressiva e "quadrada" ao clipar severamente a onda sonora
+- Cria um som "felpudo", "empoeirado" ou "veludo rasgado", como o próprio nome sugere (fuzz = penugem/felpa)
+- Adiciona sustentação e compressão ao sinal da guitarra
+- Oferece menos definição de acordes complexos, funcionando melhor com notas individuais e power chords
+- Possui um ataque característico e um decaimento particular
+
+O Fuzz ganhou popularidade nos anos 60 e foi usado em músicas icônicas como:
+- "Satisfaction" dos Rolling Stones (Maestro Fuzz-Tone)
+- "Purple Haze" de Jimi Hendrix (Dallas Arbiter Fuzz Face)
+- Músicas do Black Sabbath com Tony Iommi
+
+Alguns pedais Fuzz clássicos e populares incluem:
+- Dallas Arbiter/Dunlop Fuzz Face
+- Electro-Harmonix Big Muff Pi
+- Maestro Fuzz-Tone
+- Shin-Ei Companion Fuzz/Univox Super-Fuzz
+- Z.Vex Fuzz Factory
+
+O Fuzz tem um lugar especial na história do rock, sendo um dos primeiros efeitos de distorção criados e tendo definido o som de vários gêneros musicais, do blues-rock psicodélico dos anos 60 ao stoner rock e doom metal contemporâneos.
 
 ## Leitura
 > Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
@@ -208,11 +261,16 @@ Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas m
 As notas musicais podem ser identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
 - `C` –> Dó
+  - `C#` -> Dó sustenido
 - `D` –> Ré
+  - `D#` -> Ré sustenido
 - `E` –> Mi
 - `F` –> Fá
+  - `F#` -> Fá sustenido
 - `G` –> Sol
+  - `G#` -> Sol sustenido
 - `A` –> Lá
+  - `A#` -> Lá sustenido
 - `B` –> Si  (H no alemão)
 
 Existe também outra representação para as notas musicais, que não depende de letras. É a famosa <a href="">partitura</a>. Você já deve ter visto por aí algo parecido com isto:
