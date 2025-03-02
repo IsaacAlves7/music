@@ -13,7 +13,7 @@ A **altura** do som é a propriedade que define se um som é **grave** ou **agud
 - Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
 - Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
 
-Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência**. 
+Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz). Ou seja, a altura do som será grave, médio e agudo. 
 
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
