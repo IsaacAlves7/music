@@ -289,6 +289,36 @@ Alguns pedais Fuzz clássicos e populares incluem:
 
 O Fuzz tem um lugar especial na história do rock, sendo um dos primeiros efeitos de distorção criados e tendo definido o som de vários gêneros musicais, do blues-rock psicodélico dos anos 60 ao stoner rock e doom metal contemporâneos.
 
+---
+
+<img src="https://github.com/user-attachments/assets/808804b7-2423-4c92-b792-f649d43b2b08" align="right" height="277">
+
+O pedal de **Reverb** é um efeito usado para simular o ambiente onde o som da guitarra ou de qualquer outro instrumento está sendo tocado. Em um ambiente natural, como uma sala ou uma igreja, o som não simplesmente desaparece quando você para de tocar; ele reflete nas paredes, no teto e em tudo ao redor, criando ecos curtos e difusos que dão uma sensação de espaço e profundidade. O pedal de reverb faz justamente isso, só que de forma artificial, controlada e adaptada para caber no seu som da forma que você quiser. Ele pode recriar ambientes pequenos, como salas apertadas e secas, ou ambientes gigantes, como catedrais e cavernas, onde o som se prolonga e flutua por muito tempo.
+
+No mundo da música, o reverb é uma ferramenta fundamental porque ele dá vida ao som cru da guitarra. Sem reverb, o som costuma ser muito seco e direto, o que funciona bem em alguns casos, mas na maioria das vezes deixa a guitarra sem profundidade e sem aquela sensação de tridimensionalidade que faz ela soar mais natural e agradável. Com reverb, o som da guitarra "respira", se espalha, cria camadas e se mistura melhor com o restante da banda ou com as gravações. Isso é especialmente importante em estilos como rock alternativo, shoegaze, worship, pós-rock ou até blues e jazz, onde o espaço sonoro é parte da expressão.
+
+<img src="https://github.com/user-attachments/assets/87c55774-bd0d-40d5-b2bb-e02784974e49" align="right" height="277">
+
+Existem vários tipos de reverb que os pedais podem reproduzir. O reverb de mola, por exemplo, é clássico nos amplificadores de guitarra antigos e tem uma sonoridade metálica e surf music. O reverb de sala é mais curto e discreto, só pra dar uma ambiência mínima. O reverb de catedral ou hall é muito mais longo e profundo, quase infinito. Muitos pedais modernos combinam esses tipos com efeitos extras, como modulação ou shimmer, onde o reverb adiciona harmônicos e cria um brilho etéreo no som.
+
+O controle de mix normalmente define o quanto de reverb entra no som final, enquanto o decay controla quanto tempo o reverb vai durar após a nota ser tocada. Dependendo do estilo de música e do clima que você quer criar, esses controles podem ir de quase imperceptíveis até exageradamente atmosféricos, onde a guitarra praticamente some dentro da textura do reverb. O reverb é tão versátil que ele pode ser usado tanto de forma sutil, pra apenas encaixar a guitarra num contexto mais natural, quanto de forma exagerada e criativa, virando parte da identidade do som.
+
+Seja num solo melódico, onde o reverb amplia as notas e dá aquela sensação de espaço épico, ou numa base limpa, onde ele só deixa as notas respirarem um pouco mais, o reverb é uma das ferramentas mais expressivas e fundamentais em qualquer pedalboard.
+
+Existem muitas marcas e tipos de pedais de reverb, por exemplo, o **M-Vave Mini Universe Reverb** é um pedal compacto de reverb da marca M-Vave, e ele chama atenção principalmente pelo tamanho pequeno, preço acessível e pela variedade de modos de reverb que ele oferece em um único pedal. Esse pedal é da linha **micro**, ou seja, ele é bem pequeno, fácil de encaixar em qualquer pedalboard, mas sem perder funcionalidades legais. Ele vem com diferentes tipos de reverb integrados, como **Room, Hall, Church, Plate, Spring, Mod, Lo-Fi, etc.**, ou seja, ele cobre desde reverbs mais curtinhos e naturais, até reverbs bem atmosféricos e viajados, que servem pra criar ambientes enormes ou efeitos psicodélicos.
+
+O Mini Universe tem três controles principais:
+
+- **Mix:** controla a quantidade de reverb misturado ao som seco da guitarra.
+- **Decay:** define o tempo de duração do reverb, ou seja, o quanto ele "sustenta" depois que você toca.
+- **Tone:** ajusta o timbre do reverb, deixando ele mais brilhante ou mais fechado e escuro.
+
+Além disso, ele tem um **seletor de modos**, onde você escolhe qual tipo de reverb quer usar. Apesar do preço baixo, a qualidade sonora surpreende bastante, principalmente para quem quer um pedal acessível para usar em casa, ensaios ou até em shows menores. Ele funciona bem tanto com sons limpos quanto com drive, embora com distorções mais pesadas você talvez queira reverbs um pouco mais sofisticados, porque ele tende a embolar um pouco com muito ganho (o que é normal em reverbs mais baratos).
+
+Outra coisa legal é que ele tem **bypass verdadeiro** (true bypass), então não altera o timbre quando desligado, o que é sempre um ponto positivo.
+
+Resumindo, o **M-Vave Mini Universe Reverb** é um ótimo pedal para quem quer **muitos tipos de reverb em um pedal pequeno e barato**, sem complicação. Ele não é um reverb "premium" como Strymon ou Eventide, mas pelo custo, entrega muito mais do que a média de pedais da mesma faixa de preço. Se você curte explorar diferentes atmosferas ou quer um reverb coringa pra vários estilos, ele é uma boa escolha.
+
 ## Leitura
 > Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo, Batidas
 
