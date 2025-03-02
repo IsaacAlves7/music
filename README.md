@@ -220,7 +220,7 @@ Se você estiver considerando adquirir um Cuvave Pedal Baby, seria recomendável
 
 <img src="https://github.com/user-attachments/assets/9b0df31d-1524-4f59-ba3b-97b1d4c08a9a" align="right" height="277">
 
-O pedal **Boost** é um dos efeitos mais simples e versáteis para guitarra. Sua função principal é aumentar o nível do sinal da guitarra sem alterar significativamente o timbre original (embora alguns modelos adicionem um leve colorido ao som). Características principais do pedal Boost:
+O pedal **Boost** é um dos efeitos mais simples e versáteis para guitarra. Sua função principal é aumentar o nível do sinal da guitarra sem alterar significativamente o timbre original (embora alguns modelos adicionem um leve colorido ao som). Existem dois tipos de pedais Boost, o de Gain e Volume. Características principais do pedal Boost:
 
 - Amplifica o sinal da guitarra, tornando-o mais forte
 - Geralmente possui apenas um ou dois controles (normalmente apenas volume/ganho)
