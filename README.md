@@ -173,13 +173,24 @@ A escolha do amplificador tem um impacto significativo no som final do guitarris
 Mas, a pergunta que não quer calar, qual é o melhor? Amplificadores válvulados são melhores do que os amplificadores híbridos? E a resposta é: depende do que você considera "melhor" e do que você busca em som, praticidade e orçamento.
 
 ## Pedais e pedaleiras
+<img src="https://github.com/user-attachments/assets/8579198e-73dd-4efc-864b-2ec150fcab14" align="right" height="277">
+
+Os **Pedais** e **pedaleiras** de guitarra são dispositivos usados para modificar o som da guitarra, criando efeitos sonoros e expandindo as possibilidades tonais do instrumento. Eles são essenciais no setup de muitos guitarristas e são usados tanto ao vivo quanto em estúdios.
+
+**Pedais** são unidades independentes e compactas, que você conecta à guitarra e ao amplificador. Cada pedal tem um efeito específico, como distorção, delay, reverb, chorus, overdrive, entre outros. Os pedais geralmente são acionados por um **interruptor** e podem ser usados individualmente ou combinados em uma sequência (chamada de **cadeia de pedais**). Cada pedal tem controles que permitem ajustar o efeito, como intensidade, duração, tonalidade e outros parâmetros. Os pedais individuais são unidades separadas, cada uma com um efeito específico (distorção, delay, chorus, etc.) e permitem que o músico monte seu próprio set de efeitos, escolhendo exatamente os pedais que deseja, chamamos isso de **preset set** ou **pedalboard**, pode ser criado em uma maleta ou um deck, o que o torna bem customizável. Portanto, oferecem maior flexibilidade para trocar, adicionar ou reorganizar efeitos específicos. Precisam ser conectados individualmente e requerem mais cabos e espaço. Geralmente têm controles físicos dedicados e simples para cada parâmetro. Costumam ser mais robustos e fáceis de substituir em caso de falha de um efeito. A maioria dos guitarristas preferem criar seu set de pedais.
+
+Os pedais mais comuns incluem:
+
+- **Overdrive/Distortion**: Cria saturação e distorção no som da guitarra.
+- **Delay**: Repete o som da guitarra, criando um efeito de eco.
+- **Reverb**: Simula a reverberação de um ambiente, dando mais profundidade ao som.
+- **Chorus**: Cria um efeito de "duplicação" do som, com ligeiro atraso e modulação.
+
+Em resumo, pedais são unidades individuais para efeitos específicos, enquanto pedaleiras são sistemas maiores que podem incluir múltiplos pedais e oferecer maior flexibilidade, controle e opções de personalização de sons. Ambos os tipos de dispositivos permitem ao guitarrista explorar e moldar sua sonoridade de forma criativa. Os pedais e pedaleiras de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
+
 <img src="https://github.com/user-attachments/assets/1c8637af-c907-4a73-a6da-7f3a0b0b75ce" align="right" height="377">
 
-Os **pedais e pedaleiras** de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
-
-Os **pedais Individuais** são unidades separadas, cada uma com um efeito específico (distorção, delay, chorus, etc.) e permitem que o músico monte seu próprio set de efeitos, escolhendo exatamente os pedais que deseja, chamamos isso de **preset set** ou **pedalboard**, pode ser criado em uma maleta ou um deck, o que o torna bem customizável. Portanto, oferecem maior flexibilidade para trocar, adicionar ou reorganizar efeitos específicos. Precisam ser conectados individualmente e requerem mais cabos e espaço. Geralmente têm controles físicos dedicados e simples para cada parâmetro. Costumam ser mais robustos e fáceis de substituir em caso de falha de um efeito. A maioria dos guitarristas preferem criar seu set de pedais.
-
-As **pedaleiras** são unidades multi-efeitos e compactas que combinam diversos efeitos em um único equipamento. Oferecem dezenas ou centenas de efeitos pré-programados e possibilidade de criar presets. Permitem salvar configurações completas para diferentes músicas ou situações. Ocupam menos espaço e requerem menos cabos. Geralmente têm interface digital com menus e botões multifuncionais. Costumam incluir recursos adicionais como afinador, looper, simuladores de amplificadores. Muitas vezes oferecem conexões mais avançadas (USB, MIDI, saídas balanceadas). Tendem a ser mais econômicas quando se considera o custo por efeito.
+As **pedaleiras** são unidades maiores que combinam vários pedais em um único dispositivo. Muitas pedaleiras são **digitais**, com múltiplos efeitos programáveis, e permitem que o guitarrista altere facilmente os efeitos, combine sons e até crie presets para diferentes músicas ou partes de uma performance. Pedaleiras de maior qualidade também oferecem controle MIDI, loopers e outras funcionalidades avançadas. Elas são práticas para quem usa muitos efeitos, pois evitam a necessidade de ter vários pedais separados. As pedaleiras são unidades multi-efeitos e compactas que combinam diversos efeitos em um único equipamento. Oferecem dezenas ou centenas de efeitos pré-programados e possibilidade de criar presets. Permitem salvar configurações completas para diferentes músicas ou situações. Ocupam menos espaço e requerem menos cabos. Geralmente têm interface digital com menus e botões multifuncionais. Costumam incluir recursos adicionais como afinador, looper, simuladores de amplificadores. Muitas vezes oferecem conexões mais avançadas (USB, MIDI, saídas balanceadas). Tendem a ser mais econômicas quando se considera o custo por efeito.
 
 Considerações práticas:
 - Muitos guitarristas profissionais utilizam uma combinação de pedais individuais para seus efeitos favoritos e uma pedaleira para efeitos adicionais
