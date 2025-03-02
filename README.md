@@ -250,7 +250,7 @@ Alguns pedais Fuzz clássicos e populares incluem:
 O Fuzz tem um lugar especial na história do rock, sendo um dos primeiros efeitos de distorção criados e tendo definido o som de vários gêneros musicais, do blues-rock psicodélico dos anos 60 ao stoner rock e doom metal contemporâneos.
 
 ## Leitura
-> Leitura, Notas, Intervalos, Escalas, Acordes e Tablaturas
+> Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo, Batidas
 
 Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
