@@ -8,7 +8,7 @@ E som é vibração, no caso, a frequência vibratória. No caso, das notas musi
 
 A **duração** se relaciona com a rítmica musical e a duração do som. A rítmica é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia.
 
-A **altura** do som é a propriedade que define se um som é grave ou agudo, ou seja, se ele possui uma **frequência**
+A **altura** do som é a propriedade que define se um som é grave ou agudo, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Mas, como funciona? A frequência de um som é medida em hertz (Hz), e quanto maior a frequência, mais agudo ele soa.
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
 
@@ -76,7 +76,7 @@ O contrabaixo, também conhecido simplesmente como baixo, não é considerado um
 
 Agora, vamos conhecer a guitarra, como você pode ver na **anatomia da guitarra**, o instrumento é dividido em cabeça, braço e corpo:
 
-A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as **cordas**, que são contadas da direita para a esquerda (EBGDAE), onde existe o Mi (Mi maior) e o outro Mi (Mi menor) que são denominados mizão e mizinha, as cordas tocadas de maneira solo possuem o som das mesmas notas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas.
+A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as **cordas**, que são contadas da direita para a esquerda (EADBGE), onde existe o Mi (Mi maior) e o outro Mi (Mi menor) que são denominados mizão e mizinha, as cordas tocadas de maneira solo possuem o som das mesmas notas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas.
 
 No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
 
