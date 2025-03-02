@@ -107,7 +107,7 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 ## Amplificadores
 
 ## Pedais e pedaleiras
-<img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
+<img src="https://github.com/user-attachments/assets/1c8637af-c907-4a73-a6da-7f3a0b0b75ce" align="right" height="377">
 
 Os **pedais e pedaleiras** de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
 
@@ -115,7 +115,7 @@ Os **pedais Individuais** são unidades separadas, cada uma com um efeito espec�
 
 As **pedaleiras** são unidades multi-efeitos e compactas que combinam diversos efeitos em um único equipamento. Oferecem dezenas ou centenas de efeitos pré-programados e possibilidade de criar presets. Permitem salvar configurações completas para diferentes músicas ou situações. Ocupam menos espaço e requerem menos cabos. Geralmente têm interface digital com menus e botões multifuncionais. Costumam incluir recursos adicionais como afinador, looper, simuladores de amplificadores. Muitas vezes oferecem conexões mais avançadas (USB, MIDI, saídas balanceadas). Tendem a ser mais econômicas quando se considera o custo por efeito.
 
-**Considerações práticas:**
+Considerações práticas:
 - Muitos guitarristas profissionais utilizam uma combinação de pedais individuais para seus efeitos favoritos e uma pedaleira para efeitos adicionais
 - Pedais individuais costumam ser preferidos por puristas que buscam um som específico e autêntico
 - Pedaleiras são ideais para músicos que precisam de versatilidade e diferentes sonoridades com configuração rápida
@@ -123,6 +123,8 @@ As **pedaleiras** são unidades multi-efeitos e compactas que combinam diversos 
 - Pedaleiras modernas têm qualidade sonora comparável aos pedais individuais em muitos casos
 
 A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista.
+
+<img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
 
 **Noise Gate** é um processador de áudio ou pedal de efeito que serve para eliminar ou reduzir ruídos indesejados em um sinal de áudio. Ele funciona como um "portão" que se abre e fecha automaticamente com base na intensidade do sinal.
 
