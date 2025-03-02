@@ -90,6 +90,14 @@ No **corpo** (body), lá dentro do corpo você tem os **pickups** (captadores) q
 
 - P90 é um tipo de single-coil maior e com mais espiras, oferecendo um som mais encorpado e agressivo do que os single-coils tradicionais, mas ainda com um pouco de ruído. Popular no blues e no rock alternativo.
 
+- Ativo possui um pré-amplificador embutido alimentado por bateria, proporcionando maior saída e menos ruídos. Muito usado no metal e em sons modernos devido à clareza e potência.
+
+- Piezo capta a vibração da madeira da guitarra ao invés das cordas de metal, gerando um som mais acústico e natural. Comum em guitarras híbridas e modelos eletroacústicos.
+
+- Sustainer não apenas capta o som, mas também realimenta o sinal para prolongar as notas indefinidamente. Usado para efeitos e solos sustentados.
+
+Portanto, cada tipo tem características distintas e é escolhido de acordo com o estilo musical desejado. Sobre a questão de ruídos em captadores é recomendado deixar na segunda seleção da chave seletora, isso reduzirá o ruído.
+
 O primeiro captador é do braço, do meio e o terceiro é o da ponte. Quando estamos com a chave seletora para baixo só usamos o terceiro captador, no caso essa chave tem 5 seleções:
 
 1. seleção = captador da ponte (bridge)
@@ -109,6 +117,8 @@ Os modelos de ponte mais comuns são: Trêmolo, Floyd Rose e fixo. E a alavanca 
 O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores</a>, ou <a href="">pedais e pedaleiras</a> (presets). 
 
 Mesmo com todas essas especificações, a guitarra também conta com ferramentas de ataque das cordas chamada de **palheta** e um **capotraste** para simular a famosa técnica chamada pestana, deixando o som mais encorpado ao tocas os acordes, o que facilita para não trocar de afinação nas cordas.
+
+> Dica: Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também.
 
 ## Cordas e afinação
 
