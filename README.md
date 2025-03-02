@@ -58,7 +58,7 @@ Conheça os modelos mais famosos: (Pesquise o som de cada)
 - Vip
 - Mustang
 
-Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar.
+Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar. Quem dá o tom é sempre o cantor, nós instrumentistas apenas seguimos.
 
 Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, Mas seja perspicaz, tenha a percepão adequada.
 
@@ -300,7 +300,7 @@ Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são ide
 
 Já na mão direita, eles são identificados pelas letras p (de polegar), i (de indicador), m (de médio) e a (de anular/anelar). O mindinho, quando utilizado, pode aparecer com a letra c (do espanhol chiquillo), mas é algo menos usual.
 
-É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante 
+É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante é que faz mais sentido alcançar a nota do que fazer o acorde.
 
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
@@ -310,7 +310,9 @@ Já na mão direita, eles são identificados pelas letras p (de polegar), i (de 
 - G#7+/C#
 
 ## Técnicas
-Pestana, CAGED, Tocar de ouvido, Velocidade
+> Pestana, CAGED, Tocar de ouvido, Velocidade
+
+A técnica pestana é feita quando colocamos o nosso dedo o mais perto possível do traste.
 
 ## Groove
 Riffs, Grooves e Medley
