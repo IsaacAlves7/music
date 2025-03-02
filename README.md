@@ -76,7 +76,15 @@ O contrabaixo, também conhecido simplesmente como baixo, não é considerado um
 
 Agora, vamos conhecer a guitarra, como você pode ver na **anatomia da guitarra**, o instrumento é dividido em cabeça, braço e corpo:
 
-A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as **cordas**, que são contadas da direita para a esquerda (EADBGE), onde existe o Mi (Mi maior) e o outro Mi (Mi menor) que são denominados mizão e mizinha, as cordas tocadas de maneira solo possuem o som das mesmas notas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas.
+A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as **cordas**, que são contadas da direita para a esquerda (EADBGE), onde existe o Mi (Mi maior) e o outro Mi (Mi menor) que são denominados mizão e mizinha, as cordas tocadas de maneira solo possuem o som das mesmas notas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas. As cordas, assim como em qualquer instrumento baseado em cordas como violão ou baixo, são contadas da esquerda para direita, sendo (EADGBE).
+
+1. (`E`) **Mi** que é a corda mais fina e tem a afinação em E (mi agudo), a famosa mizinha.
+
+2. (`B`) **Si** é a segunda mais fina e tem a afinação padrão.
+
+3. (`G`) **Sol** é a terceira, mas um pouco grossa que a segunda, é amplamente usada em acordes tanto quanto para solos.
+
+4. (`D`) **Ré** é a quarta, com um timbre equilibrado, funcionando bem tanto para bases quanto para solos, especialmente em riffs e power chords.
 
 No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
 
@@ -118,9 +126,7 @@ O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplifica
 
 Mesmo com todas essas especificações, a guitarra também conta com ferramentas de ataque das cordas chamada de **palheta** e um **capotraste** para simular a famosa técnica chamada pestana, deixando o som mais encorpado ao tocas os acordes, o que facilita para não trocar de afinação nas cordas.
 
-> Dica: Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também.
-
-## Cordas e afinação
+> Dica: Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também. 
 
 ## Amplificadores
 <img src="https://github.com/user-attachments/assets/2e9b036b-c98f-4d1e-acc8-00901ecd22b8" align="right" height="377">
