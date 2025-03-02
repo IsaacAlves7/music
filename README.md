@@ -199,7 +199,7 @@ Considerações práticas:
 - Pedais individuais facilitam ajustes rápidos durante performances
 - Pedaleiras modernas têm qualidade sonora comparável aos pedais individuais em muitos casos
 
-A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista.
+A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista. E ambos podem ser usados em conjunto, vamos ver alguns exemplos de pedais e pedaleiras abaixo:
 
 ---
 
