@@ -105,6 +105,37 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 ## Cordas e afinação
 
 ## Amplificadores
+<img src="https://github.com/user-attachments/assets/2e9b036b-c98f-4d1e-acc8-00901ecd22b8" align="right" height="377">
+
+Os **Amplificadores** de guitarra (amplifiers) são equipamentos essenciais para guitarristas elétricos e eletroacústicos. Eles servem para captar o sinal elétrico fraco produzido pelos captadores da guitarra e amplificá-lo, tornando-o audível através de alto-falantes. Os amplificadores têm duas funções principais:
+
+1. Amplificar o sinal (aumentar sua potência)
+2. Moldar o timbre (alterar as características sonoras)
+
+Existem basicamente dois tipos principais de amplificadores:
+
+**Amplificadores valvulados:** Utilizam válvulas (ou tubos) para amplificar o sinal
+- São conhecidos pelo som quente, cheio de harmônicos e por sua distorção natural quando empurrados além do limite
+- São geralmente mais caros, pesados e requerem manutenção regular
+- São preferidos por muitos músicos profissionais e puristas pelo seu caráter sonoro distintivo
+- Exemplos clássicos: Fender Twin Reverb, Marshall JCM800, Vox AC30
+
+**Amplificadores transistorizados (ou solid-state):** Utilizam transistores e circuitos integrados
+- São tipicamente mais leves, mais baratos e exigem menos manutenção
+- Tendem a ter um som mais limpo e preciso, com menos coloração do que os valvulados
+- São mais confiáveis e consistentes em diferentes ambientes
+- Exemplos: Roland Jazz Chorus, Peavey Bandit
+
+Há também **amplificadores híbridos** (que combinam válvulas e transistores) e **amplificadores digitais** (que usam modelagem digital para simular diversos tipos de amplificadores).
+
+Os componentes básicos de um amplificador de guitarra incluem:
+- Pré-amplificador: processa e modela o sinal antes da amplificação principal
+- Seção de potência: amplifica o sinal para acionar os alto-falantes
+- Alto-falantes: convertem o sinal elétrico em ondas sonoras
+- Controles: volume, ganho, equalização (graves, médios, agudos), presença, etc.
+- Efeitos embutidos (em alguns modelos): reverb, tremolo, etc.
+
+A escolha do amplificador tem um impacto significativo no som final do guitarrista, sendo tão importante quanto a própria guitarra para definir a identidade sonora do músico.
 
 ## Pedais e pedaleiras
 <img src="https://github.com/user-attachments/assets/1c8637af-c907-4a73-a6da-7f3a0b0b75ce" align="right" height="377">
