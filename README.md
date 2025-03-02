@@ -80,11 +80,17 @@ A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas
 
 No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
 
-No **corpo** (body), lá dentro do corpo você tem os **pickups** (captadores) que são **médio**, **grave** e **agudo**. A **chave seletora** que depende da guitarra, depende do modelo se poderá mudar essa configuração do corpo. Depende do seu sistema Fenders, sistema Gibson e tal.
+No **corpo** (body), lá dentro do corpo você tem os **pickups** (captadores) que são **médio**, **grave** e **agudo**. A **chave seletora** que depende da guitarra, depende do modelo se poderá mudar essa configuração do corpo. Depende do seu sistema Fenders, sistema Gibson e tal. Os principais tipos de captadores são:
 
-> O primeiro captador é do braço, do meio e o terceiro é o da ponte.
+<img src="https://github.com/user-attachments/assets/3bfb1c05-7f31-4a66-8481-3878f860c853" align="right" height="277">
 
-Quando estamos com a chave seletora para baixo só usamos o terceiro captador, no caso essa chave tem 5 seleções:
+- **Single-Coil** tem um som brilhante, definido e com bastante ataque, mas é mais suscetível a ruídos e interferências, mas nada que atrapalhe o som da guitarra. Muito usado em estilos como blues, rock clássico e surf music. Os modelos stratocasters utilizam bastante esse tipo de captador.
+
+- Humbucker possui duas bobinas em fase oposta, o que cancela ruídos e resulta em um som mais encorpado, quente e com maior saída. Muito usado no rock, metal e jazz.
+
+- P90 é um tipo de single-coil maior e com mais espiras, oferecendo um som mais encorpado e agressivo do que os single-coils tradicionais, mas ainda com um pouco de ruído. Popular no blues e no rock alternativo.
+
+O primeiro captador é do braço, do meio e o terceiro é o da ponte. Quando estamos com a chave seletora para baixo só usamos o terceiro captador, no caso essa chave tem 5 seleções:
 
 1. seleção = captador da ponte (bridge)
 2. seleção = captador do meio e da ponte
@@ -94,9 +100,11 @@ Quando estamos com a chave seletora para baixo só usamos o terceiro captador, n
 
 A 2° seleção é mais indicada e recomendada em contraste com as outras seleções pela redução de ruídos incluídos nos captadores.
 
-Os botões de **volume** e **tonalidades** (graves e agudos), que são chamados de **knobs**, que é o botão exterior porque dentro da guitarra são potenciômetros, que servem para a regulagem dos captadores.
+Os botões de **volume** e **tonalidades** (graves e agudos), que são chamados de **knobs**, que é o botão exterior porque dentro da guitarra são potenciômetros, que servem para a regulagem dos captadores. Ajuste conforme o necessário, eu particularmente, sempre deixo o volume da guitarra na altura máxima e os tones em 7.
 
-Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte** (bridge), a **ponte trêmolo** e **Floyd Rose** possuem suporte. A ponte regula e conecta as cordas da guitarra até as tarraxas, e atrás da guitarra ficam as molas para servir de efeitos de tremolos com a alavanca, muito usado em solos.
+Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte** (bridge), a **ponte trêmolo** e **Floyd Rose** possuem suporte. A ponte regula e conecta as cordas da guitarra até as tarraxas, e atrás da guitarra ficam as molas para servir de efeitos de tremolos com a alavanca, muito usado em solos. A ponte também é uma das extremidades que prendem as cordas e serve para ajustar e regular a altura das cordas, ajustar na afinação e é onde atua a alavanca. Em diferentes modelos de guitarras podemos ter diferentes tipos de pontes. Mas, praticamente elas atuam da mesma forma.
+
+Os modelos de ponte mais comuns são: Trêmolo, Floyd Rose e fixo. E a alavanca da guitarra que se posiciona na ponte tremolo ou Floyd Rose, serve para deixar o som mais agudo, dando aquele efeito de Rock na guitarra, dando mais curvatura da onda sonora.
 
 O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores</a>, ou <a href="">pedais e pedaleiras</a> (presets). 
 
