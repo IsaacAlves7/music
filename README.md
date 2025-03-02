@@ -90,6 +90,8 @@ A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas
 
 6. (`E`) **Mi** é a sexta, é a corda mais grossa e possui um timbre grave e encorpado, sendo essencial para bases pesadas, riffs e notas graves em solos.
 
+As cordas da guitarra são compostas de aço inoxidável com comprimento mínimo de 850mm com calibres de .010" (60,26mm) até .046" (1,17mm).
+
 No **braço** (neck) ficam as **casas** onde determinam a **escala** que é onde se posiciona os dedos e também os **trastes** que são o que separam as casas na escala, diferencia o som das notas, é a parte que não é tocada na guitarra. São contados de cima pra baixo. As **marcações** na escala auxiliam na contagem das casas. Dentro do braço passa o **tensor** que regula a curvatura do braço. Por isso, muito cuidado com a posição da guitarra para não impenar o braço da guitarra.
 
 No **corpo** (body), lá dentro do corpo você tem os **pickups** (captadores) que são **médio**, **grave** e **agudo**. A **chave seletora** que depende da guitarra, depende do modelo se poderá mudar essa configuração do corpo. Depende do seu sistema Fenders, sistema Gibson e tal. Os principais tipos de captadores são:
