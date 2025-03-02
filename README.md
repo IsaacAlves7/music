@@ -265,6 +265,8 @@ Usos comuns do pedal Boost:
 4. Melhorar a definição e ataque em configurações de alto ganho
 5. Compensar a queda de volume ao ativar certos efeitos
 
+<img src="https://github.com/user-attachments/assets/dc241e54-408a-4650-91ff-10669a6d82fa" align="right" height="277">
+
 Alguns pedais Boost populares incluem:
 - MXR Micro Amp
 - Xotic EP Booster
