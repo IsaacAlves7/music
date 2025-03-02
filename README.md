@@ -178,9 +178,27 @@ No entanto, muitos guitarristas não o utilizam em algumas músicas, pelo fato d
 
 **WahWah** (também escrito Wah-Wah ou apenas Wah) é um pedal de efeitos para guitarra que cria um som característico semelhante à pronúncia de "wah-wah". Este efeito foi popularizado nos anos 60 e 70 por guitarristas como Jimi Hendrix, Eric Clapton e Jimmy Page. O pedal funciona como um filtro que alterna entre frequências graves e agudas quando o músico pressiona e solta o pedal com o pé. Essa ação cria uma mudança no timbre que imita a voz humana dizendo "wah-wah", daí seu nome. Algumas músicas famosas que utilizam o efeito wah-wah incluem "Voodoo Child (Slight Return)" de Jimi Hendrix, "White Room" do Cream e o tema de abertura do filme "Shaft". O wah-wah continua sendo um dos pedais de efeito mais populares e reconhecíveis no mundo da guitarra elétrica. O pedal WahWah e o **pedal de volume** são fisicamente parecidos porque ambos têm aquele formato de "balança", onde você movimenta o pé para frente e para trás. Mas a função deles é bem diferente. O WahWah é um pedal que altera a frequência do som, criando aquele efeito característico de "ua-uá", como se você estivesse abrindo e fechando a boca. Ele funciona como um filtro que varre as frequências, geralmente realçando os médios e cortando graves e agudos conforme você mexe o pedal.
 
-Já o **pedal de volume** controla o volume diretamente, sem mexer no timbre ou nas frequências. Quando você pisa para frente, aumenta o volume, e quando pisa para trás, diminui ou até silencia completamente o som.
+<img src="https://github.com/user-attachments/assets/7c4258fd-a69e-4f0d-be69-9cde3eaf84d5" align="right" height="277">
 
-Em algumas situações, dá pra usar um Wah como uma espécie de "corte de sinal", deixando ele todo para trás e fechando o som quase por completo, mas isso não é a função principal dele. Se você precisa controlar o volume de forma precisa, especialmente para criar swells ou controlar o volume geral da guitarra, o ideal é um **pedal de volume** dedicado.
+Já o **pedal de volume** controla o volume diretamente, sem mexer no timbre ou nas frequências. Quando você pisa para frente, aumenta o volume, e quando pisa para trás, diminui ou até silencia completamente o som. Se você tá procurando pedais de volume legais, tem algumas opções bem consolidadas no mercado, desde modelos clássicos até opções mais modernas com recursos extras. Aqui vão algumas indicações de pedais de volume que são ótimos para guitarra ou baixo:
+
+1. **Ernie Ball VP Jr.** É um dos mais famosos e usados. Compacto, super resistente e com uma resposta bem natural. Ele tem um "taper switch" que ajusta a curva de volume, o que é ótimo pra ajustar se você quer uma transição mais suave ou mais rápida.
+
+2. **Boss FV-500H / FV-500L** A linha da Boss é outra que aguenta qualquer guerra. O modelo "H" é pra instrumentos de alta impedância (guitarra e baixo direto), e o "L" é pra instrumentos ou efeitos de baixa impedância (tipo se você colocar depois de pedais buffer). Ele é robusto, grandão e tem uma pegada de pedal de expressão também.
+
+3. **Dunlop DVP4 Volume (X) Mini** Esse é perfeito se você quer economizar espaço no pedalboard. Mesmo sendo pequeno, é bem preciso e pode funcionar tanto como volume quanto como pedal de expressão.
+
+4. **Morley Volume Plus** A Morley é famosa pelos seus pedais ópticos, que não têm potenciômetro interno (ou seja, duram muito mais porque não desgastam com o tempo). Esse modelo tem uma função bem legal que permite ajustar um volume mínimo, ou seja, mesmo quando o pedal tá "fechado", ele ainda deixa passar um pouquinho de som, se você quiser.
+
+5. **Lehle Mono Volume** Se você quer algo premium, esse é um dos pedais de volume com mais precisão e transparência. Ele usa sensores magnéticos (sem contato físico), o que garante durabilidade absurda e resposta super linear.
+
+6. **Visual Sound (agora Truetone) Visual Volume** Esse é um modelo com leds que mostram visualmente em que nível de volume você está. Além de funcional, é bem legal pra palco.
+
+---
+
+Se você quiser uma recomendação focada em custo-benefício ou pra estilos específicos (rock, worship, etc.), me avisa que te ajudo a filtrar. Quer algo mais compacto, robusto ou cheio de função extra?
+
+Em algumas situações, dá pra usar um Wah como uma espécie de "corte de sinal", deixando ele todo para trás e fechando o som quase por completo, mas isso não é a função principal dele. Se você precisa controlar o volume de forma precisa, especialmente para criar swells ou controlar o volume geral da guitarra, o ideal é um pedal de volume dedicado.
 
 <img src="https://github.com/user-attachments/assets/e445c463-a097-4341-b287-7823bbe0709f" align="right" height="177">
 
