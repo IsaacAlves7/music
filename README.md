@@ -337,6 +337,8 @@ Já na mão direita, eles são identificados pelas letras p (de polegar), i (de 
 - Cm
 - G#7+/C#
 
+> O importante é sempre alcançar/ focar no primeiro acorde não baixo Dm9/F
+
 ## Técnicas
 > Pestana, CAGED, Tocar de ouvido, Velocidade
 
