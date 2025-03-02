@@ -223,9 +223,9 @@ Alguns pedais Boost populares incluem:
 
 O Boost é muitas vezes considerado uma ferramenta essencial no arsenal de pedais de um guitarrista, devido à sua simplicidade e utilidade em múltiplas situações, desde apresentações ao vivo até gravações em estúdio.
 
-<img src="" align="right" height="277">
+<img src="https://github.com/user-attachments/assets/14a1f425-9667-4a88-aa6e-197da90c64b9" align="right" height="277">
 
-**Compressor**
+O pedal **Compressor** é um efeito que controla a dinâmica do seu som, ou seja, ele equilibra o volume das notas que você toca. As notas muito fortes são suavizadas e as notas muito fracas são aumentadas, o que deixa tudo mais uniforme. Além disso, ele aumenta o sustain, ou seja, faz com que as notas durem mais tempo, sem sumir tão rápido. Ele é muito usado em estilos como country, funk e pop, porque deixa a palhetada bem estalada e as notas bem claras. Em sons limpos, ele ajuda a dar mais definição, e em solos com distorção, ele faz com que cada nota soe com mais consistência e sustain. Mas é bom usar com cuidado, porque se exagerar, o som pode ficar chapado, sem dinâmica, como se todas as notas tivessem exatamente a mesma força. Mesmo assim, é um pedal super útil para deixar seu som mais profissional e controlado.
 
 <img src="https://github.com/user-attachments/assets/ffff68bf-cbab-4f8d-93f6-5098e21fe3f3" align="right" height="277">
 
