@@ -128,7 +128,7 @@ Algumas guitarras tem **alavanca**, outras não, depende do modelo e da **ponte*
 
 Os modelos de ponte mais comuns são: Trêmolo, Floyd Rose e fixo. E a alavanca da guitarra que se posiciona na ponte tremolo ou Floyd Rose, serve para deixar o som mais agudo, dando aquele efeito de Rock na guitarra, dando mais curvatura da onda sonora.
 
-O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="">amplificadores (amplifiers)</a>, ou <a href="https://github.com/IsaacAlves7/music/blob/main/README.md#pedais-e-pedaleiras">pedais e pedaleiras (presets)</a>. 
+O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="https://github.com/IsaacAlves7/music/blob/main/README.md#amplificadores">amplificadores (amplifiers)</a>, ou <a href="https://github.com/IsaacAlves7/music/blob/main/README.md#pedais-e-pedaleiras">pedais e pedaleiras (presets)</a>. 
 
 Mesmo com todas essas especificações, a guitarra também conta com ferramentas de ataque das cordas chamada de **palheta** e um **capotraste** para simular a famosa técnica chamada pestana, deixando o som mais encorpado ao tocas os acordes, o que facilita para não trocar de afinação nas cordas.
 
