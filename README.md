@@ -344,9 +344,9 @@ Outra coisa legal é que ele tem **bypass verdadeiro** (true bypass), então nã
 Resumindo, o **M-Vave Mini Universe Reverb** é um ótimo pedal para quem quer **muitos tipos de reverb em um pedal pequeno e barato**, sem complicação. Ele não é um reverb "premium" como Strymon ou Eventide, mas pelo custo, entrega muito mais do que a média de pedais da mesma faixa de preço. Se você curte explorar diferentes atmosferas ou quer um reverb coringa pra vários estilos, ele é uma boa escolha.
 
 ## Leitura
-> Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo, Batidas
-
 Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
+
+> Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra.
 
 As notas musicais podem ser identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
