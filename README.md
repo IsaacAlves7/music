@@ -140,6 +140,8 @@ Os componentes básicos de um amplificador de guitarra incluem:
 
 A escolha do amplificador tem um impacto significativo no som final do guitarrista, sendo tão importante quanto a própria guitarra para definir a identidade sonora do músico.
 
+Mas, a pergunta que não quer calar, qual é o melhor? Amplificadores válvulados são melhores do que os amplificadores híbridos? E a resposta é: depende do que você considera "melhor" e do que você busca em som, praticidade e orçamento.
+
 ## Pedais e pedaleiras
 <img src="https://github.com/user-attachments/assets/1c8637af-c907-4a73-a6da-7f3a0b0b75ce" align="right" height="377">
 
