@@ -343,6 +343,14 @@ Outra coisa legal é que ele tem **bypass verdadeiro** (true bypass), então nã
 
 Resumindo, o **M-Vave Mini Universe Reverb** é um ótimo pedal para quem quer **muitos tipos de reverb em um pedal pequeno e barato**, sem complicação. Ele não é um reverb "premium" como Strymon ou Eventide, mas pelo custo, entrega muito mais do que a média de pedais da mesma faixa de preço. Se você curte explorar diferentes atmosferas ou quer um reverb coringa pra vários estilos, ele é uma boa escolha.
 
+---
+
+<img src="https://github.com/user-attachments/assets/52ca50ed-1f49-4378-b721-e0832c526f96" align="right" height="277">
+
+O pedal de **Crunch** é um tipo de pedal que adiciona **distorção leve** ao som da guitarra, criando um timbre mais "sujo" ou "esfumaçado" (Dirty), mas sem chegar ao nível de distorções pesadas. Ele é perfeito para quem busca um som que combine a clareza do som limpo com uma dose de saturação e compressão. O crunch geralmente é associado ao som de guitarras tocando em amplificadores em volume médio, onde o amp começa a "quebrar" um pouco e gerar essa saturação suave. 
+
+Esse tipo de pedal é muito usado em estilos como rock clássico, blues e hard rock leve, onde você quer um timbre que tenha mais corpo e presença, mas sem perder a definição das notas. O crunch é ideal para riffs, acordes e solos que precisam de um pouco de "atitude", mas ainda soam claros e não tão "barulhentos" como uma distorção pesada. É um pedal bastante versátil, já que você pode usá-lo para uma leve "sujidade" no som ou apertá-lo mais para gerar mais saturação, dependendo do estilo de música.
+
 ## Leitura
 Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
