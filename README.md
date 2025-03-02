@@ -8,12 +8,14 @@ A matéria prima da música é o **som**, pelo qual tem quatro propriedades. É 
 
 A **duração** se relaciona com a rítmica musical e a duração do som. A rítmica é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia.
 
-A **altura** do som é a propriedade que define se um som é **grave** ou **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Em inglês, grave e agudo na música são traduzidos como:
+A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Em inglês, grave e agudo na música são traduzidos como:
 
 - Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
 - Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
 
-Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz). Ou seja, a altura do som será grave, médio e agudo. 
+Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
+
+Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
 
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
