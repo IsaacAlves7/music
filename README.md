@@ -160,6 +160,8 @@ Considerações práticas:
 
 A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista.
 
+---
+
 <img src="https://github.com/user-attachments/assets/f79892dd-b99a-45de-83e7-6d816c755458" align="right" height="377">
 
 **Noise Gate** é um processador de áudio ou pedal de efeito que serve para eliminar ou reduzir ruídos indesejados em um sinal de áudio. Ele funciona como um "portão" que se abre e fecha automaticamente com base na intensidade do sinal. Quando o volume do sinal está abaixo de um determinado limite (threshold), o noise gate "fecha" o portão, silenciando completamente ou atenuando significativamente o sinal. Quando o volume ultrapassa esse limite, o "portão" se abre, permitindo que o sinal passe normalmente.
@@ -173,6 +175,8 @@ Os controles típicos de um Noise Gate incluem:
 - Reduction: determina quanto o sinal será atenuado quando o gate estiver fechado
 
 No entanto, muitos guitarristas não o utilizam em algumas músicas, pelo fato do Noise Gate reduzir alguns timbres que são encorpados por alguns guitarristas, o que eles naturalmente fazem para tirar o ruído momentâneo após tocarem é diminuírem o volume rapidamente da própria guitarra, isso garante que eles toquem sem perder a qualidade do som.
+
+---
 
 <img src="https://github.com/user-attachments/assets/f05b5ba9-073c-4798-bf0f-d4cff594d8cc" align="right" height="277">
 
@@ -194,11 +198,9 @@ Já o **pedal de volume** controla o volume diretamente, sem mexer no timbre ou 
 
 6. **Visual Sound (agora Truetone) Visual Volume** Esse é um modelo com leds que mostram visualmente em que nível de volume você está. Além de funcional, é bem legal pra palco.
 
----
-
-Se você quiser uma recomendação focada em custo-benefício ou pra estilos específicos (rock, worship, etc.), me avisa que te ajudo a filtrar. Quer algo mais compacto, robusto ou cheio de função extra?
-
 Em algumas situações, dá pra usar um Wah como uma espécie de "corte de sinal", deixando ele todo para trás e fechando o som quase por completo, mas isso não é a função principal dele. Se você precisa controlar o volume de forma precisa, especialmente para criar swells ou controlar o volume geral da guitarra, o ideal é um pedal de volume dedicado.
+
+---
 
 <img src="https://github.com/user-attachments/assets/e445c463-a097-4341-b287-7823bbe0709f" align="right" height="177">
 
@@ -213,6 +215,8 @@ Em algumas situações, dá pra usar um Wah como uma espécie de "corte de sinal
 A Cuvave se tornou conhecida por produzir pedais de qualidade razoável a preços mais baixos, tornando-os populares entre músicos com orçamento limitado ou para aqueles que buscam uma introdução ao mundo dos efeitos para guitarra.
 
 Se você estiver considerando adquirir um Cuvave Pedal Baby, seria recomendável assistir a alguns vídeos de demonstração online para avaliar se o som atende às suas expectativas.
+
+---
 
 <img src="https://github.com/user-attachments/assets/9b0df31d-1524-4f59-ba3b-97b1d4c08a9a" align="right" height="277">
 
@@ -241,9 +245,13 @@ Alguns pedais Boost populares incluem:
 
 O Boost é muitas vezes considerado uma ferramenta essencial no arsenal de pedais de um guitarrista, devido à sua simplicidade e utilidade em múltiplas situações, desde apresentações ao vivo até gravações em estúdio.
 
+---
+
 <img src="https://github.com/user-attachments/assets/14a1f425-9667-4a88-aa6e-197da90c64b9" align="right" height="277">
 
 O pedal **Compressor** é um efeito que controla a dinâmica do seu som, ou seja, ele equilibra o volume das notas que você toca. As notas muito fortes são suavizadas e as notas muito fracas são aumentadas, o que deixa tudo mais uniforme. Além disso, ele aumenta o sustain, ou seja, faz com que as notas durem mais tempo, sem sumir tão rápido. Ele é muito usado em estilos como country, funk e pop, porque deixa a palhetada bem estalada e as notas bem claras. Em sons limpos, ele ajuda a dar mais definição, e em solos com distorção, ele faz com que cada nota soe com mais consistência e sustain. Mas é bom usar com cuidado, porque se exagerar, o som pode ficar chapado, sem dinâmica, como se todas as notas tivessem exatamente a mesma força. Mesmo assim, é um pedal super útil para deixar seu som mais profissional e controlado.
+
+---
 
 <img src="https://github.com/user-attachments/assets/ffff68bf-cbab-4f8d-93f6-5098e21fe3f3" align="right" height="277">
 
