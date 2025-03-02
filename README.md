@@ -2,13 +2,20 @@
 🎸🥁🎶 Music from scratch.
 
 # 🎼 Sound and Music Theory
-A matéria prima da música é o **som** e o som tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som.
+A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana.
 
-E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
+A matéria prima da música é o **som** e o som tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
 
 A **duração** se relaciona com a rítmica musical e a duração do som. A rítmica é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia.
 
-A **altura** do som é a propriedade que define se um som é grave ou agudo, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Mas, como funciona? A frequência de um som é medida em hertz (Hz), e quanto maior a frequência, mais agudo ele soa.
+A **altura** do som é a propriedade que define se um som é **grave** ou **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Em inglês, grave e agudo na música são traduzidos como:
+
+- Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
+- Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
+
+Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência**. 
+
+Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
 
