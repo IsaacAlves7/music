@@ -17,6 +17,12 @@ A **altura** do som é a propriedade que define se um som é **grave**, **médio
 
 Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
 
+Sobre a leitura, as **partituras** são sistemas de escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos.
+
+Os elementos principais de uma partitura são:
+
+- **Pentagrama**: conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas.
+
 Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
 
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
