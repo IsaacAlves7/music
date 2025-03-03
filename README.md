@@ -152,7 +152,7 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 > [!NOTE]
 > Dica: Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também. 
 
-## Amplificadores
+# 🔊 Amplificadores
 <img src="https://github.com/user-attachments/assets/2e9b036b-c98f-4d1e-acc8-00901ecd22b8" align="right" height="377">
 
 Os **Amplificadores** de guitarra (amplifiers) são equipamentos essenciais para guitarristas elétricos e eletroacústicos. Eles servem para captar o sinal elétrico fraco produzido pelos captadores da guitarra e amplificá-lo, tornando-o audível através de alto-falantes. Os amplificadores têm duas funções principais:
@@ -190,7 +190,7 @@ A escolha do amplificador tem um impacto significativo no som final do guitarris
 
 Mas, a pergunta que não quer calar, qual é o melhor? Amplificadores válvulados são melhores do que os amplificadores híbridos? E a resposta é: depende do que você considera "melhor" e do que você busca em som, praticidade e orçamento.
 
-## Pedais e pedaleiras
+# 🎛️ Pedais e pedaleiras
 <img src="https://github.com/user-attachments/assets/8579198e-73dd-4efc-864b-2ec150fcab14" align="right" height="277">
 
 Os **Pedais** e **pedaleiras** de guitarra são dispositivos usados para modificar o som da guitarra, criando efeitos sonoros e expandindo as possibilidades tonais do instrumento. Eles são essenciais no setup de muitos guitarristas e são usados tanto ao vivo quanto em estúdios. Os pedais e pedaleiras de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
