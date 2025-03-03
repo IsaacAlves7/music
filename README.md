@@ -193,7 +193,7 @@ Mas, a pergunta que não quer calar, qual é o melhor? Amplificadores válvulado
 ## Pedais e pedaleiras
 <img src="https://github.com/user-attachments/assets/8579198e-73dd-4efc-864b-2ec150fcab14" align="right" height="277">
 
-Os **Pedais** e **pedaleiras** de guitarra são dispositivos usados para modificar o som da guitarra, criando efeitos sonoros e expandindo as possibilidades tonais do instrumento. Eles são essenciais no setup de muitos guitarristas e são usados tanto ao vivo quanto em estúdios.
+Os **Pedais** e **pedaleiras** de guitarra são dispositivos usados para modificar o som da guitarra, criando efeitos sonoros e expandindo as possibilidades tonais do instrumento. Eles são essenciais no setup de muitos guitarristas e são usados tanto ao vivo quanto em estúdios. Os pedais e pedaleiras de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
 
 Os **pedais** são unidades independentes e compactas, que você conecta à guitarra e ao amplificador. Cada pedal tem um efeito específico, como distorção, delay, reverb, chorus, overdrive, entre outros. Os pedais geralmente são acionados por um **interruptor** (foot switch) e podem ser usados individualmente ou combinados em uma sequência (chamada de **cadeia de pedais**). Cada pedal tem controles que permitem ajustar o efeito, como intensidade, duração, tonalidade e outros parâmetros. Os pedais individuais são unidades separadas, cada uma com um efeito específico (distorção, delay, chorus, etc.) e permitem que o músico monte seu próprio set de efeitos, escolhendo exatamente os pedais que deseja, chamamos isso de **preset set** ou **pedalboard**, pode ser criado em uma maleta ou um deck, o que o torna bem customizável, mas existem padrões nesse set para melhor configuração em termos de usabilidade. Portanto, oferecem maior flexibilidade para trocar, adicionar ou reorganizar efeitos específicos. Precisam ser conectados individualmente e requerem mais cabos e espaço. Geralmente têm controles físicos dedicados e simples para cada parâmetro. Costumam ser mais robustos e fáceis de substituir em caso de falha de um efeito. A maioria dos guitarristas preferem criar seu set de pedais.
 
@@ -214,7 +214,7 @@ Tanto em pedais e pedaleiras quanto em amplificadores modernos, existe o **Gain*
 > - **Distortion**: Muito Gain, criando uma compressão forte e uma saturação mais pesada e agressiva.
 > - **Fuzz**: Gain extremo, com uma saturação completamente quebrada e quase descontrolada, muito usada em rock psicodélico e stoner rock.
 
-Em resumo, pedais são unidades individuais para efeitos específicos, enquanto pedaleiras são sistemas maiores que podem incluir múltiplos pedais e oferecer maior flexibilidade, controle e opções de personalização de sons. Ambos os tipos de dispositivos permitem ao guitarrista explorar e moldar sua sonoridade de forma criativa. Os pedais e pedaleiras de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
+Em resumo, pedais são unidades individuais para efeitos específicos, enquanto pedaleiras são sistemas maiores que podem incluir múltiplos pedais e oferecer maior flexibilidade, controle e opções de personalização de sons. Ambos os tipos de dispositivos permitem ao guitarrista explorar e moldar sua sonoridade de forma criativa.
 
 <img src="https://github.com/user-attachments/assets/1c8637af-c907-4a73-a6da-7f3a0b0b75ce" align="right" height="377">
 
