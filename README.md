@@ -473,6 +473,7 @@ Já na mão direita, eles são identificados pelas letras p (de polegar), i (de 
 
 - D7+
 
+> [!TIP]
 > O importante é sempre alcançar/ focar no primeiro acorde não baixo Dm9/F
 
 O tom original `A` (Lá maior) nessa tonalidade é bastante comum em músicas do estilo gospel/congregacional, e é uma escolha boa para encaixar bem a melodia na voz de tenores ou vozes masculinas médias. Se você estiver criando uma cifra para essa música, começar em A (Lá maior) é uma boa opção para manter o tom original. Os acordes da tonalidade de `A` geralmente incluem:
