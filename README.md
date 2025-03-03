@@ -203,9 +203,16 @@ Os pedais mais comuns incluem:
 - **Delay**: Repete o som da guitarra, criando um efeito de eco.
 - **Reverb**: Simula a reverberação de um ambiente, dando mais profundidade ao som.
 - **Chorus**: Cria um efeito de "duplicação" do som, com ligeiro atraso e modulação.
-- **Gain**: é o controle que ajusta o nível de sinal que entra no pré-amplificador do seu amp ou pedal. Na prática, ele determina o quanto o som da sua guitarra será amplificado e saturado antes de chegar à etapa de equalização e volume. Quanto mais Gain (ganho), mais saturação e distorção, porque o sinal da guitarra fica "empurrando" os limites do sistema, criando aquele som de quebra (clipping) característico do overdrive, crunch ou distorção.
 
-> Em termos de efeitos para guitarra, o Gain é diretamente responsável por definir o nível de saturação, ou seja, o quão limpo ou sujo seu som será e isso influencia diretamente efeitos. O Gain não é um efeito separado, mas sim um controle base que afeta como o seu sinal interage com todo o restante da cadeia de efeitos e do amplificador.
+Tanto em pedais e pedaleiras quanto em amplificadores modernos, existe o **Gain** (ganho) que é o controle que ajusta o nível de sinal que entra no pré-amplificador do seu amp ou pedal. Na prática, ele determina o quanto o som da sua guitarra será amplificado e saturado antes de chegar à etapa de equalização e volume. Quanto mais Gain (ganho), mais saturação e distorção, porque o sinal da guitarra fica "empurrando" os limites do sistema, criando aquele som de quebra (clipping) característico do overdrive, crunch ou distorção. O Gain não é um efeito separado, mas sim um controle base que afeta como o seu sinal interage com todo o restante da cadeia de efeitos e do amplificador.
+
+> [!Note]
+> Em termos de efeitos para guitarra, o Gain é diretamente responsável por definir o nível de saturação, ou seja, o quão limpo ou sujo seu som será. Isso influencia diretamente efeitos como:
+> - **Clean**: Som limpo, com pouco ou nenhum Gain.
+> - **Crunch**: Um nível moderado de Gain, criando uma leve saturação, com textura crocante.
+> - **Overdrive**: Mais Gain, com uma saturação quente e controlada, onde a dinâmica da palhetada ainda influencia o nível de sujeira.
+> - **Distortion**: Muito Gain, criando uma compressão forte e uma saturação mais pesada e agressiva.
+> - **Fuzz**: Gain extremo, com uma saturação completamente quebrada e quase descontrolada, muito usada em rock psicodélico e stoner rock.
 
 Em resumo, pedais são unidades individuais para efeitos específicos, enquanto pedaleiras são sistemas maiores que podem incluir múltiplos pedais e oferecer maior flexibilidade, controle e opções de personalização de sons. Ambos os tipos de dispositivos permitem ao guitarrista explorar e moldar sua sonoridade de forma criativa. Os pedais e pedaleiras de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
 
