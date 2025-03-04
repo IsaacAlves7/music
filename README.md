@@ -45,6 +45,21 @@ Se precisarmos representar notas mais graves ou agudas do que as nove notas repr
 
 Para definir qual nota ocupa cada linha ou espaço e a faixa das notas representadas no pentagrama, são utilizadas as claves, que permitem adaptar a escrita para as diferentes vozes ou instrumentos musicais. A **clave** é o símbolo no início do pentagrama que define a altura das notas (ex: clave de Sol, clave de Fá).
 
+Existem quatro tipos principais de claves na notação musical:
+
+1. Clave de Sol
+
+2. Clave de Fá
+
+3. Clave de Dó
+
+- Clave de contralto
+- Clave de tenor
+
+4. Clave de Percussão
+
+Em notação musical, a clave musical é um símbolo utilizado
+
 Normalmente, em uma partitura, cada instrumento ou voz é representado por uma pauta. No entanto alguns instrumentos que possuem grande extensão e permitem a execução simultânea de melodia e acompanhamento, como o piano, o órgão ou o acordeão, necessitam de mais de uma pauta. Este conjunto de duas ou mais pautas é chamado de **sistema**. A figura abaixo é um sistema para instrumento de teclado. As duas pautas são lidas simultaneamente como se fossem uma única.
 
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
