@@ -25,7 +25,9 @@ Os elementos principais de uma partitura são:
 
 ![image](https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283)
 
-No início do uso da pauta usava-se apenas uma linha colorida, datada do século IX. Tempos depois outras linhas foram sendo acrescentadas, o pentagrama que usamos hoje, estabelecido no século XI, foi definitivamente usado a partir do século XVII.
+No início do uso da pauta usava-se apenas uma linha colorida, datada do século IX. Tempos depois outras linhas foram sendo acrescentadas, o pentagrama que usamos hoje, estabelecido no século XI, foi definitivamente usado a partir do século XVII. São 5 linhas e 4 espaços entre elas. As linhas e epaços são contadas de baixo para cima.
+
+![image](https://github.com/user-attachments/assets/8a5c074d-496b-42bb-885a-5d7963d4d123)
 
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
@@ -40,8 +42,6 @@ Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 - Instrumentos de harmonia: **guitarra**, violão, **teclado**, piano, etc.
 
 Os instrumentos de melodia, que também são chamados de instrumentos de canto, não são instrumentos.
-
-![Captura de tela 2025-02-25 100033](https://github.com/user-attachments/assets/dce0bc8b-11f6-4776-aef6-78ebebe9ca01)
 
 # 🎸 Guitar
 <img src="https://github.com/user-attachments/assets/d3e84a35-7d01-4077-87e0-d1232a6c2d66" align="right" height="77">
@@ -238,6 +238,8 @@ Considerações práticas:
 - Pedaleiras modernas têm qualidade sonora comparável aos pedais individuais em muitos casos
 
 A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista. E ambos podem ser usados em conjunto, vamos ver alguns exemplos de pedais e pedaleiras abaixo:
+
+![Captura de tela 2025-02-25 100033](https://github.com/user-attachments/assets/dce0bc8b-11f6-4776-aef6-78ebebe9ca01)
 
 ---
 
