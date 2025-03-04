@@ -39,6 +39,14 @@ No século XV, uma quinta linha foi adicionada e esta configuração é utilizad
 
 ![image](https://github.com/user-attachments/assets/8d9d06c2-1788-426b-a2ae-fcf6e128ab41)
 
+Se precisarmos representar notas mais graves ou agudas do que as nove notas representáveis nas linha ou espaços do pentagrama, utilizam-se **linhas** e **espaços suplementares** abaixo ou acima da pauta:
+
+<img src="https://github.com/user-attachments/assets/ffeffa2b-0357-40b7-a6c3-571abe34dc0c" align="right">
+
+Para definir qual nota ocupa cada linha ou espaço e a faixa das notas representadas no pentagrama, são utilizadas as claves, que permitem adaptar a escrita para as diferentes vozes ou instrumentos musicais. A **clave** é o símbolo no início do pentagrama que define a altura das notas (ex: clave de Sol, clave de Fá).
+
+Normalmente, em uma partitura, cada instrumento ou voz é representado por uma pauta. No entanto alguns instrumentos que possuem grande extensão e permitem a execução simultânea de melodia e acompanhamento, como o piano, o órgão ou o acordeão, necessitam de mais de uma pauta. Este conjunto de duas ou mais pautas é chamado de **sistema**. A figura abaixo é um sistema para instrumento de teclado. As duas pautas são lidas simultaneamente como se fossem uma única.
+
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
