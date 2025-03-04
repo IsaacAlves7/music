@@ -47,16 +47,18 @@ Para definir qual nota ocupa cada linha ou espaço e a faixa das notas represent
 
 Existem quatro tipos principais de claves na notação musical:
 
-1. Clave de Sol
+<img src="https://github.com/user-attachments/assets/b80a8602-8097-44cf-9f07-b8e19032ec41" align="right">
 
-2. Clave de Fá
+1. **Clave de Sol** (do latim: "chave", representada pelo símbolo gráfico `𝄞`) também chamada de ginoclave ou de clave feminina, é um símbolo musical mais comum que indica a posição da nota sol em uma pauta. Atualmente é usada sobre a segunda linha da pauta, indicando que a terceira oitava da nota sol, ocasionalmente chamada de sol 4 (baseado nas notas do piano), será escrita sobre esta linha. Usada para instrumentos agudos como violino, flauta, guitarra, trompete e a mão direita do piano. Define a nota Sol na segunda linha do pentagrama. A imagem ao lado representa a Clave de sol e nota sol 4.
 
-3. Clave de Dó
+2. **Clave de Fá** ()
 
-- Clave de contralto
-- Clave de tenor
+3. **Clave de Dó** ()
 
-4. Clave de Percussão
+- **Clave de contralto** ()
+- **Clave de tenor** ()
+
+4. **Clave de Percussão** ()
 
 Em notação musical, a clave musical é um símbolo utilizado
 
