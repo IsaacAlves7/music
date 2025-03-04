@@ -25,6 +25,8 @@ Os elementos principais de uma partitura são:
 
 ![image](https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283)
 
+No início do uso da pauta usava-se apenas uma linha colorida, datada do século IX. Tempos depois outras linhas foram sendo acrescentadas, o pentagrama que usamos hoje, estabelecido no século XI, foi definitivamente usado a partir do século XVII.
+
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
