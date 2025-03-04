@@ -29,6 +29,8 @@ No início do uso da pauta usava-se apenas uma linha colorida, datada do século
 
 ![image](https://github.com/user-attachments/assets/8a5c074d-496b-42bb-885a-5d7963d4d123)
 
+As pautas surgiram na Idade Média. Foram aperfeiçoadas por Guido D'Arezzo para representar as alturas das notas musicais, suas durações e o compasso da música, nos ensinamentos de música e no canto gregoriano. As primeiras pautas tinham uma única linha e eram colocadas sobre a letra da canção. A altura era representada pela distância das notas em relação à linha. Como isso não era muito preciso, o sistema evoluiu gradativamente para uma pauta de quatro linhas, chamada de tetragrama.
+
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
