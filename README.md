@@ -135,9 +135,9 @@ Conheça os modelos mais famosos: (Pesquise o som de cada)
 - Vip
 - Mustang
 
-Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar. Quem dá o tom é sempre o cantor, nós instrumentistas apenas seguimos.
+Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar. Quem dá o tom é sempre o cantor, nós instrumentistas apenas seguimos. Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, Mas seja perspicaz, tenha a percepão adequada.
 
-Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, Mas seja perspicaz, tenha a percepão adequada.
+Então, relembrando, o guitarrista quando ele toca, ou seja, quando ele trabalha profissionalmente, ou ele está acompanhando e o acompanhamento envolve ritmo e harmonia ou ele está solando. Se ele estiver solando, então ai envolve só ritmo e escala.
 
 Todos os instrumentos com 6 cordas são considerados como guitarra, em inglês "guitar". Basicamente, quem toca um instrumento de 4 cordas ou menos. Portanto, é um mito aquela frase "Antes de aprender a tocar guitarra comece a aprender violão".
 
