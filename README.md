@@ -43,7 +43,7 @@ Se precisarmos representar notas mais graves ou agudas do que as nove notas repr
 
 <img src="https://github.com/user-attachments/assets/ffeffa2b-0357-40b7-a6c3-571abe34dc0c" align="right">
 
-Para definir qual nota ocupa cada linha ou espaço e a faixa das notas representadas no pentagrama, são utilizadas as claves, que permitem adaptar a escrita para as diferentes vozes ou instrumentos musicais. A **clave** é o símbolo no início do pentagrama que define a altura das notas (ex: clave de Sol, clave de Fá).
+Para definir qual nota ocupa cada linha ou espaço e a faixa das notas representadas no pentagrama, são utilizadas as claves, que permitem adaptar a escrita para as diferentes vozes ou instrumentos musicais. A **clave** é o símbolo no início do pentagrama que define a altura das notas (ex: clave de Sol, clave de Fá). Em notação musical, a clave musical é um símbolo utilizado.
 
 Existem quatro tipos principais de claves na notação musical:
 
@@ -59,9 +59,9 @@ Existem quatro tipos principais de claves na notação musical:
 
 3. **Clave de Dó** (representada pelo símbolo gráfico `𝄡`) também chamada de mesoclave, define a altura da nota dó (`C`) e é indicada pelo centro da figura (o encontro entre os dois cês invertidos). Originalmente a clave de dó foi criada para representar as vozes humanas. Cada voz era escrita com a clave de dó em uma das linhas. O alto era representado com a clave na terceira linha, o tenor na quarta linha e o mezzo-soprano era representado com a clave de dó na segunda ou primeira linha da pauta. Este uso se tornou cada vez menos frequente e esta clave foi substituída pelas de sol para as vozes mais agudas e a de fá para as mais graves. Hoje em dia, a posição mais frequente é a mostrada na figura, com o dó na terceira linha, representando uma tessitura média, exatamente entre as de sol e fá. Um dos poucos instrumentos a utilizar esta clave na sua escrita normal é a viola. Esta clave também pode aparecer ocasionalmente em passagens mais agudas do trombone. Seu uso vocal ainda ocorre quando são utilizadas partituras antigas.
 
-4. **Clave de Percussão** ()
+<img src="https://github.com/user-attachments/assets/8d1d9a3b-4d9c-4841-9660-bfdb856d3aa8" align="right">
 
-Em notação musical, a clave musical é um símbolo utilizado
+4. **Clave de Neutra** (representada pelo símbolo gráfico `||`) esta clave não tem o mesmo uso das demais. Sua utilização não permite determinar a altura das linhas e espaços da pauta. Serve apenas para indicar que a clave será utilizada para representar instrumentos de percussão de altura não determinada, como uma bateria, um tambor ou um conjunto de congas. Neste caso as notas são posicionadas arbitrariamente na pauta, indicando apenas as alturas relativas. Por exemplo em uma bateria, o bumbo pode ser representado na primeira linha por ser o tambor mais grave e um chimbal pode estar em uma das linhas mais altas por se tratar de instrumento mais agudo. Os instrumentos de percussão afináveis utilizam notação com as claves melódicas. Os tímpanos por exemplo são escritos na clave de fá.
 
 Normalmente, em uma partitura, cada instrumento ou voz é representado por uma pauta. No entanto alguns instrumentos que possuem grande extensão e permitem a execução simultânea de melodia e acompanhamento, como o piano, o órgão ou o acordeão, necessitam de mais de uma pauta. Este conjunto de duas ou mais pautas é chamado de **sistema**. A figura abaixo é um sistema para instrumento de teclado. As duas pautas são lidas simultaneamente como se fossem uma única.
 
