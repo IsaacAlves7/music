@@ -85,6 +85,10 @@ Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 Os instrumentos de melodia, que também são chamados de instrumentos de canto, não são instrumentos.
 
+O baixo (bass) é projetado especificamente para tocar em frequências mais graves, sendo essencial para a base harmônica e rítmica na maioria dos estilos musicais. Ele geralmente possui quatro cordas, afinadas em quartas (E,A,D,G), mas também existem versões com cinco, seis ou mais cordas para ampliar o alcance total. Portanto, o contrabaixo se diferencia da guitarra em diversos aspectos. Além da afinação mais grave, suas cordas são mais grossas, o braço é mais longo, e as técnicas de execução frequentemente incluem o uso dos dedos, palheta ou até técnicas como slap e tapping, dependendo do estilo musical.
+
+Enquanto a guitarra costuma ter um papel melódico ou harmônico nas músicas, o contrabaixo é mais frequentemente responsável por fornecer a base rítmica e o suporte harmônico, conectando a seção rítmica (como a bateria) com os instrumentos melódicos.
+
 # 🎸 Guitar
 <img src="https://github.com/user-attachments/assets/d3e84a35-7d01-4077-87e0-d1232a6c2d66" align="right" height="77">
 
