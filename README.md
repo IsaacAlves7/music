@@ -71,7 +71,7 @@ Em partituras escritas para conjuntos musicais, os sistemas também são utiliza
 
 ![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
 
-Portanto, temos muitos tipos de instrumentos, são caracterizados como:
+Como mencionado anteriormente, um **instrumento musical** é um objeto criado ou adaptado para produzir sons musicais, usado para criar melodias, ritmos ou harmonias. Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
 
