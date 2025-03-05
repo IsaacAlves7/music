@@ -67,6 +67,10 @@ Normalmente, em uma partitura, cada instrumento ou voz é representado por uma p
 
 ![image](https://github.com/user-attachments/assets/5781aef0-9094-48cc-9b07-45292e2f3924)
 
+Em partituras escritas para conjuntos musicais, os sistemas também são utilizados para representar a execução simultânea de todas as vozes, como na partitura para coral mostrada a seguir.
+
+![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
+
 Portanto, temos muitos tipos de instrumentos, são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
