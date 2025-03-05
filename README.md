@@ -35,7 +35,7 @@ No início do uso da pauta usava-se apenas uma linha colorida, datada do século
 
 As pautas surgiram na Idade Média. Foram aperfeiçoadas por Guido D'Arezzo para representar as alturas das notas musicais, suas durações e o compasso da música, nos ensinamentos de música e no canto gregoriano. As primeiras pautas tinham uma única linha e eram colocadas sobre a letra da canção. A altura era representada pela distância das notas em relação à linha. Como isso não era muito preciso, o sistema evoluiu gradativamente para uma pauta de quatro linhas, chamada de tetragrama.
 
-No século XV, uma quinta linha foi adicionada e esta configuração é utilizada até hoje. Os **símbolos** das notas podem ser escritos sobre cada uma das cinco linhas ou dentro dos quatro espaços da pauta. A altura das notas depende desta posição.
+No século XV, uma quinta linha foi adicionada e esta configuração é utilizada até hoje. Os **símbolos das notas** podem ser escritos sobre cada uma das cinco linhas ou dentro dos quatro espaços da pauta. A altura das notas depende desta posição.
 
 ![image](https://github.com/user-attachments/assets/8d9d06c2-1788-426b-a2ae-fcf6e128ab41)
 
@@ -68,6 +68,12 @@ Normalmente, em uma partitura, cada instrumento ou voz é representado por uma p
 ![image](https://github.com/user-attachments/assets/5781aef0-9094-48cc-9b07-45292e2f3924)
 
 Em partituras escritas para conjuntos musicais, os sistemas também são utilizados para representar a execução simultânea de todas as vozes, como na partitura para coral mostrada a seguir.
+
+Além das claves, temos os **Acidentes** ou **alterações** são símbolos utilizados na notação musical para modificar a altura da nota imediatamente à sua direita e de todas as notas na mesma posição da pauta até o final do compasso corrente, tornando-as **meio tom mais graves** ou **meio tom mais agudas**, são representadas pelo **símbolo sustenido**(`♯`) ou **bemol**(`♭`) sendo que o **sustenido** representa o aumento da nota em um **semi-tom** e o bemol a diminuição da mesma. Esses símbolos, na partitura musical, aparecem ao lado esquerdo da nota a ser alterada.
+
+Existem também os sustenidos duplos e os bemois duplos. Os primeiros representados pelo símbolo sustenido duplo, fazem a frequência do som, em que estão aplicados, subir um tom. Os segundos, os bemóis duplos, representados pelo símbolo ♭♭, fazem a altura do som, frequência, descer um tom. Existem também os bequadros que anulam as alterações provocadas pelos sustenidos e pelos bemois.
+
+Os acidentes têm esse nome pois representam alterações que ocorrem de forma eventual ou acidental ao longo de uma música. Quando uma nota deve ser executada com afinação elevada ou reduzida ao longo de toda a partitura, não se utilizam acidentes, mas sim armaduras de clave que indicam a tonalidade da composição. Os símbolos utilizados na armadura de clave são os mesmos, mas somente quando ocorrem junto a uma nota são chamados de acidentes.
 
 ![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
 
