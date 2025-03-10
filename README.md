@@ -512,18 +512,20 @@ As notas musicais podem ser identificadas por letras para facilitar a escrita e 
 
 <img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
 
-- `C` –> Dó
-- `C#` -> Dó sustenido
-- `D` –> Ré
-- `D#` -> Ré sustenido
-- `E` –> Mi
-- `F` –> Fá
-- `F#` -> Fá sustenido
-- `G` –> Sol
-- `G#` -> Sol sustenido
-- `A` –> Lá
-- `A#` -> Lá sustenido
-- `B` –> Si  (H no alemão)
+A ordem se configura da seguinte forma e assim por diante:
+
+1. `C` –> Dó
+2. `C#` -> Dó sustenido
+3. `D` –> Ré
+4. `D#` -> Ré sustenido
+5. `E` –> Mi
+6. `F` –> Fá
+7. `F#` -> Fá sustenido
+8. `G` –> Sol
+9. `G#` -> Sol sustenido
+10. `A` –> Lá
+11. `A#` -> Lá sustenido
+12. `B` –> Si  (H no alemão)
 
 Existe também outra representação para as notas musicais, que não depende de letras. É a famosa <a href="">partitura</a>. Você já deve ter visto por aí algo parecido com isto:
 
