@@ -502,6 +502,8 @@ Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas m
 
 As notas musicais podem ser identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
+<img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3" align="right" height="377">
+
 - `C` –> Dó
 - `C#` -> Dó sustenido
 - `D` –> Ré
