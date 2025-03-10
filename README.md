@@ -257,7 +257,7 @@ A escolha do amplificador tem um impacto significativo no som final do guitarris
 Mas, a pergunta que não quer calar, qual é o melhor? Amplificadores válvulados são melhores do que os amplificadores híbridos? E a resposta é: depende do que você considera "melhor" e do que você busca em som, praticidade e orçamento.
 
 # 🎛️ Pedais e pedaleiras
-<img src="https://github.com/user-attachments/assets/8579198e-73dd-4efc-864b-2ec150fcab14" align="right" height="277">
+<img src="https://github.com/user-attachments/assets/8579198e-73dd-4efc-864b-2ec150fcab14" align="right" height="177">
 
 Os **Pedais** e **pedaleiras** de guitarra são dispositivos usados para modificar o som da guitarra, criando efeitos sonoros e expandindo as possibilidades tonais do instrumento. Eles são essenciais no setup de muitos guitarristas e são usados tanto ao vivo quanto em estúdios. Os pedais e pedaleiras de guitarra têm diferenças importantes em termos de funcionalidade, formato e uso. Vou explicar as principais distinções:
 
