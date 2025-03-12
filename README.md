@@ -243,7 +243,7 @@ Existem basicamente dois tipos principais de amplificadores:
 Há também **amplificadores híbridos** (que combinam válvulas e transistores)
 - Exemplos: Cabeçote Meteoro Guitarra Space Junior F350 Faiska + Caixa 212GS, VOX VT Series (Valvetronix), Marshall CODE Series, Blackstar HT Series, Orange Micro Terror/Micro Dark, Peavey Vypyr Series, Hughes & Kettner TubeMeister Series, Line 6 DT Series, Fender Mustang GTX, Mesa Boogie Mark V:25, Laney Cub Series, Marshall DSL20
 
-E **amplificadores digitais** (que usam modelagem digital para simular diversos tipos de amplificadores).
+E **amplificadores digitais** que usam modelagem digital para simular diversos tipos de amplificadores, são tipos de simuladores de timbres de amplificadores que são na verdade aparelhos digitais com circuitos à base de ship, isso já há muito tempo.
 
 Os componentes básicos de um amplificador de guitarra incluem:
 - Pré-amplificador: processa e modela o sinal antes da amplificação principal
