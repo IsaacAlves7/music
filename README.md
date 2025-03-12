@@ -99,13 +99,13 @@ O cavaco (cavaquinho), por sua vez, é um instrumento típico da música brasile
 
 Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geralmente associado à música havaiana e tem um som mais suave e característico. Cada um desses instrumentos possui técnicas de execução, timbres e finalidades musicais próprias, o que os diferencia da guitarra em termos de design, afinação e uso em diferentes gêneros musicais. Portanto, embora compartilhem a característica de serem instrumento de corda, eles não são classificados como guitarra.
 
-|   | cavaco | ukulele | baixo |
-|--------|---------|-------  | ----- |
-| Afinação | (DGBD)  |  (GCEA)     | (EADG) / (BEADG) / (BEADGC) |
-| Encordamento | Aço  |  Nylon     | Aço  |
-| Espaço entre as cordas | Menor  |  Maior     | Maior  |
-| Altura do som | Agudo  |  Médio   |  Grave  |
-| Corpo | Largo  | Reduzido   |  Largo |
+|   | cavaco | ukulele | baixo | guitarra |
+|--------|---------|-------  | ----- | ------ |
+| Afinação | (DGBD)  |  (GCEA)     | (EADG) / (BEADG) / (BEADGC) | (EADGBE) |
+| Encordamento | Aço  |  Nylon     | Aço  | Aço |
+| Espaço entre as cordas | Menor  |  Maior  | Maior  | Maior |
+| Altura do som | Agudo  |  Médio   |  Grave  | Agudo | 
+| Corpo | Largo  | Reduzido | Largo | Largo |
 
 # 🎸 Guitar
 <img src="https://github.com/user-attachments/assets/d3e84a35-7d01-4077-87e0-d1232a6c2d66" align="right" height="77">
@@ -183,7 +183,7 @@ O contrabaixo, também conhecido simplesmente como baixo, não é considerado um
 
 Agora, vamos conhecer a guitarra, como você pode ver na **anatomia da guitarra**, o instrumento é dividido em cabeça, braço e corpo:
 
-A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as **cordas**, que são contadas da direita para a esquerda (EADBGE), onde existe o Mi (Mi maior) e o outro Mi (Mi menor) que são denominados mizão e mizinha, as cordas tocadas de maneira solo possuem o som das mesmas notas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas. As cordas, assim como em qualquer instrumento baseado em cordas como violão ou baixo, são contadas da esquerda para direita, sendo (EADGBE).
+A **cabeça** (head), também conhecida como headshock, onde ficam as **tarraxas**, que servem para afinar o instrumento e é onde prendem as **cordas**, que são contadas da direita para a esquerda (EADGBE), onde existe o Mi (Mi maior) e o outro Mi (Mi menor) que são denominados mizão e mizinha, as cordas tocadas de maneira solo possuem o som das mesmas notas. E em cada uma das cordas é dividida pelo **capotraste** (pestana), que é a parte que divide o braço da cabeça, em inglês eles chamam de lock-nut. E tem também às vezes a trava com micro afinação, dependendo da guitarra. Essa peça determina a altura e posição das cordas. As cordas, assim como em qualquer instrumento baseado em cordas como violão ou baixo, são contadas da esquerda para direita, sendo (EADGBE).
 
 1. (`E`) **Mi** que é a corda mais fina e tem a afinação em E (mi agudo), a famosa mizinha.
 
