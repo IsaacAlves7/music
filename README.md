@@ -234,7 +234,7 @@ A guitarra elétrica é hoje um instrumento universal e, portanto, tão brasilei
 
 Portanto, conheça os modelos mais famosos: (Pesquise o som de cada uma delas)
 
-<img src="https://github.com/user-attachments/assets/b3ce9c7a-e902-4946-82f1-cf57e1baec02" align="right" height="377">
+<img src="https://github.com/user-attachments/assets/b3ce9c7a-e902-4946-82f1-cf57e1baec02" align="right" height="477">
 
 - **Stratocaster**
 - Les Paul
@@ -256,6 +256,54 @@ Portanto, conheça os modelos mais famosos: (Pesquise o som de cada uma delas)
 - Mustang
 
 Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar. Quem dá o tom é sempre o cantor, nós instrumentistas apenas seguimos. Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, Mas seja perspicaz, tenha a percepão adequada.
+
+Quanto aos guitarristas americanos pioneiros, temos muitos nomes retornando na história. Começa-se pelo blues, o country e o jazz, o rock ainda não existia, chegaria nos anos 50.
+
+Os primeiros guitarristas acústicos e posteriormente os elétricos, surgiram nos primórdios do século XX.
+
+Então, no blues acústico, que surgiu ainda no final do século XIX, em 1895. Por volta desse período, temos Big Bill, Bronze, Lead Bell, Blind Lemon, Jefferson, Robert Johnson.
+
+Já nas décadas de 20 e 30 e outros no blues elétrico T-Bone Walker e Muddy Waters.
+
+E no jazz acústico Lonnie Johnson e Django Reinhardt.
+
+Décadas de 20 e 30, no jazz elétrico, o primeiro que se tem notícia foi Ed Juran, na década de 1930 e Charle Christian, que inovou o conceito de tocar guitarra. Existem muitos nomes nesse período. Alan Brooks, que tocava na orquestra de Benny Goodman, George Burns, George Van Apse, que é um dos mais importantes guitarristas dentro da genealogia da história da guitarra. Também John Smith, Freddie Green, Bernie Castle Fellow.
+
+Na década de 1940, Al Viola, Al Kenzie, Oscar Moore, Les Paul e outros que figuravam nesse período.
+
+Nos anos 40 e 50, ainda tem Barry Galbraith, Bill Arango, Billy Bauer, Billy Bean, Buck Passarelli.
+
+Este, embora tenha começado sua carreira nos anos 40, só iniciou carreira solo a partir dos anos 70.
+
+Ainda nos anos 40, Herb Charles, Jimmy Rainey, Jim Hall nos anos 50, Kanye West Montgomery e outros, enfim, muitos nesta época consolidaram a guitarra no Jazz. Outros tantos já estavam fazendo história e, de certa forma, influenciando guitarristas no mundo inteiro.
+
+No rock, um dos que mais se destacaram, logicamente a partir da década de 50 foi Scott Moore, que acompanhava o cantor Elvis Presley e um dos pioneiros do rockabilly.
+
+Embora existissem raízes que antecediam, ao mesmo tempo, começam a surgir os guitarristas de mídia ou que pelo menos foram favorecidos por ela com a explosão do rock.
+
+Surgiram vários nomes ainda nos anos 50, Chuck Berry, um guitarrista de rock n roll e, portanto, rudimentar.
+
+Nos anos 60 houve uma verdadeira explosão e ainda envolvendo guitarristas ingleses, podemos destacar Eric Clapton, Jimmy Page e Jeff Beck.
+
+Ainda no final da década de 1960, nos Estados Unidos, tivemos Jimi Hendrix, considerado o revolucionário dentro do rock, um divisor de águas na história da guitarra.
+
+Nos anos 60 e 70, os nomes mais importantes para a genealogia da guitarra nos Estados Unidos parecem estar no jazz, no Fusion e até na música country, no rock, no pop.
+
+Parecem estar na Inglaterra, com algumas exceções, como John McLaughlin, que, embora em inglês, divulgou seu trabalho na América e foi um dos primeiros guitarristas de jazz Fusion, surgido no começo da década de 1970, depois de ter tocado acompanhado Miles Davis.
+
+Outros guitarristas vieram a seguir contribuindo para a genealogia do instrumento, tais como a Van Halen, de origem holandesa, radicado nos Estados Unidos e que despontou para o mundo em 1978.
+
+No primeiro disco da banda, Van Halen, o Van Halen, Revolucionando o conceito de tocar guitarra, muito embora outros anteriores a ele já fizessem uso de sua técnica de duas mãos, o Two and Technique.
+
+Na área do rock, pois na área dos bares, o guitarrista Stanley Jordan, surgido nos anos 80, inovou com a técnica de duas mãos em duas guitarras simultâneas, que é uma técnica ampliada da técnica de Two and do Van Halen e uma técnica mais rebuscada ainda.
+
+Ainda temos muitos nomes nos Estados Unidos. Steve Lukather, décadas de 80 e 90, Steve Morse, Steve Vai, John Satriani, Eric Johnson, Yngwie Malmsteen, de origem sueca, porém radicado nos Estados Unidos desde o começo dos anos 80. São estilos diferentes. Esses guitarristas todos em setores diferentes da guitarra.
+
+Na Inglaterra, nos anos 70, despontou para o mundo através da banda Queen. Um dos mais importantes guitarristas ingleses, o Brian May.
+
+Nos Estados Unidos, ainda nos anos 60, 70, 80 e 90. Tem vários nomes.
+
+No Jazz e no Pilger, nomes como George Benson, Pat Martino, Pat Metheny, Pat Metheny, Liszt, Nour, Aldo Viola, Larry Cornell, Mike Stern, Scott Henderson, Frank Gamble de origem australiana, John Scofield na área do Jazzy Blues, dois nomes importantes Larry Carlton e Robin Ford.
 
 Então, relembrando, o guitarrista quando ele toca, ou seja, quando ele trabalha profissionalmente, ou ele está acompanhando e o acompanhamento envolve ritmo e harmonia ou ele está solando. Se ele estiver solando, então ai envolve só ritmo e escala.
 
