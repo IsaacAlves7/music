@@ -221,7 +221,7 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 # 🔊 Amplificadores
 <img src="https://github.com/user-attachments/assets/2e9b036b-c98f-4d1e-acc8-00901ecd22b8" align="right" height="377">
 
-Os **Amplificadores** de guitarra (AMP - Amplifiers) são equipamentos essenciais para guitarristas elétricos e eletroacústicos. Eles servem para captar o sinal elétrico fraco produzido pelos captadores da guitarra e amplificá-lo, tornando-o audível através de alto-falantes. Os amplificadores têm duas funções principais:
+Os **Amplificadores** de guitarra (AMP - Amplifiers) são equipamentos destinados a ampliar o som de um instrumento elétrico e essenciais para guitarristas elétricos e eletroacústicos. Eles servem para captar o sinal elétrico fraco produzido pelos captadores da guitarra e amplificá-lo, tornando-o audível através de alto-falantes. Os amplificadores têm duas funções principais:
 
 1. Amplificar o sinal (aumentar sua potência)
 2. Moldar o timbre (alterar as características sonoras)
