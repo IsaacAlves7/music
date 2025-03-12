@@ -120,6 +120,60 @@ Em 1950, Léo Fender lançou a guitarra Telecaster e em 1954, foi lançada o mod
 
 Antes de iniciar a história da guitarra no Brasil, é importante lembrar que os instrumentos de corda normalmente que nós chamamos aqui no Brasil de violão, na realidade, trata se de uma guitarra (Acoustic guitar), não existe o nome violão. Violão é aumentativo de viola. Então, a viola caipira, por exemplo, no Brasil, é uma espécie de violão.
 
+É importante lembrar que por volta de 1600, aqui no Brasil, em terras brasilis, chegou a guitarra mourisca trazida pelos espanhóis. Portanto, a cultura dos instrumentos de corda no Brasil é antiga, remonta mais de 400 anos. Se este for um marco importante, podemos dizer que a história da guitarra no Brasil Começa com a guitarra mourisca em 1600. Toda uma cultura de guitarra e violão foi desenvolvida desde então.
+
+Lembrando que o nome violão é dado à guitarra, que é o próprio violão. O violão na verdade chama se guitarra e mais especificamente, é uma guitarra que poderíamos dizer que a guitarra romântica do século XIX, porque ela surge com esse formato no século XIX e no Brasil ela adquiriu esse apelido de violão.
+
+Seguindo no Brasil, a história da guitarra elétrica começa oficialmente nos anos 50. Antes já existiam as guitarras acústicas, como já sabemos. Porém, nas décadas de 1930 e 1940 já havia indícios de instrumentos musicais elétricos do tipo guitarra baiana, usados nos famosos trios elétricos que, por tradição, fazem o carnaval de rua no nordeste do país. Como os pioneiros Dodô, pai do conhecido guitarrista brasileiro Armandinho e Osmar Dodô Osmar inventaram o trio elétrico na Bahia.
+
+Não temos registros oficiais de outras partes do país onde pudesse estar se desenvolvendo tecnologia em guitarras elétricas.
+
+Mas certamente Dodô criou a guitarra baiana por volta de 1945, na mesma época que Leo Fender estava criando as guitarras dele lá nos Estados Unidos. Entretanto, depoimentos de pessoas mais idosas que frequentavam salões de baile da capital paulista e do interior do estado atestam a existência de guitarras elétricas em meados da década de 40.
+
+Porém, não eram guitarras maciças. Eram guitarras acústicas, portanto semi acústicas. Como se fosse um violão com um captador colocado na boca.
+
+O mundo vivia a Segunda Guerra nessa época dos anos 40, e essas guitarras eram tocadas nas big bands que animavam bailes.
+
+Portanto, eram guitarras acústicas, pois ainda não existiam as maciças, embora na Bahia Dodô já trabalhava
+
+com o corpo maciço.
+
+Portanto, podemos supor que em outras cidades brasileiras poderia haver, se não construtores de instrumentos,
+
+pelo menos pessoas que os consertavam.
+
+O que se sabe, na realidade, é que luthiers que fabricavam violões e fábricas de instrumentos de corda
+
+começaram a fazer experimentos na área da guitarra elétrica na capital de São Paulo.
+
+Ali surgiram algumas das principais marcas e modelos, bem como os principais luthiers de empresas.
+
+O pioneiro da guitarra elétrica no Brasil, ou seja, o primeiro luthier a montar uma guitarra elétrica
+
+ainda nos anos 50, foi Victório Quintiliano, falecido nos anos 90.
+
+Ele trabalhou na fábrica de violões Del Vecchio durante 25 anos.
+
+Depois, passou a atender seus clientes em casa, onde tinha um pequeno ateliê.
+
+O senhor Vitório, como era chamado pelos guitarristas, construiu muitos exemplares de modelos diversos
+
+de guitarra que se tornaram verdadeiras relíquias.
+
+Nos anos 60, com a febre do rock, empresas como a Del Vecchio e a antiga tradicional Tranquillo Giannini
+
+começaram a fabricar guitarras elétricas que praticamente dominaram o mercado.
+
+Mas outros fabricantes e luthiers também tentavam produzir modelos de guitarra de maneira artesanal
+
+ou em série, cujos shapes eram cópias das importadas.
+
+Surgiram assim várias marcas de instrumentos, como a Felpa, que também produzia amplificadores, e
+
+a Béjart, criada por Romeo Benvenutti, que construía exemplares muito elogiados pelos músicos da época.
+
+Ele era irmão de Lídio Benvenutti, o Nenê, conhecido nacionalmente por ser um dos integrantes dos clubbers, uma das mais famosas bandas de rock da década de 60, transformada anos mais tarde na banda no grupo musical Os Incríveis.
+
 Conheça os modelos mais famosos: (Pesquise o som de cada)
 
 <img src="https://github.com/user-attachments/assets/b3ce9c7a-e902-4946-82f1-cf57e1baec02" align="right" height="377">
