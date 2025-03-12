@@ -142,7 +142,31 @@ Ele trabalhou na fábrica de violões Del Vecchio durante 25 anos. Depois, passo
 
 Nos anos 60, com a febre do rock, empresas como a Del Vecchio e a antiga tradicional Tranquillo Giannini começaram a fabricar guitarras elétricas que praticamente dominaram o mercado. Mas outros fabricantes e luthiers também tentavam produzir modelos de guitarra de maneira artesanal ou em série, cujos shapes eram cópias das importadas. Surgiram assim várias marcas de instrumentos, como a Felpa, que também produzia amplificadores, e a Béjart, criada por Romeo Benvenutti, que construía exemplares muito elogiados pelos músicos da época. Ele era irmão de Lídio Benvenutti, o Nenê, conhecido nacionalmente por ser um dos integrantes dos clubbers, uma das mais famosas bandas de rock da década de 60, transformada anos mais tarde na banda no grupo musical Os Incríveis.
 
-Conheça os modelos mais famosos: (Pesquise o som de cada)
+Nos anos 60, próximo à Vitória, moravam Sérgio Dias Batista e Arnaldo Dias Batista, ambos integrantes da respeitada banda de rock, a mais conhecida no país em todos os tempos os Mutantes. O irmão deles, Cláudio Dias Batista, pseudônimo, até era considerado um gênio em eletrônica e acabou criando, montando e fabricando de forma artesanal guitarras, picapes e amplificadores de qualidade incomparável para a época, sendo por isso muito procurado por toda a comunidade de músicos para reparos, consertos, encomendas de instrumentos ou mesmo para aprender tudo a respeito.
+
+Por volta de 1965, quatro irmãos com sobrenome Malagoli experimentavam protótipos de guitarras artesanais imitando a Fender Stratocaster. Fizeram alguns exemplares sem sucesso e decidiram então entrar para o setor de fabricação de pickups, onde conseguiram melhor êxito.
+
+Nos anos 2000, tornaram se a principal empresa de captadores do Brasil e uma das maiores, talvez, da América do Sul. A marca Snake Hawk Pick, que além de fazer guitarras, também produzia amplificadores muito bem conceituados entre os músicos, nasceu na década de 70. Outras marcas não menos famosas apareceram, como a Fink e a Golden.
+
+Nos anos 80, a Dolphin conquistou o mercado quase monopolizando a atenção. Logo a seguir, na mesma década, começaram a despontar novas marcas Tagima. Talvez a mais bem sucedida até hoje Kraft Dessa cast, Spanish Dreamer e outros.
+
+Já na década de 1990 surgiu a marca Fill. Entre os guitarristas brasileiros podemos citar como pioneiros Polly Bola sete, considerado pelos estudiosos americanos no assunto o principal guitarrista de Jazzy da sua época na América do Sul. Podemos citar ainda Zé Menezes, o alemão ou Almir Stocker. Sem dúvida, o maior representante da guitarra brasileira é também Edgard Angulo, como Heraldo do Monte, Hélio Delmiro e Toninho Horta.
+
+Embora gerações e estilos diferentes, todos são nomes importantes. Estes últimos citados são praticamente pioneiros no Brasil e, obviamente, surgiram antes da febre do rock nos anos 60. Ainda que tenham sido contemporâneos por estarem trabalhando na mesma época, com outros estilos e alguns também no rock.
+
+Os nomes que despontaram já no final da década foram Sérgio Dias Batista, Lanny Gordon e Pepeu Gomes, que surgiu logo a seguir, entre outros. Antes, em meados da década, tivemos o Movimento Jovem Guarda, do qual participavam muitas bandas com seus guitarristas. Merecem ser citados o gato do Jet Blacks, Aladdin, do Jordan Risonho e Mingo dos clubbers, depois transformados em Incríveis. Outros surgiam, desapareciam da mídia.
+
+Alguns guitarristas fizeram história e ajudaram a divulgar a música brasileira no exterior. Desconhecidos do público brasileiro têm seu valor reconhecido no exterior.
+
+Nos anos 80 e 90, surgiram guitarristas brasileiros em muito maior proporção do que nas décadas anteriores, mas ainda em processo de reconhecimento oficial. Alguns poucos estavam na mídia. A questão é que no Brasil permanece uma confusão na distinção do eventual cantor que se acompanha com uma guitarra elétrica e não é necessariamente guitarrista engajado no estudo do instrumento e não necessariamente se distingue daquele que é engajado no estudo do instrumento, daquele que é músico de fato.
+
+A questão é que no Brasil permanece uma confusão da distinção do eventual cantor que se acompanha com uma guitarra elétrica e não é necessariamente guitarrista engajado no estudo do instrumento, não se distingue daquele que de fato é músico ou instrumentista e está criando um estilo que tem e desenvolve técnica e conhecimento de harmonia, compõe peças exclusivas para o instrumento, etc. Contribui, enfim, para a evolução da guitarra mundial. Este, porém, não é percebido pela grande mídia e, por conseguinte, pelo público.
+
+Lembro que a guitarra elétrica pode ser usada em qualquer estilo de música, inclusive a brasileira, embora tenha se desenvolvido nos EUA.
+
+A guitarra elétrica é hoje um instrumento universal e, portanto, tão brasileiro quanto o violão, que é uma guitarra também, porém acústica, que outrora foi importado e atualmente também pertence à nossa cultura. Ainda é difícil fazer uma árvore genealógica da guitarra brasileira. Não houve tempo histórico para o reconhecimento social e musical de quanto esse instrumento pode ter influenciado e mesmo alterado o curso da nossa música popular. Trabalho para os doutorados, para os doutorandos em música que estão sempre desenvolvendo trabalhos assim. Esta é uma tarefa difícil, que requer um levantamento enorme, uma busca enorme, uma pesquisa enorme, típica para os doutorandos em música, os quais alguns deles realmente se comprometem com esse tipo de trabalho.
+
+Portanto, conheça os modelos mais famosos: (Pesquise o som de cada uma delas)
 
 <img src="https://github.com/user-attachments/assets/b3ce9c7a-e902-4946-82f1-cf57e1baec02" align="right" height="377">
 
