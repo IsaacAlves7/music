@@ -217,8 +217,8 @@ O **Jack** que é a entrada do **cabo P10** que conecta nos <a href="https://git
 
 Mesmo com todas essas especificações, a guitarra também conta com ferramentas de ataque das cordas chamada de **palheta** e um **capotraste** para simular a famosa técnica chamada pestana, deixando o som mais encorpado ao tocas os acordes, o que facilita para não trocar de afinação nas cordas.
 
-> [!Caution]
-> Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também. 
+> [!Warning]
+> Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também. Outra dica importante é sobre os pedais e pedaleiras, muito cuidado com a fonte e a voltagem, se você quer que o tempo de vida útil dela dure por bastante tempo, sugiro a você não remover ela continuamente do aparelho, faça desmontagens quando for bastante necessário, pois qualquer dano na fonte pode resultar na perda dela ou mal funcionamento do aparelho. 
 
 # 🔊 Amplificadores
 <img src="https://github.com/user-attachments/assets/2e9b036b-c98f-4d1e-acc8-00901ecd22b8" align="right" height="377">
