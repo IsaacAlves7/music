@@ -182,7 +182,7 @@ Marcas de guitarra começaram a surgir no mundo inteiro Inglaterra, Alemanha, Ja
 
 A Ibanez, a área fundada em 1956 por Shiro Area, que criou a Area Company e tantas outras.
 
-No Brasil este processo começou mais ou menos por volta dos anos 50.
+No Brasil, este processo começou mais ou menos por volta dos anos 50.
 
 Antes de iniciar a história da guitarra no Brasil, é importante lembrar que os instrumentos de corda normalmente que nós chamamos aqui no Brasil de violão, na realidade, trata se de uma guitarra (Acoustic guitar), não existe o nome violão. Violão é aumentativo de viola. Então, a viola caipira, por exemplo, no Brasil, é uma espécie de violão.
 
