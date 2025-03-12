@@ -8,7 +8,13 @@ A **música** é a arte de organizar sons e silêncios ao longo do tempo, combin
 
 A matéria prima da música é o **som** que é o elemento mais básico da música, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
 
-A **duração** se relaciona com a rítmica musical e a duração do som. A **rítmica** é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de **harmonia**. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento).
+A **duração** se relaciona com a rítmica musical e a duração do som. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A **rítmica** é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados.
+
+- Ritmo musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável.
+
+- Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
+
+Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto a rítmica pode envolver teoria, prática e até mesmo abordagens pedagógicas para desenvolver o senso de ritmo. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de **harmonia**.
 
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
