@@ -118,9 +118,7 @@ A primeira menção publicação consistente e conhecida sobre uma guitarra elé
 
 Em 1950, Léo Fender lançou a guitarra Telecaster e em 1954, foi lançada o modelo Stratocaster.
 
-Antes de iniciar a história da guitarra no Brasil, é importante lembrar que os instrumentos de corda normalmente que nós chamamos aqui no Brasil de violão, na realidade, trata se de uma guitarra, não existe o nome violão. Violão é aumentativo de viola. Então, a viola caipira, por exemplo, no Brasil, é uma espécie de violão.
-
-
+Antes de iniciar a história da guitarra no Brasil, é importante lembrar que os instrumentos de corda normalmente que nós chamamos aqui no Brasil de violão, na realidade, trata se de uma guitarra (Acoustic guitar), não existe o nome violão. Violão é aumentativo de viola. Então, a viola caipira, por exemplo, no Brasil, é uma espécie de violão.
 
 Conheça os modelos mais famosos: (Pesquise o som de cada)
 
