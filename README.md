@@ -134,45 +134,13 @@ Porém, não eram guitarras maciças. Eram guitarras acústicas, portanto semi a
 
 O mundo vivia a Segunda Guerra nessa época dos anos 40, e essas guitarras eram tocadas nas big bands que animavam bailes.
 
-Portanto, eram guitarras acústicas, pois ainda não existiam as maciças, embora na Bahia Dodô já trabalhava
+Portanto, eram guitarras acústicas, pois ainda não existiam as maciças, embora na Bahia Dodô já trabalhava com o corpo maciço. Portanto, podemos supor que em outras cidades brasileiras poderia haver, se não construtores de instrumentos, pelo menos pessoas que os consertavam.
 
-com o corpo maciço.
+O que se sabe, na realidade, é que luthiers que fabricavam violões e fábricas de instrumentos de corda começaram a fazer experimentos na área da guitarra elétrica na capital de São Paulo. Ali surgiram algumas das principais marcas e modelos, bem como os principais luthiers de empresas. O pioneiro da guitarra elétrica no Brasil, ou seja, o primeiro luthier a montar uma guitarra elétrica ainda nos anos 50, foi Victório Quintiliano, falecido nos anos 90.
 
-Portanto, podemos supor que em outras cidades brasileiras poderia haver, se não construtores de instrumentos,
+Ele trabalhou na fábrica de violões Del Vecchio durante 25 anos. Depois, passou a atender seus clientes em casa, onde tinha um pequeno ateliê. O senhor Vitório, como era chamado pelos guitarristas, construiu muitos exemplares de modelos diversos de guitarra que se tornaram verdadeiras relíquias.
 
-pelo menos pessoas que os consertavam.
-
-O que se sabe, na realidade, é que luthiers que fabricavam violões e fábricas de instrumentos de corda
-
-começaram a fazer experimentos na área da guitarra elétrica na capital de São Paulo.
-
-Ali surgiram algumas das principais marcas e modelos, bem como os principais luthiers de empresas.
-
-O pioneiro da guitarra elétrica no Brasil, ou seja, o primeiro luthier a montar uma guitarra elétrica
-
-ainda nos anos 50, foi Victório Quintiliano, falecido nos anos 90.
-
-Ele trabalhou na fábrica de violões Del Vecchio durante 25 anos.
-
-Depois, passou a atender seus clientes em casa, onde tinha um pequeno ateliê.
-
-O senhor Vitório, como era chamado pelos guitarristas, construiu muitos exemplares de modelos diversos
-
-de guitarra que se tornaram verdadeiras relíquias.
-
-Nos anos 60, com a febre do rock, empresas como a Del Vecchio e a antiga tradicional Tranquillo Giannini
-
-começaram a fabricar guitarras elétricas que praticamente dominaram o mercado.
-
-Mas outros fabricantes e luthiers também tentavam produzir modelos de guitarra de maneira artesanal
-
-ou em série, cujos shapes eram cópias das importadas.
-
-Surgiram assim várias marcas de instrumentos, como a Felpa, que também produzia amplificadores, e
-
-a Béjart, criada por Romeo Benvenutti, que construía exemplares muito elogiados pelos músicos da época.
-
-Ele era irmão de Lídio Benvenutti, o Nenê, conhecido nacionalmente por ser um dos integrantes dos clubbers, uma das mais famosas bandas de rock da década de 60, transformada anos mais tarde na banda no grupo musical Os Incríveis.
+Nos anos 60, com a febre do rock, empresas como a Del Vecchio e a antiga tradicional Tranquillo Giannini começaram a fabricar guitarras elétricas que praticamente dominaram o mercado. Mas outros fabricantes e luthiers também tentavam produzir modelos de guitarra de maneira artesanal ou em série, cujos shapes eram cópias das importadas. Surgiram assim várias marcas de instrumentos, como a Felpa, que também produzia amplificadores, e a Béjart, criada por Romeo Benvenutti, que construía exemplares muito elogiados pelos músicos da época. Ele era irmão de Lídio Benvenutti, o Nenê, conhecido nacionalmente por ser um dos integrantes dos clubbers, uma das mais famosas bandas de rock da década de 60, transformada anos mais tarde na banda no grupo musical Os Incríveis.
 
 Conheça os modelos mais famosos: (Pesquise o som de cada)
 
