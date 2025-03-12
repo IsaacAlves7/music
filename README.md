@@ -112,6 +112,34 @@ Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geral
 
 Sobre a história da **guitarra** (guitar), que é um instrumento musical derivado do violão. A necessidade de ter um instrumento elétrico começou em 1880, nos anos 80, pois houve uma crise onde o violão erudito não atendia as demandas de práticas em grupo. Foi uma evolução de harpa, violão e guitarra, onde foi necessária para atender essas metas.
 
+Antes de iniciarmos a história da guitarra nos Estados Unidos e no Brasil, devemos retornar no tempo para compreendermos melhor o processo de evolução deste instrumento.
+
+No Egito Antigo, alguns séculos antes de Cristo, existiam instrumentos de cordas que mais tarde originaram, na Grécia antiga, a chamada guitarra ou **cítara**, que evoluiu até chegar na cítara usada pelos hindus.
+
+É óbvio que não temos um conhecimento preciso da evolução dos instrumentos em tempos remotos, porém, muitas informações são conseguidas através de estudos arqueológicos, documentos antigos, etc, que permitem Reconstruirmos a história Já na Idade Média, portanto, alguns séculos depois de Cristo, com a invasão da Península Ibérica.
+
+Os mouros, que eram nômades e tinham elementos da cultura árabe, introduziram na Espanha um instrumento provavelmente originado do alaúde de origem árabe. Depois aperfeiçoado nas suas formas anatômicas pelos espanhóis, passou a se chamar guitarra e tornou se conhecido no mundo como guitarra espanhola.
+
+Apenas no Brasil e em Portugal é chamado violão. Na verdade, há controvérsias sobre a origem da guitarra espanhola.
+
+Os espanhóis praticamente desenvolveram a técnica deste instrumento através do conhecido violão flamenco. Entretanto, muitos autores de peças para o violão de séculos anteriores faziam composições em outras formas musicais correspondentes a sua época, bem como transcrições de músicas de seus respectivos períodos barroco, clássico, romântico, etc.
+
+De alguma maneira, eles contribuíram para a formação da técnica do instrumento, tendo por base os elementos já constituídos na própria música.
+
+Nos Estados Unidos, no final do século XIX, Orville Gibson construía violões, foi o primeiro a colocar cordas de aço neles. Paralelamente a outros, como Martin, por exemplo.
+
+Em 1918, Gibson morreu, mas sua empresa continuou funcionando, mal sabia ele que, décadas mais tarde, as guitarras construídas com o seu nome tornariam se tão famosas mundialmente que monopolizaram o mercado ao lado da Fender do famoso Leo Fender. Dois anos após sua morte, Lloyd Lower passou a trabalhar para Gibson, onde ficaria por quatro anos.
+
+Acredita se que tenha sido o primeiro a experimentar captadores no violão, evoluindo até chegar nas guitarras semi acústicas dos anos 30 ou 40.
+
+Antes, porém, nos anos 20 da década de 20, tanto a música como a guitarra havaiana eram populares nos Estados Unidos.
+
+Em 1931, o conhecido Adolph Rickenbacker, que já fabricava componentes metálicos para violões, associado a dois outros empresários que trabalhavam no princípio de captador magnético. Começou a produzir as primeiras guitarras Havaianas Elétricas. Os três contribuíram para a criação da primeira guitarra elétrica maciça.
+
+Nos anos 1930, o veterano guitarrista e luthier **Les Paul** experimentava captadores nos violões, mas encontrava problemas de ressonância e feedback. Quando soube da criação do violino maciço pelo inventor Thomas Edison, teve a ideia de construir uma guitarra maciça para resolver tais problemas.
+
+Conseguiu, em 1941, a concessão da empresa Epiphone para usar aos domingos suas oficinas. Construiu então a primeira guitarra maciça que se tornou célebre, chamada Long a Tora.
+
 Muitas pessoas, equivocadamente, acreditam que Les Paul foi o inventor da guitarra elétrica, mas o crédito deve ser atribuído ao músico George Beaicchamp e ao engenheiro elétrico Adolph Rickenbacker, que criaram a primeira guitarra elétrica amplificada e comercialmente viável.
 
 A primeira menção publicação consistente e conhecida sobre uma guitarra elétrica foi publicada em Wichita, no Kansas, em outubro de 1932, em um artigo do jornal local, o Wichita Beacon.
