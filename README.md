@@ -4,7 +4,7 @@
 # 🎼 Sound and Music Theory
 <img src="https://github.com/user-attachments/assets/9d302b8e-7efc-405e-ad90-050d97677f22" align="right" height="77">
 
-A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana.
+A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana. A grosso modo, nós poderíamos dizer que música é intervalos com duração.
 
 A matéria prima da música é o **som**, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fosse essas 4 propriedades do som, então não teria som, então não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
 
