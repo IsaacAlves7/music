@@ -10,6 +10,8 @@ A matéria prima da música é o **som** que é o elemento mais básico da músi
 
 A **duração** se relaciona com a rítmica musical e a duração do som. A rítmica é a porta de entrada da música, que é um dos elementos fundamentais. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento).
 
+A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
+
 A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Em inglês, grave e agudo na música são traduzidos como:
 
 - Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
