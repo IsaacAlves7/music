@@ -10,7 +10,7 @@ A matéria prima da música é o **som** que é o elemento mais básico da músi
 
 A **duração** se relaciona com a rítmica musical e a duração do som. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A **rítmica** é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados.
 
-- Ritmo musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável.
+- Ritmo musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável. Ritmo do grego _rhytmus_  movimento igual e simétrico, é a ordem a que obedecem os sons em valores de duração variáveis dentro do discurso musical, O ritmo é o elemento nº 1 da música. Para alguns estilos de música é visceral, porque eles se sustentam a partir do seu discurso. O senso rítmico é a primeira condição de um músico; Ou nascemos com ele ou o desenvolvemos com exercícios.
 
 - Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
 
