@@ -14,7 +14,7 @@ A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado
 
 O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
 
-A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. 
+A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). 
 
 Em inglês, grave e agudo na música são traduzidos como:
 
