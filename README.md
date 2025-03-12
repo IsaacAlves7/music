@@ -144,7 +144,45 @@ Muitas pessoas, equivocadamente, acreditam que Les Paul foi o inventor da guitar
 
 A primeira menção publicação consistente e conhecida sobre uma guitarra elétrica foi publicada em Wichita, no Kansas, em outubro de 1932, em um artigo do jornal local, o Wichita Beacon.
 
+Em 1941, ainda nos Estados Unidos, um técnico que consertava rádios chamado Leo Fender ou Leo Fender associou se a um ex-empregado da Rickenbacker e juntos começaram a produzir uma série de amplificadores e Steel Guitars Steel Guitars.
+
+São guitarras de colo tipo havaianas, usadas até hoje, inclusive na música country. Leo Fender projetou um novo tipo de captador que experimentou em uma guitarra maciça. A partir de sua demonstração, a guitarra passou a ser procurada pelos músicos. Depois de ter rompido com o sócio, abriu sua própria empresa, a Fender Electric Instrument Company, e criou a guitarra Fender modelo Broadcast, por volta de 1948. Mais tarde produziria os principais modelos Fender, Telecaster e Stratocaster.
+
+Segundo depoimento do próprio Les Paul, o hoje falecido e famoso Leo Fender o teria interrogado e sondado sobre seus projetos da guitarra maciça.
+
+Em 1947, Paul Bixby criou uma guitarra elétrica muito semelhante à Broad Caster de Leo Fender. Deixando dúvidas sobre quem teria sido o primeiro a fazer tal shape, shape e o formato.Muito provavelmente outros tantos devem ter feito experiências nesta área. Paralelamente a estes citados não só nos Estados Unidos, mas em todo o mundo.
+
+Entretanto, os pioneiros bem sucedidos parecem ter sido os referidos aqui. Lembro que a Fender e a Gibson, as duas marcas de guitarra mais famosas no mundo, também fabricam cordas para guitarra, baixo e etc. A Fender ainda fabrica amplificadores para baixo e guitarra que sempre foram bem conceituados.
+
 Em 1950, Léo Fender lançou a guitarra Telecaster e em 1954, foi lançada o modelo Stratocaster.
+
+Em 1965, Leo Fender vendeu a sua marca patente para então famosa CBS Columbia Broadcasting System. Que, segundo se sabe, não se saiu muito bem no mercado.
+
+Leo Fender então, passou a produzir para a não menos famosa fábrica de guitarras e amplificadores Musicman.
+
+Anos mais tarde, Leo Fender criou sua nova empresa com mais um sócio, a General Instruments, que fabricava guitarras. Criaram também a marca de pickups chamada Factory.
+
+Nos anos 80, já bem idoso, Leo Fender faleceu.
+
+O veterano Les Paul teve o seu nome adotado em um modelo de guitarra em 1952 pela Gibson, que se tornou a mais famosa marca de guitarra do mundo ao lado da Fender. A Gibson criou outros tantos modelos não menos importantes com nomes de guitarristas famosos.
+
+Às tantas, marcas de guitarras surgiram nos EUA, bem como grandes luthiers. John Angelico, por exemplo, ficou famoso criando modelos que entraram para a história.
+
+A empresa da Elektro que existiu entre os anos 50 e 60, fabricou instrumentos que se tornaram verdadeiras relíquias históricas. Utilizavam captadores de Hammond, igualmente famosos e bem conceituados.
+
+Na década de 80, Bob Benedetto era considerado um dos maiores luthiers da América, tendo sido proclamado o Stradivarius da guitarra em Nova York.
+
+Jean Suhr era outro respeitado construtor de guitarra. Ainda nos anos 1950.
+
+Destacava se entre as empresas a Freddie Gretsch Enterprises, responsável pela famosa guitarra Gretsch. A Freddie fabricava violões, mas em 1955 lançou seu primeiro modelo de guitarra maciça e a seguir um modelo semi acústico chamada White Falcon, na época a guitarra mais cara do mundo.
+
+A Guild fábrica de guitarras, fundada nos anos 50 por Albert Drum, adquiriu grande parte dos seus equipamentos industriais e pessoal de produção da Gibson quando esta comprou a Epiphone em 1957, e produziu seus primeiros modelos acústicos para músicos de jazz. Mais tarde, fabricou maciças com shapes e designs inovadores para a época, como a Polara e a Shoulder Bird.
+
+Marcas de guitarra começaram a surgir no mundo inteiro Inglaterra, Alemanha, Japão, Brasil, etc. Algumas conquistaram o mundo.
+
+A Ibanez, a área fundada em 1956 por Shiro Area, que criou a Area Company e tantas outras.
+
+No Brasil este processo começou mais ou menos por volta dos anos 50.
 
 Antes de iniciar a história da guitarra no Brasil, é importante lembrar que os instrumentos de corda normalmente que nós chamamos aqui no Brasil de violão, na realidade, trata se de uma guitarra (Acoustic guitar), não existe o nome violão. Violão é aumentativo de viola. Então, a viola caipira, por exemplo, no Brasil, é uma espécie de violão.
 
