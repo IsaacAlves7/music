@@ -12,7 +12,11 @@ A **duração** se relaciona com a rítmica musical e a duração do som. A rít
 
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
-A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. Em inglês, grave e agudo na música são traduzidos como:
+O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
+
+A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta. 
+
+Em inglês, grave e agudo na música são traduzidos como:
 
 - Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
 - Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
