@@ -534,6 +534,7 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 ## Leitura
 Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
+> [!NOTE]
 > Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra.
 
 As notas musicais podem ser identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
