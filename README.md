@@ -587,12 +587,9 @@ O tom original `A` (Lá maior) nessa tonalidade é bastante comum em músicas do
 - G#° (Sol sustenido diminuto)
 
 ## Técnicas
-> Pestana, CAGED, Tocar de ouvido, Velocidade, Independência dos dedos
+> Pestana, CAGED, Tocar de ouvido, Velocidade, Independência dos dedos, Riffs e Licks, Grooves e Medley
 
 A técnica pestana é feita quando colocamos o nosso dedo o mais perto possível do traste.
-
-## Groove
-Riffs, Grooves e Medley
 
 ## Palm muting
 
