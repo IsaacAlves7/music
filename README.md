@@ -45,6 +45,7 @@ A **altura** do som é a propriedade que define se um som é **grave**, **médio
 Em inglês, grave e agudo na música são traduzidos como:
 
 - Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
+- Médio = **Middle** (Meio) (quando se refere à região média em geral)
 - Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
 
 Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
