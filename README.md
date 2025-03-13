@@ -24,11 +24,11 @@ Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto 
 |--------|---------|-------  | ----- | ------ |
 | `𝅝`    | Semibreve |  1    |  | `𝄻` |
 | `𝅗𝅥`    | Mínima  |   2    |   | `𝄼` |
-| `𝅘𝅥` | Semínima   | 4   |   |  |
-| `𝅘𝅥𝅮` | Colcheia   |  6   |    |  | 
-| `𝅘𝅥𝅯` | Semicolcheia  | 16 |  |  |
-| `𝅘𝅥𝅰` | Fusa  | 32 |  |  |
-| `𝅘𝅥𝅱` | Semifusa  | 64  |  |  |
+| `𝅘𝅥` | Semínima   | 4   |   | `𝄽` |
+| `𝅘𝅥𝅮` | Colcheia   |  6   |    | `𝄾` | 
+| `𝅘𝅥𝅯` | Semicolcheia  | 16 |  | `𝄿` |
+| `𝅘𝅥𝅰` | Fusa  | 32 |  | `𝅀` |
+| `𝅘𝅥𝅱` | Semifusa  | 64  |  | `𝅁` |
 
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
