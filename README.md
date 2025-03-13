@@ -20,6 +20,16 @@ A **duração** se relaciona com a rítmica musical e a duração do som. É o t
 
 Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto a rítmica pode envolver teoria, prática e até mesmo abordagens pedagógicas para desenvolver o senso de ritmo. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia.
 
+| Figuras  | Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
+|--------|---------|-------  | ----- | ------ |
+| `𝅝`    | Semibreve |  1    |  | `𝄻` |
+| `𝅗𝅥`    | Mínima  |   2    |   | `𝄼` |
+| `𝅘𝅥` | Semínima   | 4   |   |  |
+| `𝅘𝅥𝅮` | Colcheia   |  6   |    |  | 
+| `𝅘𝅥𝅯` | Semicolcheia  | 16 |  |  |
+| `𝅘𝅥𝅰` | Fusa  | 32 |  |  |
+| `𝅘𝅥𝅱` | Semifusa  | 64  |  |  |
+
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
 O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
