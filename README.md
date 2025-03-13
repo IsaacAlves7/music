@@ -139,13 +139,13 @@ O cavaco (cavaquinho), por sua vez, é um instrumento típico da música brasile
 
 Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geralmente associado à música havaiana e tem um som mais suave e característico. Cada um desses instrumentos possui técnicas de execução, timbres e finalidades musicais próprias, o que os diferencia da guitarra em termos de design, afinação e uso em diferentes gêneros musicais. Portanto, embora compartilhem a característica de serem instrumento de corda, eles não são classificados como guitarra.
 
-|   | cavaco | ukulele | baixo | guitarra |
-|--------|---------|-------  | ----- | ------ |
-| Afinação | (DGBD)  |  (GCEA)     | (EADG) / (BEADG) / (BEADGC) | (EADGBE) |
-| Encordamento | Aço  |  Nylon     | Aço  | Aço |
-| Espaço entre as cordas | Menor  |  Maior  | Maior  | Maior |
-| Altura do som | Agudo  |  Médio   |  Grave  | Agudo | 
-| Corpo | Largo  | Reduzido | Largo | Largo |
+|   | cavaco | ukulele | baixo | guitarra | viola |  
+|--------|---------|-------  | ----- | ------ |------ |
+| Afinação | (DGBD)  |  (GCEA)     | (EADG) / (BEADG) / (BEADGC) | (EADGBE) | (EBG#EB) |
+| Encordamento | Aço  |  Nylon     | Aço  | Aço | Nylon |
+| Espaço entre as cordas | Menor  |  Maior  | Maior  | Maior | Maior |
+| Altura do som | Agudo  |  Médio   |  Grave  | Agudo |  Grave  |
+| Corpo | Largo  | Reduzido | Largo | Largo | Largo |
 
 # 🎸 Guitar
 <img src="https://github.com/user-attachments/assets/d3e84a35-7d01-4077-87e0-d1232a6c2d66" align="right" height="77">
