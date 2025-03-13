@@ -1,5 +1,7 @@
-# 🎶 Music
-🎸🥁🎶 Music from scratch.
+![image](https://github.com/user-attachments/assets/51aaec0b-2015-40d7-85ce-69385232f6f5)
+
+# 🎶 It's a repository of music from scratch
+🎸🥁🎶 
 
 # 🎼 Sound and Music Theory
 <img src="https://github.com/user-attachments/assets/9d302b8e-7efc-405e-ad90-050d97677f22" align="right" height="77">
