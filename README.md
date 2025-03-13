@@ -22,13 +22,13 @@ Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto 
 
 | Figuras  | Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
 |--------|---------|-------  | ----- | ------ |
-| `𝅝`    | Semibreve |  1    |  | `𝄻` |
-| `𝅗𝅥`    | Mínima  |   2    |   | `𝄼` |
-| `𝅘𝅥` | Semínima   | 4   |   | `𝄽` |
-| `𝅘𝅥𝅮` | Colcheia   |  6   |    | `𝄾` | 
-| `𝅘𝅥𝅯` | Semicolcheia  | 16 |  | `𝄿` |
-| `𝅘𝅥𝅰` | Fusa  | 32 |  | `𝅀` |
-| `𝅘𝅥𝅱` | Semifusa  | 64  |  | `𝅁` |
+| `𝅝`    | Semibreve |  1    | 4 tempos | `𝄻` |
+| `𝅗𝅥`    | Mínima  |   2    | 2 tempos  | `𝄼` |
+| `𝅘𝅥` | Semínima   | 4   | 1 tempo  | `𝄽` |
+| `𝅘𝅥𝅮` | Colcheia   |  6   | 1/2 tempo  | `𝄾` | 
+| `𝅘𝅥𝅯` | Semicolcheia  | 16 | 1/4 tempo | `𝄿` |
+| `𝅘𝅥𝅰` | Fusa  | 32 | 1/8 tempo | `𝅀` |
+| `𝅘𝅥𝅱` | Semifusa  | 64  | 1/16 tempo | `𝅁` |
 
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
