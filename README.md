@@ -161,7 +161,7 @@ Antes de iniciarmos a história da guitarra nos Estados Unidos e no Brasil, deve
 
 No Egito Antigo, alguns séculos antes de Cristo, existiam instrumentos de cordas que mais tarde originaram, na Grécia antiga, a chamada guitarra ou **cítara**, que evoluiu até chegar na cítara usada pelos hindus.
 
-É óbvio que não temos um conhecimento preciso da evolução dos instrumentos em tempos remotos, porém, muitas informações são conseguidas através de estudos arqueológicos, documentos antigos, etc, que permitem Reconstruirmos a história Já na Idade Média, portanto, alguns séculos depois de Cristo, com a invasão da Península Ibérica.
+É óbvio que não temos um conhecimento preciso da evolução dos instrumentos em tempos remotos, porém, muitas informações são conseguidas através de estudos arqueológicos, documentos antigos, etc, que permitem reconstruirmos a história Já na Idade Média, portanto, alguns séculos depois de Cristo, com a invasão da Península Ibérica.
 
 Os mouros, que eram nômades e tinham elementos da cultura árabe, introduziram na Espanha um instrumento provavelmente originado do alaúde de origem árabe. Depois aperfeiçoado nas suas formas anatômicas pelos espanhóis, passou a se chamar guitarra e tornou se conhecido no mundo como guitarra espanhola.
 
