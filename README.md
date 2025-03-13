@@ -439,7 +439,7 @@ Os componentes básicos de um amplificador de guitarra incluem:
 - Pré-amplificador: processa e modela o sinal antes da amplificação principal
 - Seção de potência: amplifica o sinal para acionar os alto-falantes
 - Alto-falantes: convertem o sinal elétrico em ondas sonoras
-- Controles: volume, ganho, equalização (graves, médios, agudos), presença, etc.
+- Controles: volume, ganho, botão de drive (distorção), equalização (graves, médios, agudos), presença, etc.
 - Efeitos embutidos (em alguns modelos): reverb, tremolo, etc.
 
 A escolha do amplificador tem um impacto significativo no som final do guitarrista, sendo tão importante quanto a própria guitarra para definir a identidade sonora do músico.
