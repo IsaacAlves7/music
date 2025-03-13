@@ -143,8 +143,8 @@ Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geral
 |--------|---------|-------  | ----- | ------ |------ |
 | Afinação | (DGBD)  |  (GCEA)     | (EADG) / (BEADG) / (BEADGC) | (EADGBE) | (EBG#EB) |
 | Encordamento | Aço  |  Nylon     | Aço  | Aço | Nylon |
-| Espaço entre as cordas | Menor  |  Maior  | Maior  | Maior | Maior |
-| Altura do som | Agudo  |  Médio   |  Grave  | Agudo |  Grave  |
+| Espaço entre as cordas | Menor  |  Maior  | Maior  | Maior | Menor |
+| Altura do som | Agudo  |  Médio   |  Grave  | Agudo |  Médio  |
 | Corpo | Largo  | Reduzido | Largo | Largo | Largo |
 
 # 🎸 Guitar
