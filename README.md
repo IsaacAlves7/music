@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/51aaec0b-2015-40d7-85ce-69385232f6f5)
 
-# 🎶 It's a repository of music from scratch
+# 🎶 This repository is about music from scratch
 🎸🥁🎶 
 
 # 🎼 Sound and Music Theory
