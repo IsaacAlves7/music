@@ -731,7 +731,7 @@ A **cifra** é a forma de representar as notas musicais por letras, sendo identi
 
 A ordem se configura da seguinte forma e assim por diante:
 
-<img src="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3" align="right" height="477">
+<img src="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3" align="right" height="277">
 
 1. `C` - Dó
 2. `C#` - Dó sustenido
