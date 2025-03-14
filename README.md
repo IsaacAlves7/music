@@ -1,7 +1,7 @@
 <a href="https://github.com/IsaacAlves7/music"><img src="https://github.com/user-attachments/assets/51aaec0b-2015-40d7-85ce-69385232f6f5"></a>
 
 # 🎶 This repository is about music from scratch
-🎸🥁🎶 
+🎸🥁🎶 Esse é um repositório focado em música, com técnicas profissionais de grandes músicos de instrumentos de corda, canto, teclado e bateria. Através desse repositório você vai saber todos os segredos para evoluir no ramo musical.
 
 # 🎼 Sound and Music Theory
 <img src="https://github.com/user-attachments/assets/9d302b8e-7efc-405e-ad90-050d97677f22" align="right" height="77">
