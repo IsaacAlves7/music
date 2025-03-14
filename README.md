@@ -122,7 +122,7 @@ Existem sete notas musicais:
 
 Você precisa falar essas notas de forma ascendente e descendente, ou seja, dó, ré, mi, fá, sol, lá, si. E descendente: si, lá, sol, fá, mi, ré, dó.
 
-Como mencionado anteriormente, um **instrumento musical** é um objeto criado ou adaptado para produzir sons musicais, usado para criar melodias, ritmos ou harmonias. Portanto, temos muitos tipos de instrumentos, são caracterizados como:
+Pois bem, como mencionado anteriormente, um **instrumento musical** é um objeto criado ou adaptado para produzir sons musicais, usado para criar melodias, ritmos ou harmonias. Portanto, como temos muitos tipos de instrumentos, eles são caracterizados como:
 
 - Instrumentos de ritmo: instrumentos de percussão, **bateria**, bongô, atabaque, qualquer.
 
