@@ -713,12 +713,12 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 - Overdrive é mais suave e orgânico, enquanto Distortion e Fuzz (que também são tipos de Drive) são mais agressivos e comprimidos.
 
 ## Leitura
-Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
+Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
 > [!NOTE]
 > Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra.
 
-Existem muitos sistemas de notação musical, aprendemos a principal delas que é a <a href="">partitura</a> e ela não depende de letras. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). Caso esse seja seu primeiro contato com representações musicais, não se preocupe tanto com a partitura, procure antes decorar a representação por letras, que é bem mais simples.
+Existem muitos sistemas de notação musical, aprendemos a principal delas que é a <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">partitura</a> e ela não depende de letras. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). Caso esse seja seu primeiro contato com representações musicais, não se preocupe tanto com a partitura, procure antes decorar a representação por letras, que é bem mais simples.
 
 A **cifra** é a forma de representar as notas musicais por letras, sendo identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
