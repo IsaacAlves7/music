@@ -832,6 +832,9 @@ O **slide** é uma técnica de mão esquerda que consiste em deslizar o dedo, ai
 O símbolo é um / para slide ascendente ou \ para slide descendente, situado entre a casa em que se inicia o slide e a casa de chegada do slide. Esses símbolos também são usados para representar o uso do glissando nas tablaturas para slide guitar.
 
 ## Palm muting
+O **Palm muting** ou Abafamento é o ato de abafar as notas, é uma técnica que é realizada com a mão direita, posicionando a palma da mão sob o cavalete. É preciso cuidado para não pressionar demais, pois é importante manter a definição da altura da nota.
+
+O símbolo para essa técnica é `.` ou `–` indicando o início do abafamento e o final dele. Na tablatura de guitarra, esse símbolo pode vir acompanhado de p.m., sigla para palm muting.
 
 ## Vibrato
 O **vibrato** é outra técnica que altera a altura da nota sendo tocada. Contudo, não há necessidade de uma altura totalmente precisa – o importante é a oscilação constante da nota original por meio da vibração do dedo.
@@ -868,10 +871,10 @@ O **release** é uma técnica que só pode acontecer depois de um bend. Isso poi
 
 O símbolo é um `r` entre as casas onde se realiza o bend e o release. 
 
-## Abafamento
-Abafar as notas é uma técnica que é realizada com a mão direita, posicionando a palma da mão sob o cavalete. É preciso cuidado para não pressionar demais, pois é importante manter a definição da altura da nota.
+## Ghost note
+**Ghost notes** são o resultado de outra forma de abafamento de cordas, mas, dessa vez, com a mão esquerda. Nessa técnica, você vai pressionar os dedos levemente sob as cordas buscando não definir o som da nota, mas um ruído percussivo.
 
-O símbolo para essa técnica é `.` ou `–` indicando o início do abafamento e o final dele. Na tablatura de guitarra, esse símbolo pode vir acompanhado de p.m., sigla para palm muting.
+O símbolo para essa técnica é `x` sob a corda que deve ser pressionada.
 
 ## Setas de direção
 
