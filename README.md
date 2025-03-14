@@ -8,11 +8,17 @@
 
 A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana. A grosso modo, nós poderíamos dizer que música são _intervalos com duração_.
 
-Então, a matéria prima da música é o **som** que é o elemento mais básico da música, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fossem essas 4 propriedades do som, então não teria som, logo não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
+Então, a matéria prima da música é o **som** que é o elemento mais básico da música, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fossem essas 4 propriedades do som, então não teria som, logo não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música, veja abaixo:
 
-Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos.
+- A **duração** se relaciona com a **rítmica musical** e a **duração do som**. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A rítmica é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados. Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
 
-Os elementos principais de uma partitura são:
+- O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
+
+- A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia).
+
+- A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de **dinâmica**, então tem a ver com a interpretação.
+
+Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos. Os elementos principais de uma partitura são:
 
 O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
 
@@ -90,8 +96,6 @@ A **melodia** do grego _melos_ (canção), ode, é uma sucessão de sons isolado
 
 A **harmonia** palavra de origem grega que significa combinação dos sons, é a ciência que estuda a concatenação dos **Acordes** (Chords), ou melhor, a combinação das vozes que acompanham a Melodia principal. Na grafia musical, apresenta-se em sentido vertical. Cada Acorde que tocamos ao acompanhar (conduzir) uma música, se combinará com o anterior e o próximo e, principalmente, com a Melodia. O desenvolvimento da Harmonia é relativamente recente na história da música; já o Ritmo e a Melodia são muito mais antigos. O que se sabe é que a Harmonia começou a se desenvolver de maneira ainda incipiente, dando início à polifonia (várias vozes simultâneas), por volta do século XI ou XII. Mas só a partir do século XVI ou XVII (há aproximadamente 300 anos), com a Ópera. passou a ser tratada na forma moderna como a conhecemos hoje. No período barroco, ainda era baseada em várias linhas melódicas simultâneas.
 
-A **duração** se relaciona com a rítmica musical e a duração do som. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A **rítmica** é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados. Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
-
 Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto a rítmica pode envolver teoria, prática e até mesmo abordagens pedagógicas para desenvolver o senso de ritmo. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia. A música começa pela Rítmica, que é representada pela duração das notas indicadas pelas figuras de valores de notas com seus respectivos **compassos**. 
 
 ![image](https://github.com/user-attachments/assets/6788896a-7db6-4be4-a245-b93f9f353111)
@@ -109,12 +113,6 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 | `𝅘𝅥𝅯`     | Semicolcheia | 16 | 1/4 tempo | `𝄿` |
 | `𝅘𝅥𝅰`     | Fusa | 32 | 1/8 tempo | `𝅀` |
 | `𝅘𝅥𝅱`     | Semifusa | 64 | 1/16 tempo | `𝅁` |
-
-A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
-
-O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
-
-A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). 
 
 Em inglês, grave e agudo na música são traduzidos como:
 
