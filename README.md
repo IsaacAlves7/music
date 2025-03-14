@@ -6,7 +6,7 @@
 # 🎼 Sound and Music Theory
 <img src="https://github.com/user-attachments/assets/9d302b8e-7efc-405e-ad90-050d97677f22" align="right" height="77">
 
-A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana. A grosso modo, nós poderíamos dizer que música é _intervalos com duração_.
+A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana. A grosso modo, nós poderíamos dizer que música são _intervalos com duração_.
 
 Enfim, foi desenvolvido dentro de uma concepção do que é música através de seis elementos, dos quais tem três que são mais importantes. Os três elementos da música mais importantes são o **ritmo**, **melodia** e **harmonia**.
 
