@@ -817,19 +817,55 @@ O tom original `A` (Lá maior) nessa tonalidade é bastante comum em músicas do
 - G#° (Sol sustenido diminuto)
 
 ## Técnicas
-> Pestana, CAGED, Tocar de ouvido, Velocidade, Independência dos dedos, Riffs e Licks, Grooves e Medley
+> Pestana, CAGED, Tocar de ouvido, Velocidade, Independência dos dedos, Riffs e Licks, Grooves, Medley
 
-A técnica pestana é feita quando colocamos o nosso dedo o mais perto possível do traste.
+A técnica **Pestana** é feita quando colocamos o nosso dedo o mais perto possível do traste. 
+
+Além da indicação das casas a serem tocadas, também podem aparecer símbolos na tablatura que indicam as técnicas que devem ser executadas. A seguir, vamos apresentar uma lista de símbolos que aparecem em uma tablatura de violão ou guitarra:
+
+## Slide
+O **slide** é uma técnica de mão esquerda que consiste em deslizar o dedo, ainda pressionando a corda, de uma determinada casa até uma outra casa alvo. Outro nome para essa técnica é portamento.
+
+O símbolo é um / para slide ascendente ou \ para slide descendente, situado entre a casa em que se inicia o slide e a casa de chegada do slide. Esses símbolos também são usados para representar o uso do glissando nas tablaturas para slide guitar.
 
 ## Palm muting
 
 ## Vibratos
 
 ## Pull off
+O **pull off** (ou ligado descendente) é outra técnica utilizada pela mão esquerda onde você toca duas notas com apenas um toque na mão direita.
+
+A segunda nota será realizada puxando (ou soltando) o dedo que está em uma determinada casa enquanto outro dedo da mão esquerda pressiona alguma casa anterior.
+
+O símbolo em tablaturas é o p na frente da nota a ser martelada. Em tablaturas de violão também pode ser um arco ligando de uma nota à outra (igual ao do hammer on).
 
 ## Hammer-On
+O **hammer on** (ou ligado ascendente) é uma técnica de mão esquerda onde você toca duas notas com apenas um toque na mão direita.
 
-## Release e Pré-Bend
+A segunda nota será realizada por meio de um ataque (como uma “martelada”) de outro dedo da mão esquerda.
+
+O símbolo em tablaturas de guitarra é um h na frente da nota a ser martelada.
+
+## Bend
+O **bend** é uma técnica mais comum na guitarra elétrica e até no baixo elétrico. Ela consiste em elevar a altura da nota que está sendo tocada empurrando a corda para cima. Dessa forma, você tensiona mais a corda e a altura da nota se eleva.
+
+O símbolo para o bend é um `b` entre a casa onde se faz o bend e a casa que corresponde ao número de semitons em que a nota será elevada com a técnica (meio-tom, tom ou tom e meio).
+
+O **Pré-Bend** é uma técnica de guitarra e outros instrumentos de corda na qual a nota é previamente esticada (bend) antes de ser tocada, e então solta gradualmente para voltar à afinação original. Essa técnica permite criar um efeito expressivo e melódico, simulando um slide vocal ou um choro na guitarra.  
+
+Para executar um pré-bend corretamente, o guitarrista precisa primeiro pressionar a corda e levantá-la (ou abaixá-la, dependendo da posição) até alcançar a altura desejada **antes de tocar a nota**. Depois, ao tocar a nota já elevada, ele pode **liberar a tensão lentamente** para criar um efeito descendente, conhecido como **pre-bend release**, ou simplesmente manter a nota sustentada na altura alterada.  
+
+Essa técnica é bastante utilizada no **blues, rock e metal**, sendo um recurso essencial para guitarristas que buscam maior expressividade em solos e fraseados. Para dominá-la, é importante desenvolver um bom controle auditivo, pois o guitarrista precisa saber exatamente até onde elevar a corda para alcançar a afinação correta antes mesmo de tocar a nota.
+
+## Release
+O **release** é uma técnica que só pode acontecer depois de um bend. Isso pois ela consiste no retorno da corda onde foi realizado o bend à altura e à tensão originais por meio da liberação da pressão na corda. 
+
+O símbolo é um `r` entre as casas onde se realiza o bend e o release. 
+
+## Abafamento
+Abafar as notas é uma técnica que é realizada com a mão direita, posicionando a palma da mão sob o cavalete. É preciso cuidado para não pressionar demais, pois é importante manter a definição da altura da nota.
+
+O símbolo para essa técnica é `.` ou `–` indicando o início do abafamento e o final dele. Na tablatura de guitarra, esse símbolo pode vir acompanhado de p.m., sigla para palm muting.
 
 ## Percepção
 Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (Tríades), Chord Melody Style, Tétrades
