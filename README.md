@@ -756,7 +756,7 @@ Os símbolos de ataque da corda são:
 - `●` = começa a ser tocado (a partir dele)
 - `○` = segue tocando
 
-<img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
+<img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="left" height="277">
 
 Sobre a posição das mãos e dedos para tocar o instrumento, é muito importante compreender o papel de cada dedo para tocar violão/guitarra. Há uma nomenclatura correta para eles, ajudando a lidar com a prática.
 
