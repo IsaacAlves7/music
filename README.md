@@ -28,15 +28,15 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 
 À seguir, vamos conhecer as principais figuras de notas com seus respectivos valores:
 
-| Figuras-| Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
-|--------|---------|--------| ----- | ------ |
-| `𝅝`--| Semibreve |-1--| 4 tempos | `𝄻` |
-| `𝅗𝅥`--| Mínima-|- 2--| 2 tempos-| `𝄼` |
-| `𝅘𝅥` | Semínima- | 4- | 1 tempo-| `𝄽` |
-| `𝅘𝅥𝅮` | Colcheia- |-6- | 1/2 tempo-| `𝄾` | 
-| `𝅘𝅥𝅯` | Semicolcheia-| 16 | 1/4 tempo | `𝄿` |
-| `𝅘𝅥𝅰` | Fusa-| 32 | 1/8 tempo | `𝅀` |
-| `𝅘𝅥𝅱` | Semifusa-| 64-| 1/16 tempo | `𝅁` |
+| Figuras | Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
+|-------- |---------|--------| ----- | ------ |
+| `𝅝`     | Semibreve | 1 | 4 tempos | `𝄻` |
+| `𝅗𝅥`     | Mínima | 2 | 2 tempos-| `𝄼` |
+| `𝅘𝅥`     | Semínima | 4 | 1 tempo-| `𝄽` |
+| `𝅘𝅥𝅮`     | Colcheia | 6 | 1/2 tempo-| `𝄾` | 
+| `𝅘𝅥𝅯`     | Semicolcheia | 16 | 1/4 tempo | `𝄿` |
+| `𝅘𝅥𝅰`     | Fusa | 32 | 1/8 tempo | `𝅀` |
+| `𝅘𝅥𝅱`     | Semifusa | 64 | 1/16 tempo | `𝅁` |
 
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
