@@ -718,6 +718,8 @@ Como vimos anteriormente sobre <a href="">som e teoria musical</a>, as **notas m
 > [!NOTE]
 > Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra.
 
+Existem muitos sistemas de notação musical, aprendemos a principal delas que é a <a href="">partitura</a> e ela não depende de letras. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). Caso esse seja seu primeiro contato com representações musicais, não se preocupe tanto com a partitura, procure antes decorar a representação por letras, que é bem mais simples.
+
 A **cifra** é a forma de representar as notas musicais por letras, sendo identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
 <img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
@@ -737,17 +739,9 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` -> Lá sustenido
 12. `B` –> Si  (H no alemão)
 
-Existe também outra representação para as notas musicais, que não depende de letras. É a famosa <a href="">partitura</a>. Você já deve ter visto por aí algo parecido com isto:
-
-![image](https://github.com/user-attachments/assets/872f2856-6229-474e-af42-fed8b7e6aaa7)
-
-Pois bem, isso é uma representação por partitura. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). 
-
-> Caso esse seja seu primeiro contato com representações musicais, não se preocupe tanto com a partitura, procure antes decorar a representação por letras, que é bem mais simples.
+Existe também a **tablatura** que é um sistema de notação musical usado principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero, significa que a corda deve ser tocada solta. Além dos números, a tablatura pode conter símbolos específicos para indicar técnicas como bends, hammer-ons, pull-offs, slides, vibratos e harmônicos, tornando-se uma ferramenta extremamente expressiva e completa para a execução de músicas. Por sua praticidade, a tablatura é amplamente utilizada em gêneros como rock, blues, folk e música popular em geral, permitindo que músicos aprendam músicas de forma rápida e intuitiva sem precisar interpretar símbolos rítmicos complexos, embora algumas tablaturas mais detalhadas incluam marcações de tempo. Esse sistema se tornou ainda mais acessível com a internet, onde há uma vasta quantidade de músicas transcritas em tablatura, ajudando tanto iniciantes quanto músicos experientes a aprender novas músicas e técnicas.
 
 <img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right">
-
-Existe também a **tablatura** que é uma forma de no
 
 Agora, um **acorde** (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. E essa representação da nota pelos acordes é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
