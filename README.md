@@ -8,55 +8,13 @@
 
 A **música** é a arte de organizar sons e silêncios ao longo do tempo, combinando elementos como melodia, harmonia e ritmo para expressar sentimentos, contar histórias ou simplesmente criar beleza sonora. Ela pode ser criada por vozes, instrumentos ou até mesmo sons eletrônicos, e atravessa culturas e épocas como uma forma universal de comunicação e expressão humana. A grosso modo, nós poderíamos dizer que música são _intervalos com duração_.
 
-Enfim, foi desenvolvido dentro de uma concepção do que é música através de seis elementos, dos quais tem três que são mais importantes. Os três elementos da música mais importantes são o **ritmo**, **melodia** e **harmonia**.
-
-O **ritmo** musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável. Ritmo do grego _rhytmus_ é um movimento igual e simétrico, é a ordem a que obedecem os sons em valores de duração variáveis dentro do discurso musical, O ritmo é o elemento nº 1 da música. Para alguns estilos de música é visceral, porque eles se sustentam a partir do seu discurso. O senso rítmico é a primeira condição de um músico; Ou nascemos com ele ou o desenvolvemos com exercícios.
-
-A **melodia** do grego _melos_ (canção), ode, é uma sucessão de sons isolados e combinados em alturas e valores diferentes, que obedecem um sentido lógico musical. Na grafia musical, apresenta-se em direção horizontal e é constituída de frases e períodos. Consideramos Melodia a música por excelência. Quando ouvimos um instrumento solo, seja de canto (voz humana) ou qualquer instrumento de sopro (saxofone, flauta, trompete) sempre estaremos ouvindo Melodia. Os instrumentos de cordas e teclados, por serem completos, isto é, podemos tocar melodia e harmonia em separado ou simultaneamente, oferecem a possibilidade do discurso Harmônico, além do Melódico, já obviamente incluído o discurso Rítmico, que sempre estará implícito em qualquer execução de qualquer instrumento. É importante ressaltar que toda Melodia estará dentro de uma Escala ou fazendo uso de mais de uma Escala ao mesmo tempo, arpejos ou notas “aleatórias“ dentro do Sistema Musical.
-
-A **harmonia** palavra de origem grega que significa combinação dos sons, é a ciência que estuda a concatenação dos **Acordes** (Chords), ou melhor, a combinação das vozes que acompanham a Melodia principal. Na grafia musical, apresenta-se em sentido vertical. Cada Acorde que tocamos ao acompanhar (conduzir) uma música, se combinará com o anterior e o próximo e, principalmente, com a Melodia. O desenvolvimento da Harmonia é relativamente recente na história da música; já o Ritmo e a Melodia são muito mais antigos. O que se sabe é que a Harmonia começou a se desenvolver de maneira ainda incipiente, dando início à polifonia (várias vozes simultâneas), por volta do século XI ou XII. Mas só a partir do século XVI ou XVII (há aproximadamente 300 anos), com a Ópera. passou a ser tratada na forma moderna como a conhecemos hoje. No período barroco, ainda era baseada em várias linhas melódicas simultâneas.
-
 Então, a matéria prima da música é o **som** que é o elemento mais básico da música, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fossem essas 4 propriedades do som, então não teria som, logo não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. No caso, das notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música.
 
-A **duração** se relaciona com a rítmica musical e a duração do som. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A **rítmica** é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados. Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
-
-Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto a rítmica pode envolver teoria, prática e até mesmo abordagens pedagógicas para desenvolver o senso de ritmo. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia. A música começa pela Rítmica, que é representada pela duração das notas indicadas pelas figuras de valores de notas com seus respectivos **compassos**. 
-
-![image](https://github.com/user-attachments/assets/6788896a-7db6-4be4-a245-b93f9f353111)
-
-O **compasso** é a organização rítmica de uma música, delimitada por pulsos regulares que se repetem ciclicamente ao longo do tempo. Ele é indicado na partitura por **barras de compasso** (`|`) e definido por um indicador numérico chamado **fórmula de compasso**, que especifica a quantidade de tempos em cada unidade e qual valor de nota representa cada tempo. O primeiro tempo de um compasso geralmente recebe uma acentuação mais forte, criando uma sensação de estrutura e organização rítmica na música. Existem compassos simples, onde cada tempo pode ser subdividido em duas partes, e compassos compostos, onde cada tempo se divide em três partes. Compassos binários, ternários e quaternários são os mais comuns, sendo que o binário tem dois tempos, o ternário tem três e o quaternário tem quatro. Além disso, existem compassos irregulares, que combinam diferentes subdivisões e criam padrões rítmicos complexos. O compasso é essencial para definir o andamento e a sensação rítmica da música, ajudando a guiar a execução dos músicos e a percepção dos ouvintes.
-
-À seguir, vamos conhecer as principais figuras de notas com seus respectivos valores:
-
-| Figuras | Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
-|-------- |---------|--------| ----- | ------ |
-| `𝅝`     | Semibreve | 1 | 4 tempos | `𝄻` |
-| `𝅗𝅥`     | Mínima | 2 | 2 tempos | `𝄼` |
-| `𝅘𝅥`     | Semínima | 4 | 1 tempo | `𝄽` |
-| `𝅘𝅥𝅮`     | Colcheia | 6 | 1/2 tempo | `𝄾` | 
-| `𝅘𝅥𝅯`     | Semicolcheia | 16 | 1/4 tempo | `𝄿` |
-| `𝅘𝅥𝅰`     | Fusa | 32 | 1/8 tempo | `𝅀` |
-| `𝅘𝅥𝅱`     | Semifusa | 64 | 1/16 tempo | `𝅁` |
-
-A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
-
-O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
-
-A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). 
-
-Em inglês, grave e agudo na música são traduzidos como:
-
-- Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
-- Médio = **Middle** (Meio) (quando se refere à região média em geral)
-- Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
-
-Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
-
-Sobre a leitura, as **partituras** são sistemas de escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos.
+Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos.
 
 Os elementos principais de uma partitura são:
 
-**Pentagrama**: conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
+O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
 
 ![image](https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283)
 
@@ -123,6 +81,48 @@ Existem sete notas musicais:
 7. Si
 
 Você precisa falar essas notas de forma ascendente e descendente, ou seja, dó, ré, mi, fá, sol, lá, si. E descendente: si, lá, sol, fá, mi, ré, dó.
+
+Enfim, foi desenvolvido dentro de uma concepção do que é música através de seis elementos, dos quais tem três que são mais importantes. Os três elementos da música mais importantes são o **ritmo**, **melodia** e **harmonia**.
+
+O **ritmo** musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável. Ritmo do grego _rhytmus_ é um movimento igual e simétrico, é a ordem a que obedecem os sons em valores de duração variáveis dentro do discurso musical, O ritmo é o elemento nº 1 da música. Para alguns estilos de música é visceral, porque eles se sustentam a partir do seu discurso. O senso rítmico é a primeira condição de um músico; Ou nascemos com ele ou o desenvolvemos com exercícios.
+
+A **melodia** do grego _melos_ (canção), ode, é uma sucessão de sons isolados e combinados em alturas e valores diferentes, que obedecem um sentido lógico musical. Na grafia musical, apresenta-se em direção horizontal e é constituída de frases e períodos. Consideramos Melodia a música por excelência. Quando ouvimos um instrumento solo, seja de canto (voz humana) ou qualquer instrumento de sopro (saxofone, flauta, trompete) sempre estaremos ouvindo Melodia. Os instrumentos de cordas e teclados, por serem completos, isto é, podemos tocar melodia e harmonia em separado ou simultaneamente, oferecem a possibilidade do discurso Harmônico, além do Melódico, já obviamente incluído o discurso Rítmico, que sempre estará implícito em qualquer execução de qualquer instrumento. É importante ressaltar que toda Melodia estará dentro de uma Escala ou fazendo uso de mais de uma Escala ao mesmo tempo, arpejos ou notas “aleatórias“ dentro do Sistema Musical.
+
+A **harmonia** palavra de origem grega que significa combinação dos sons, é a ciência que estuda a concatenação dos **Acordes** (Chords), ou melhor, a combinação das vozes que acompanham a Melodia principal. Na grafia musical, apresenta-se em sentido vertical. Cada Acorde que tocamos ao acompanhar (conduzir) uma música, se combinará com o anterior e o próximo e, principalmente, com a Melodia. O desenvolvimento da Harmonia é relativamente recente na história da música; já o Ritmo e a Melodia são muito mais antigos. O que se sabe é que a Harmonia começou a se desenvolver de maneira ainda incipiente, dando início à polifonia (várias vozes simultâneas), por volta do século XI ou XII. Mas só a partir do século XVI ou XVII (há aproximadamente 300 anos), com a Ópera. passou a ser tratada na forma moderna como a conhecemos hoje. No período barroco, ainda era baseada em várias linhas melódicas simultâneas.
+
+A **duração** se relaciona com a rítmica musical e a duração do som. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A **rítmica** é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados. Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
+
+Ou seja, o ritmo musical é um elemento específico dentro da música, enquanto a rítmica pode envolver teoria, prática e até mesmo abordagens pedagógicas para desenvolver o senso de ritmo. É aconselhado pela pedagogia musical iniciar com a rítmica musical, mas depois mais tarde passar para os instrumentos melódicos e mais tarde passar para os instrumentos de harmonia. A música começa pela Rítmica, que é representada pela duração das notas indicadas pelas figuras de valores de notas com seus respectivos **compassos**. 
+
+![image](https://github.com/user-attachments/assets/6788896a-7db6-4be4-a245-b93f9f353111)
+
+O **compasso** é a organização rítmica de uma música, delimitada por pulsos regulares que se repetem ciclicamente ao longo do tempo. Ele é indicado na partitura por **barras de compasso** (`|`) e definido por um indicador numérico chamado **fórmula de compasso**, que especifica a quantidade de tempos em cada unidade e qual valor de nota representa cada tempo. O primeiro tempo de um compasso geralmente recebe uma acentuação mais forte, criando uma sensação de estrutura e organização rítmica na música. Existem compassos simples, onde cada tempo pode ser subdividido em duas partes, e compassos compostos, onde cada tempo se divide em três partes. Compassos binários, ternários e quaternários são os mais comuns, sendo que o binário tem dois tempos, o ternário tem três e o quaternário tem quatro. Além disso, existem compassos irregulares, que combinam diferentes subdivisões e criam padrões rítmicos complexos. O compasso é essencial para definir o andamento e a sensação rítmica da música, ajudando a guiar a execução dos músicos e a percepção dos ouvintes.
+
+À seguir, vamos conhecer as principais figuras de notas com seus respectivos valores:
+
+| Figuras | Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
+|-------- |---------|--------| ----- | ------ |
+| `𝅝`     | Semibreve | 1 | 4 tempos | `𝄻` |
+| `𝅗𝅥`     | Mínima | 2 | 2 tempos | `𝄼` |
+| `𝅘𝅥`     | Semínima | 4 | 1 tempo | `𝄽` |
+| `𝅘𝅥𝅮`     | Colcheia | 6 | 1/2 tempo | `𝄾` | 
+| `𝅘𝅥𝅯`     | Semicolcheia | 16 | 1/4 tempo | `𝄿` |
+| `𝅘𝅥𝅰`     | Fusa | 32 | 1/8 tempo | `𝅀` |
+| `𝅘𝅥𝅱`     | Semifusa | 64 | 1/16 tempo | `𝅁` |
+
+A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
+
+O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som.
+
+A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). 
+
+Em inglês, grave e agudo na música são traduzidos como:
+
+- Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
+- Médio = **Middle** (Meio) (quando se refere à região média em geral)
+- Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
+
+Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
 
 Pois bem, como mencionado anteriormente, um **instrumento musical** é um objeto criado ou adaptado para produzir sons musicais, usado para criar melodias, ritmos ou harmonias. Portanto, como temos muitos tipos de instrumentos, eles são caracterizados como:
 
