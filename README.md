@@ -63,9 +63,9 @@ Os elementos principais de uma partitura são:
 No início do uso da pauta usava-se apenas uma linha colorida, datada do século IX. Tempos depois outras linhas foram sendo acrescentadas, o pentagrama que usamos hoje, estabelecido no século XI, foi definitivamente usado a partir do século XVII. São 5 linhas e 4 espaços entre elas. As linhas e epaços são contadas de baixo para cima.
 
 <div align="center">
-- <img src="https://github.com/user-attachments/assets/8a5c074d-496b-42bb-885a-5d7963d4d123">
-- 
-- Alleluia in Vigilia Nativitatis
+<img src="https://github.com/user-attachments/assets/8a5c074d-496b-42bb-885a-5d7963d4d123">
+
+Alleluia in Vigilia Nativitatis
 </div>
 
 As pautas surgiram na Idade Média. Foram aperfeiçoadas por Guido D'Arezzo para representar as alturas das notas musicais, suas durações e o compasso da música, nos ensinamentos de música e no canto gregoriano. As primeiras pautas tinham uma única linha e eram colocadas sobre a letra da canção. A altura era representada pela distância das notas em relação à linha. Como isso não era muito preciso, o sistema evoluiu gradativamente para uma pauta de quatro linhas, chamada de tetragrama.
