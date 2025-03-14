@@ -748,7 +748,7 @@ A ordem se configura da seguinte forma e assim por diante:
 
 <img src="https://github.com/user-attachments/assets/07c21bea-88e5-4c21-b1f3-4af56bc847e8" align="right" height="177">
 
-Existe também a **tablatura** que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero
+Existe também a **tablatura** (TAB) que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero
 (`0`), significa que a corda deve ser tocada solta. Normalmente, vamos utilizar a tablatura para acordes, notas, solos porque ela tem melodias muito interessantes. A tablatura é composta por seis linhas e cada linha vai representar uma corda. 
 
 <img src="https://github.com/user-attachments/assets/1b6f80f9-3f9f-46c5-abde-e265ede6bdfd" align="right">
@@ -830,7 +830,10 @@ O símbolo é um / para slide ascendente ou \ para slide descendente, situado en
 
 ## Palm muting
 
-## Vibratos
+## Vibrato
+O **vibrato** é outra técnica que altera a altura da nota sendo tocada. Contudo, não há necessidade de uma altura totalmente precisa – o importante é a oscilação constante da nota original por meio da vibração do dedo.
+
+O símbolo é `~` ao lado ou acima da casa.
 
 ## Pull off
 O **pull off** (ou ligado descendente) é outra técnica utilizada pela mão esquerda onde você toca duas notas com apenas um toque na mão direita.
@@ -867,15 +870,15 @@ Abafar as notas é uma técnica que é realizada com a mão direita, posicionand
 
 O símbolo para essa técnica é `.` ou `–` indicando o início do abafamento e o final dele. Na tablatura de guitarra, esse símbolo pode vir acompanhado de p.m., sigla para palm muting.
 
-## Percepção
-Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (Tríades), Chord Melody Style, Tétrades
+## Setas de direção
 
-## Estilos
+## Percepção
+Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (Tríades), Chord Melody Style, Tétrades, Velocidade Rítmica
+
+# 🎶 Estilos
 Blues, Rock, Pop, Jazz, MPB e Gospel
 
-## Velocidade Rítmica
-
-## Solo e base
+# 🎵 Solo e base
 
 # 🥁 Drum
 
