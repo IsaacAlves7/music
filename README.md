@@ -749,11 +749,17 @@ A ordem se configura da seguinte forma e assim por diante:
 Existe também a **tablatura** que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero
 (`0`), significa que a corda deve ser tocada solta. Normalmente, vamos utilizar a tablatura para acordes, notas, solos porque ela tem melodias muito interessantes. A tablatura é composta por seis linhas e cada linha vai representar uma corda. 
 
-<img src="https://github.com/user-attachments/assets/1b6f80f9-3f9f-46c5-abde-e265ede6bdfd" align="right" height="177">
+<img src="https://github.com/user-attachments/assets/1b6f80f9-3f9f-46c5-abde-e265ede6bdfd" align="right">
 
 As cordas agudas estão representadas na parte superior da tablatura, e as cordas graves na parte inferior. Dessa forma, temos uma disposição invertida do que vemos no braço do instrumento. Outra vantagem da tablatura é que as linhas não representam notas fixas. Portanto, elas podem ter qualquer afinação. Nesse sentido, é necessário prestar atenção à afinação utilizada, geralmente localizada no lado esquerdo da tablatura, ao lado das linhas. Um último elemento básico da tablatura são os números que ficam posicionados em cima das linhas. Esses números representam as casas que devem ser pressionadas pelos dedos da mão esquerda (ou direita para canhotos). O número 0 (zero) corresponde à corda solta.
 
 ![image](https://github.com/user-attachments/assets/01bc235e-211f-4567-8d7b-4232f0349400)
+
+Contudo, há uma crítica recorrente realizada à tablatura, que é a falta de uma referência do ritmo a ser executado. Nesse sentido, há uma expectativa de que a pessoa que for tocar já conheça a música previamente ou que tenha acesso a gravações para poder interpretar e aprender a batidaritmo da música.
+
+![image](https://github.com/user-attachments/assets/9485f054-c13c-453f-9553-179be166eaca)
+
+Levando isso em conta, algumas tablaturas incorporam os símbolos rítmicos tradicionais das partituras (como mínimas, semínimas e colcheias), que ficam localizadas acima dos números. Assim, a tablatura se torna menos dependente de gravações e é possível aprender músicas que você não conhece previamente. Importante notar que essa é uma prática que era comum em tablaturas antigas, como as dos séculos XVI, XVII e XVIII.
 
 Além dos números, a tablatura pode conter símbolos específicos para indicar técnicas como bends, hammer-ons, pull-offs, slides, vibratos e harmônicos, tornando-se uma ferramenta extremamente expressiva e completa para a execução de músicas. Por sua praticidade, a tablatura é amplamente utilizada em gêneros como rock, blues, folk e música popular em geral, permitindo que músicos aprendam músicas de forma rápida e intuitiva sem precisar interpretar símbolos rítmicos complexos, embora algumas tablaturas mais detalhadas incluam marcações de tempo. Esse sistema se tornou ainda mais acessível com a internet, onde há uma vasta quantidade de músicas transcritas em tablatura, ajudando tanto iniciantes quanto músicos experientes a aprender novas músicas e técnicas.
 
