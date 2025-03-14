@@ -763,6 +763,8 @@ Contudo, há uma crítica recorrente realizada à tablatura, que é a falta de u
 
 Levando isso em conta, algumas tablaturas incorporam os símbolos rítmicos tradicionais das partituras (como mínimas, semínimas e colcheias), que ficam localizadas acima dos números. Assim, a tablatura se torna menos dependente de gravações e é possível aprender músicas que você não conhece previamente. Importante notar que essa é uma prática que era comum em tablaturas antigas, como as dos séculos XVI, XVII e XVIII.
 
+![image](https://github.com/user-attachments/assets/66874c26-554c-4bde-81ee-b62ec53615cd)
+
 Além dos números, a tablatura pode conter símbolos específicos para indicar técnicas como bends, hammer-ons, pull-offs, slides, vibratos e harmônicos, tornando-se uma ferramenta extremamente expressiva e completa para a execução de músicas. Por sua praticidade, a tablatura é amplamente utilizada em gêneros como rock, blues, folk e música popular em geral, permitindo que músicos aprendam músicas de forma rápida e intuitiva sem precisar interpretar símbolos rítmicos complexos, embora algumas tablaturas mais detalhadas incluam marcações de tempo. Esse sistema se tornou ainda mais acessível com a internet, onde há uma vasta quantidade de músicas transcritas em tablatura, ajudando tanto iniciantes quanto músicos experientes a aprender novas músicas e técnicas.
 
 <img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right">
