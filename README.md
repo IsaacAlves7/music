@@ -302,7 +302,7 @@ Portanto, conheça os modelos mais famosos: (Pesquise o som de cada uma delas)
 - Vip
 - Mustang
 
-Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar. Quem dá o tom é sempre o cantor, nós instrumentistas apenas seguimos. Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, Mas seja perspicaz, tenha a percepão adequada.
+Os profissionais do instrumento são chamados de **guitarristas**, onde envolve estudo e dedicação. Existem diversas categorias de guitarristas, alguns são profissionais, outros técnicos e outros tocam de ouvido, quem toca de ouvido já possui uma grande experiência musical, não é recomendado somente tocar pelo tom da pessoa é preciso se especializar. Quem dá o tom é sempre o cantor, nós instrumentistas apenas seguimos. Nós guitarristas muitas vezes limitamos o uso de um determinado equipamento pelo simples fato de que "a maioria usa assim". As possibilidades são infinitas, experimente, teste, ouse, mas seja perspicaz, tenha a percepão adequada.
 
 Quanto aos guitarristas americanos pioneiros, temos muitos nomes retornando na história. Começa-se pelo blues, o country e o jazz, o rock ainda não existia, chegaria nos anos 50.
 
