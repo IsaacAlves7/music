@@ -731,7 +731,7 @@ A **cifra** é a forma de representar as notas musicais por letras, sendo identi
 
 A ordem se configura da seguinte forma e assim por diante:
 
-<a href="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3"><img src="https://github.com/user-attachments/assets/bfe566d7-dd1f-4a13-aa04-7993c7c45a58" align="right" height="277"></a>
+<a href="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3"><img src="https://github.com/user-attachments/assets/bfe566d7-dd1f-4a13-aa04-7993c7c45a58" align="right" height="477"></a>
 
 1. `C` - Dó
 2. `C#` - Dó sustenido
@@ -746,7 +746,7 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-<img src="https://github.com/user-attachments/assets/07c21bea-88e5-4c21-b1f3-4af56bc847e8" align="right" height="177">
+<img src="https://github.com/user-attachments/assets/07c21bea-88e5-4c21-b1f3-4af56bc847e8" align="left" height="177">
 
 Existe também a **tablatura** (TAB) que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero
 (`0`), significa que a corda deve ser tocada solta. Normalmente, vamos utilizar a tablatura para acordes, notas, solos porque ela tem melodias muito interessantes. A tablatura é composta por seis linhas e cada linha vai representar uma corda. 
