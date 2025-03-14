@@ -18,6 +18,8 @@ Então, a matéria prima da música é o **som** que é o elemento mais básico 
 
 - A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de **dinâmica**, então tem a ver com a interpretação.
 
+> Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
+
 Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos. Os elementos principais de uma partitura são:
 
 O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
@@ -74,20 +76,6 @@ Existem também os **sustenidos duplos** (Double Sharp) e os **bemois duplos** (
 
 Os acidentes têm esse nome pois representam alterações que ocorrem de forma eventual ou acidental ao longo de uma música. Quando uma nota deve ser executada com afinação elevada ou reduzida ao longo de toda a partitura, não se utilizam acidentes, mas sim **armaduras de clave** que indicam a tonalidade da composição. Os símbolos utilizados na armadura de clave são os mesmos, mas somente quando ocorrem junto a uma nota são chamados de acidentes.
 
-![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
-
-Existem sete notas musicais:
-
-1. Dó
-2. Ré
-3. Mi
-4. Fá
-5. Sol
-6. Lá
-7. Si
-
-Você precisa falar essas notas de forma ascendente e descendente, ou seja, dó, ré, mi, fá, sol, lá, si. E descendente: si, lá, sol, fá, mi, ré, dó.
-
 Enfim, foi desenvolvido dentro de uma concepção do que é música através de seis elementos, dos quais tem três que são mais importantes. Os três elementos da música mais importantes são o **ritmo**, **melodia** e **harmonia**.
 
 O **ritmo** musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável. Ritmo do grego _rhytmus_ é um movimento igual e simétrico, é a ordem a que obedecem os sons em valores de duração variáveis dentro do discurso musical, O ritmo é o elemento nº 1 da música. Para alguns estilos de música é visceral, porque eles se sustentam a partir do seu discurso. O senso rítmico é a primeira condição de um músico; Ou nascemos com ele ou o desenvolvemos com exercícios.
@@ -113,6 +101,21 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 | `𝅘𝅥𝅯`     | Semicolcheia | 16 | 1/4 tempo | `𝄿` |
 | `𝅘𝅥𝅰`     | Fusa | 32 | 1/8 tempo | `𝅀` |
 | `𝅘𝅥𝅱`     | Semifusa | 64 | 1/16 tempo | `𝅁` |
+
+
+![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
+
+Existem sete notas musicais:
+
+1. Dó
+2. Ré
+3. Mi
+4. Fá
+5. Sol
+6. Lá
+7. Si
+
+Você precisa falar essas notas de forma ascendente e descendente, ou seja, dó, ré, mi, fá, sol, lá, si. E descendente: si, lá, sol, fá, mi, ré, dó.
 
 Em inglês, grave e agudo na música são traduzidos como:
 
