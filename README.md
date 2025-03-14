@@ -10,7 +10,7 @@ A **música** é a arte de organizar sons e silêncios ao longo do tempo, combin
 
 Enfim, foi desenvolvido dentro de uma concepção do que é música através de seis elementos, dos quais tem três que são mais importantes. Os três elementos da música mais importantes são o **ritmo**, **melodia** e **harmonia**.
 
-O **ritmo** musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável. Ritmo do grego _rhytmus_  movimento igual e simétrico, é a ordem a que obedecem os sons em valores de duração variáveis dentro do discurso musical, O ritmo é o elemento nº 1 da música. Para alguns estilos de música é visceral, porque eles se sustentam a partir do seu discurso. O senso rítmico é a primeira condição de um músico; Ou nascemos com ele ou o desenvolvemos com exercícios.
+O **ritmo** musical é a organização dos sons no tempo, incluindo a alternância entre notas curtas e longas, pausas e acentos. Ele é a base da estrutura temporal da música e pode ser percebido como um padrão repetitivo ou variável. Ritmo do grego _rhytmus_-movimento igual e simétrico, é a ordem a que obedecem os sons em valores de duração variáveis dentro do discurso musical, O ritmo é o elemento nº 1 da música. Para alguns estilos de música é visceral, porque eles se sustentam a partir do seu discurso. O senso rítmico é a primeira condição de um músico; Ou nascemos com ele ou o desenvolvemos com exercícios.
 
 A **melodia** do grego _melos_ (canção), ode, é uma sucessão de sons isolados e combinados em alturas e valores diferentes, que obedecem um sentido lógico musical. Na grafia musical, apresenta-se em direção horizontal e é constituída de frases e períodos. Consideramos Melodia a música por excelência. Quando ouvimos um instrumento solo, seja de canto (voz humana) ou qualquer instrumento de sopro (saxofone, flauta, trompete) sempre estaremos ouvindo Melodia. Os instrumentos de cordas e teclados, por serem completos, isto é, podemos tocar melodia e harmonia em separado ou simultaneamente, oferecem a possibilidade do discurso Harmônico, além do Melódico, já obviamente incluído o discurso Rítmico, que sempre estará implícito em qualquer execução de qualquer instrumento. É importante ressaltar que toda Melodia estará dentro de uma Escala ou fazendo uso de mais de uma Escala ao mesmo tempo, arpejos ou notas “aleatórias“ dentro do Sistema Musical.
 
@@ -28,15 +28,15 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 
 À seguir, vamos conhecer as principais figuras de notas com seus respectivos valores:
 
-| Figuras  | Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
-|--------|---------|-------  | ----- | ------ |
-| `𝅝`    | Semibreve |  1    | 4 tempos | `𝄻` |
-| `𝅗𝅥`    | Mínima  |   2    | 2 tempos  | `𝄼` |
-| `𝅘𝅥` | Semínima   | 4   | 1 tempo  | `𝄽` |
-| `𝅘𝅥𝅮` | Colcheia   |  6   | 1/2 tempo  | `𝄾` | 
-| `𝅘𝅥𝅯` | Semicolcheia  | 16 | 1/4 tempo | `𝄿` |
-| `𝅘𝅥𝅰` | Fusa  | 32 | 1/8 tempo | `𝅀` |
-| `𝅘𝅥𝅱` | Semifusa  | 64  | 1/16 tempo | `𝅁` |
+| Figuras-| Nomes | Valores de Qualidade | Valores de Qualidade de Tempo | Pausas |
+|--------|---------|--------| ----- | ------ |
+| `𝅝`--| Semibreve |-1--| 4 tempos | `𝄻` |
+| `𝅗𝅥`--| Mínima-|- 2--| 2 tempos-| `𝄼` |
+| `𝅘𝅥` | Semínima- | 4- | 1 tempo-| `𝄽` |
+| `𝅘𝅥𝅮` | Colcheia- |-6- | 1/2 tempo-| `𝄾` | 
+| `𝅘𝅥𝅯` | Semicolcheia-| 16 | 1/4 tempo | `𝄿` |
+| `𝅘𝅥𝅰` | Fusa-| 32 | 1/8 tempo | `𝅀` |
+| `𝅘𝅥𝅱` | Semifusa-| 64-| 1/16 tempo | `𝅁` |
 
 A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de dinâmica, então tem a ver com a interpretação.
 
@@ -63,9 +63,9 @@ Os elementos principais de uma partitura são:
 No início do uso da pauta usava-se apenas uma linha colorida, datada do século IX. Tempos depois outras linhas foram sendo acrescentadas, o pentagrama que usamos hoje, estabelecido no século XI, foi definitivamente usado a partir do século XVII. São 5 linhas e 4 espaços entre elas. As linhas e epaços são contadas de baixo para cima.
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/8a5c074d-496b-42bb-885a-5d7963d4d123">
-   
-   Alleluia in Vigilia Nativitatis
+- <img src="https://github.com/user-attachments/assets/8a5c074d-496b-42bb-885a-5d7963d4d123">
+- 
+- Alleluia in Vigilia Nativitatis
 </div>
 
 As pautas surgiram na Idade Média. Foram aperfeiçoadas por Guido D'Arezzo para representar as alturas das notas musicais, suas durações e o compasso da música, nos ensinamentos de música e no canto gregoriano. As primeiras pautas tinham uma única linha e eram colocadas sobre a letra da canção. A altura era representada pela distância das notas em relação à linha. Como isso não era muito preciso, o sistema evoluiu gradativamente para uma pauta de quatro linhas, chamada de tetragrama.
@@ -146,13 +146,13 @@ O cavaco (cavaquinho), por sua vez, é um instrumento típico da música brasile
 
 Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geralmente associado à música havaiana e tem um som mais suave e característico. Cada um desses instrumentos possui técnicas de execução, timbres e finalidades musicais próprias, o que os diferencia da guitarra em termos de design, afinação e uso em diferentes gêneros musicais. Portanto, embora compartilhem a característica de serem instrumento de corda, eles não são classificados como guitarra.
 
-|   | cavaco | ukulele | baixo | guitarra | viola |  
-|--------|---------|-------  | ----- | ------ |------ |
-| Afinação | (DGBD)  |  (GCEA)     | (EADG) / (BEADG) / (BEADGC) | (EADGBE) | (EBG#EB) |
-| Encordamento | Aço  |  Nylon     | Aço  | Aço | Nylon |
-| Espaço entre as cordas | Menor  |  Maior  | Maior  | Maior | Menor |
-| Altura do som | Agudo  |  Médio   |  Grave  | Agudo |  Médio  |
-| Corpo | Largo  | Reduzido | Largo | Largo | Largo |
+|- | cavaco | ukulele | baixo | guitarra | viola |-
+|--------|---------|--------| ----- | ------ |------ |
+| Afinação | (DGBD)-|-(GCEA)-- | (EADG) / (BEADG) / (BEADGC) | (EADGBE) | (EBG#EB) |
+| Encordamento | Aço-|-Nylon-- | Aço-| Aço | Nylon |
+| Espaço entre as cordas | Menor-|-Maior-| Maior-| Maior | Menor |
+| Altura do som | Agudo-|-Médio- |-Grave-| Agudo |-Médio-|
+| Corpo | Largo-| Reduzido | Largo | Largo | Largo |
 
 # 🎸 Guitar
 <img src="https://github.com/user-attachments/assets/d3e84a35-7d01-4077-87e0-d1232a6c2d66" align="right" height="77">
@@ -690,13 +690,13 @@ O termo *Crunch* não é um efeito específico como Overdrive ou Distortion, mas
 E sim, dentro desse conceito de Crunch, dá pra dividir em algumas subcategorias ou variações, dependendo da intensidade, da origem da saturação e do estilo musical:
 
 1. **Crunch Leve**: É quase um som limpo com uma pequena sujeira, muito usado em blues e rock clássico. O ataque das notas ainda é bem definido, e as cordas soam abertas.
-   
+- 
 2. **Crunch Clássico**: Aquele som típico de amplificador Marshall em volume alto, onde os acordes ganham peso e textura, mas sem embolar. Muito comum no hard rock dos anos 70 e 80.
-   
+- 
 3. **Crunch Moderno**: Tem mais ganho e compressão, mais encorpado, usado em rock alternativo e até em metal mais leve, onde você precisa de definição, mas com bastante presença.
-   
+- 
 4. **Crunch Valvulado**: Vem diretamente da saturação natural de válvulas de um amplificador valvulado, com timbre quente e dinâmico, onde a palhetada influencia muito no quanto de crunch aparece.
-   
+- 
 5. **Crunch de Pedal**: Vem de pedais específicos, como o **Tube Screamer**, **Blues Driver** ou **Plexi-style**, que são projetados para entregar esse tipo de saturação mais suave e aberta, diferente da compressão fechada de uma distorção.
 
 Cada um desses tipos de Crunch pode variar muito conforme o equipamento, a guitarra, o amplificador e até a pegada do guitarrista. Mas o ponto comum entre todos eles é a ideia de um som que ainda tem dinâmica e clareza, mas com uma camada de saturação e textura que dá mais peso e expressão ao timbre.
@@ -711,7 +711,7 @@ O **Overdrive**, especificamente, é um tipo de drive mais leve e natural. Ele s
 
 Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal ou efeito que "suje" o som, então pode ser desde overdrives leves até distorções mais pesadas. Em resumo: 
 
-- Todo Overdrive é um Drive, mas nem todo Drive é um Overdrive.  
+- Todo Overdrive é um Drive, mas nem todo Drive é um Overdrive.-
 - Overdrive é mais suave e orgânico, enquanto Distortion e Fuzz (que também são tipos de Drive) são mais agressivos e comprimidos.
 
 ## Leitura
@@ -728,18 +728,18 @@ A **cifra** é a forma de representar as notas musicais por letras, sendo identi
 
 A ordem se configura da seguinte forma e assim por diante:
 
-1. `C` –> Dó
-2. `C#` -> Dó sustenido
-3. `D` –> Ré
-4. `D#` -> Ré sustenido
-5. `E` –> Mi
-6. `F` –> Fá
-7. `F#` -> Fá sustenido
-8. `G` –> Sol
-9. `G#` -> Sol sustenido
-10. `A` –> Lá
-11. `A#` -> Lá sustenido
-12. `B` –> Si  (H no alemão)
+1. `C` - Dó
+2. `C#` - Dó sustenido
+3. `D`- Ré
+4. `D#`- Ré sustenido
+5. `E`- Mi
+6. `F`- Fá
+7. `F#` - Fá sustenido
+8. `G` - Sol
+9. `G#` - Sol sustenido
+10. `A` - Lá
+11. `A#` - Lá sustenido
+12. `B` - Si (H no alemão)
 
 Existe também a **tablatura** que é um sistema de notação musical usado principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero, significa que a corda deve ser tocada solta.
 
