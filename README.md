@@ -807,7 +807,9 @@ Existe também a **tablatura** (TAB) que é um sistema de notação musical usad
 
 As cordas agudas estão representadas na parte superior da tablatura, e as cordas graves na parte inferior. Dessa forma, temos uma disposição invertida do que vemos no braço do instrumento. Outra vantagem da tablatura é que as linhas não representam notas fixas. Portanto, elas podem ter qualquer afinação. Nesse sentido, é necessário prestar atenção à afinação utilizada, geralmente localizada no lado esquerdo da tablatura, ao lado das linhas. Um último elemento básico da tablatura são os números que ficam posicionados em cima das linhas. Esses números representam as casas que devem ser pressionadas pelos dedos da mão esquerda (ou direita para canhotos). O número 0 (zero) corresponde à corda solta.
 
-![image](https://github.com/user-attachments/assets/01bc235e-211f-4567-8d7b-4232f0349400)
+<img src="https://github.com/user-attachments/assets/01bc235e-211f-4567-8d7b-4232f0349400" align="left"> 
+
+Vamos explorar como funciona a tablatura, no caso iremos começar com a 5° corda na casa 3, em seguida a corda solta na 4° corda, logo
 
 Contudo, há uma crítica recorrente realizada à tablatura, que é a falta de uma referência do ritmo a ser executado. Nesse sentido, há uma expectativa de que a pessoa que for tocar já conheça a música previamente ou que tenha acesso a gravações para poder interpretar e aprender a batidaritmo da música.
 
