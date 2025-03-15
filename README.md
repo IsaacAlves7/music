@@ -809,9 +809,9 @@ As cordas agudas estão representadas na parte superior da tablatura, e as corda
 
 <img src="https://github.com/user-attachments/assets/01bc235e-211f-4567-8d7b-4232f0349400" align="left"> 
 
-Vamos explorar como funciona a tablatura, no caso iremos começar com a 5° corda na casa 3, em seguida a corda solta na 4° corda, logo
+Vamos explorar como funciona a tablatura, no caso iremos começar com a 5° corda na casa 3; Em seguida a corda solta na 4° corda, logo a a casa 2 e depois a casa 3; Em seguida a 3° corda solta depois a casa 2; Em seguida a 2° corda solta e após ela a casa 1.
 
-Contudo, há uma crítica recorrente realizada à tablatura, que é a falta de uma referência do ritmo a ser executado. Nesse sentido, há uma expectativa de que a pessoa que for tocar já conheça a música previamente ou que tenha acesso a gravações para poder interpretar e aprender a batidaritmo da música.
+Parece simples e intuitiva não é verdade? Contudo, há uma crítica recorrente realizada à tablatura, que é a falta de uma referência do ritmo a ser executado. Nesse sentido, há uma expectativa de que a pessoa que for tocar já conheça a música previamente ou que tenha acesso a gravações para poder interpretar e aprender a batidaritmo da música.
 
 ![image](https://github.com/user-attachments/assets/9485f054-c13c-453f-9553-179be166eaca)
 
