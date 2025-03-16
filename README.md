@@ -746,7 +746,7 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. A **escala cromática** é formada por 12 notas musicais e são todas as notas que existem nesse universo da música. 
+Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos de **escala cromática** e é formada por 12 notas musicais e são todas as notas que existem nesse universo da música. 
 
 <img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right" height="177">
 
