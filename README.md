@@ -746,7 +746,7 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="left">
+<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="left" height="100">
 
 Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. Agora, portanto, um acorde (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. E essa representação da nota pelos acordes é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
 
@@ -772,6 +772,12 @@ Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são ide
 Já na mão direita, eles são identificados pelas letras p (de polegar), i (de indicador), m (de médio) e a (de anular/anelar). O mindinho, quando utilizado, pode aparecer com a letra c (do espanhol chiquillo), mas é algo menos usual.
 
 É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante é que faz mais sentido alcançar a nota do que fazer o acorde.
+
+<img src="https://github.com/user-attachments/assets/a1d09fbe-13e8-49db-bda5-925afd3e8dce" align="left">
+
+(`D`) Ré maior
+
+
 
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
