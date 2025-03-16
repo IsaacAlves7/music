@@ -716,6 +716,8 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 - Overdrive é mais suave e orgânico, enquanto Distortion e Fuzz (que também são tipos de Drive) são mais agressivos e comprimidos.
 
 ## Leitura
+<img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
+
 Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
 > [!NOTE]
@@ -724,8 +726,6 @@ Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab
 Existem muitos sistemas de notação musical, aprendemos a principal delas que é a <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">partitura</a> e ela não depende de letras. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). 
 
 > Caso esse seja seu primeiro contato com representações musicais, não se preocupe tanto com a partitura, procure antes decorar a representação por letras, que é bem mais simples como o diagrama de acordes ou tablatura.
-
-<img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
 
 <a href="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3"><img src="https://github.com/user-attachments/assets/bfe566d7-dd1f-4a13-aa04-7993c7c45a58" align="right" height="477"></a>
 
