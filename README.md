@@ -750,7 +750,7 @@ A **escala cromática** é formada por 12 notas musicais e são todas as notas q
 
 Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. Agora, portanto, um acorde (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. E essa representação da nota pelos acordes é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
 
-<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right"  >
+<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right" height="177">
 
 O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
@@ -771,9 +771,13 @@ Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são ide
 3. Anelar
 4. Mínimo
 
-Já na mão direita, eles são identificados pelas letras p (de polegar), i (de indicador), m (de médio) e a (de anular/anelar). O mindinho, quando utilizado, pode aparecer com a letra c (do espanhol chiquillo), mas é algo menos usual.
+Já na mão direita, eles são identificados pelas letras `p` (de polegar), `i` (de indicador), `m` (de médio) e `a` (de anular/anelar). O mindinho, quando utilizado, pode aparecer com a letra `c` (do espanhol chiquillo), mas é algo menos usual.
 
 É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante é que faz mais sentido alcançar a nota do que fazer o acorde.
+
+<img src="https://github.com/user-attachments/assets/c2685b6f-cfa5-4a5d-aaff-1be9e32b4c18" align="right" height="177">
+
+A técnica **Pestana** é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nossa poupa do dedo para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. 
 
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
@@ -824,9 +828,7 @@ Levando isso em conta, algumas tablaturas incorporam os símbolos rítmicos trad
 Além dos números, a tablatura pode conter símbolos específicos para indicar técnicas como bends, hammer-ons, pull-offs, slides, vibratos e harmônicos, tornando-se uma ferramenta extremamente expressiva e completa para a execução de músicas. Por sua praticidade, a tablatura é amplamente utilizada em gêneros como rock, blues, folk e música popular em geral, permitindo que músicos aprendam músicas de forma rápida e intuitiva sem precisar interpretar símbolos rítmicos complexos, embora algumas tablaturas mais detalhadas incluam marcações de tempo. Esse sistema se tornou ainda mais acessível com a internet, onde há uma vasta quantidade de músicas transcritas em tablatura, ajudando tanto iniciantes quanto músicos experientes a aprender novas músicas e técnicas.
 
 ## Técnicas
-> Pestana, CAGED, Tocar de ouvido, Velocidade, Independência dos dedos, Riffs e Licks, Grooves, Medley
-
-A técnica **Pestana** é feita quando colocamos o nosso dedo o mais perto possível do traste. 
+> CAGED, Tocar de ouvido, Velocidade, Independência dos dedos, Riffs e Licks, Grooves, Medley
 
 Além da indicação das casas a serem tocadas, também podem aparecer símbolos na tablatura que indicam as técnicas que devem ser executadas. A seguir, vamos apresentar uma lista de símbolos que aparecem em uma tablatura de violão ou guitarra:
 
