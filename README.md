@@ -746,11 +746,13 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-A **escala cromática** é formada por 12 notas musicais e são todas as notas que existem nesse universo da música. 
-
-Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. Agora, portanto, um acorde (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. E essa representação da nota pelos acordes é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
+Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. A **escala cromática** é formada por 12 notas musicais e são todas as notas que existem nesse universo da música. 
 
 <img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right" height="177">
+
+Agora, portanto, um **acorde** (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. 
+
+E essa representação da nota pelos acordes é chamada de **diagrama de acordes** que é uma ferramenta de notação musical assim como as tablaturas e as cifras, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
 
 O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
