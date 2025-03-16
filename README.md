@@ -775,12 +775,6 @@ Já na mão direita, eles são identificados pelas letras p (de polegar), i (de 
 
 É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante é que faz mais sentido alcançar a nota do que fazer o acorde.
 
-<img src="https://github.com/user-attachments/assets/a1d09fbe-13e8-49db-bda5-925afd3e8dce" align="left" height="170">
-
-(`D`) Ré maior
-
-
-
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
