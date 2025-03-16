@@ -781,7 +781,7 @@ Já na mão direita, eles são identificados pelas letras `p` (de polegar), `i` 
 
 A técnica **Pestana** é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nossa poupa do dedo para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. 
 
-Essa técnica é muito utilizada para acordes como (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
+Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
 
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
