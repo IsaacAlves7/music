@@ -750,7 +750,7 @@ A **escala cromática** é formada por 12 notas musicais e são todas as notas q
 
 Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. Agora, portanto, um acorde (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. E essa representação da nota pelos acordes é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
 
-<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right" height="100">
+<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right"  >
 
 O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
@@ -775,7 +775,7 @@ Já na mão direita, eles são identificados pelas letras p (de polegar), i (de 
 
 É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante é que faz mais sentido alcançar a nota do que fazer o acorde.
 
-<img src="https://github.com/user-attachments/assets/a1d09fbe-13e8-49db-bda5-925afd3e8dce" align="left">
+<img src="https://github.com/user-attachments/assets/a1d09fbe-13e8-49db-bda5-925afd3e8dce" align="left" height="170">
 
 (`D`) Ré maior
 
