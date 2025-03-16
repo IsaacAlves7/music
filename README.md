@@ -727,11 +727,11 @@ Existem muitos sistemas de notação musical, aprendemos a principal delas que �
 
 <img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
 
+<a href="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3"><img src="https://github.com/user-attachments/assets/bfe566d7-dd1f-4a13-aa04-7993c7c45a58" align="right" height="477"></a>
+
 A **cifra** é a forma de representar as notas musicais por letras, sendo identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
 A ordem se configura da seguinte forma e assim por diante:
-
-<a href="https://github.com/user-attachments/assets/54c00a9a-4deb-457e-833f-1c320e6ac0d3"><img src="https://github.com/user-attachments/assets/bfe566d7-dd1f-4a13-aa04-7993c7c45a58" align="right" height="477"></a>
 
 1. `C` - Dó
 2. `C#` - Dó sustenido
@@ -746,9 +746,9 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="left" height="100">
-
 Através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes. Agora, portanto, um acorde (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. E essa representação da nota pelos acordes é chamada de **diagrama de acordes**, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
+
+<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right" height="100">
 
 O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
