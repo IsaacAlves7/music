@@ -719,7 +719,7 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
 
 > [!NOTE]
-> Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra.
+> Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra. Através desse estudo intensivo você será capaz de tocar a sua primeira música.
 
 Existem muitos sistemas de notação musical, aprendemos a principal delas que é a <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">partitura</a> e ela não depende de letras. Como ela é bem mais detalhada e completa (envolve ritmos e tudo o mais). 
 
