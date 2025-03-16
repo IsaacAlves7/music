@@ -811,7 +811,7 @@ O tom original `A` (Lá maior) nessa tonalidade é bastante comum em músicas do
 <img src="https://github.com/user-attachments/assets/07c21bea-88e5-4c21-b1f3-4af56bc847e8" align="left" height="177">
 
 Existe também a **tablatura** (TAB) que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. Diferente da partitura tradicional, que exige conhecimento de leitura musical e indica as notas em uma pauta, a tablatura mostra diretamente a posição dos dedos no instrumento, facilitando a interpretação para músicos que não têm formação teórica avançada. Ela consiste em linhas horizontais que representam as cordas do instrumento, sendo que a linha superior corresponde à corda mais aguda (geralmente a primeira) e a inferior à mais grave. Sobre essas linhas, números indicam as casas onde as notas devem ser pressionadas, e se o número for zero
-(`0`), significa que a corda deve ser tocada solta. Normalmente, vamos utilizar a tablatura para acordes, notas, solos porque ela tem melodias muito interessantes. A tablatura é composta por seis linhas e cada linha vai representar uma corda. 
+(`0`), significa que a corda deve ser tocada solta. Normalmente, vamos utilizar a tablatura para acordes, notas, solos, intros e temas porque ela tem melodias muito interessantes. A tablatura é composta por seis linhas e cada linha vai representar uma corda. 
 
 <img src="https://github.com/user-attachments/assets/1b6f80f9-3f9f-46c5-abde-e265ede6bdfd" align="right">
 
