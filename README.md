@@ -792,8 +792,6 @@ Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) 
 
 <a href="https://www.youtube.com/shorts/zMb-ezTwwbY">Progressão de Acordes para tocar com estilo</a>:
 
-- D7+
-
 > [!TIP]
 > O importante é sempre alcançar/ focar no primeiro acorde não baixo Dm9/F
 
