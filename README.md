@@ -731,7 +731,7 @@ Existem muitos sistemas de notação musical, aprendemos a principal delas que �
 
 A **cifra** é a forma de representar as notas musicais por letras, sendo identificadas por letras para facilitar a escrita e aumentar a velocidade de leitura. A notação utilizada é universal, o que facilita a comunicação com músicos de outros países. Existem 7 letras para representar as notas musicais. A definição das letras e suas notas correspondentes é a seguinte:
 
-A ordem se configura da seguinte forma e assim por diante:
+A ordem se configura da seguinte forma e assim por diante (escala cromática):
 
 1. `C` - Dó
 2. `C#` - Dó sustenido
@@ -746,7 +746,7 @@ A ordem se configura da seguinte forma e assim por diante:
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-Agora, vamos entender que através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos isso de **escala** que é uma sequência de notas musicais organizadas em um padrão de tons e semitons, é uma sequência de notas de nomes diferentes organizadas dentro de uma mesma oitava, separadas por intervalos musicais. As escalas são um dos fundamentos da música ocidental e são usadas para compor melodias, harmonias e improvisar.
+Agora, vamos entender que através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos isso de **escala** que é uma sequência de notas musicais organizadas em um padrão de tons e semitons, é uma sequência de notas sucessivamente de nomes diferentes organizadas dentro de uma mesma oitava, separadas por algum padrão de intervalos musicais. As escalas são um dos fundamentos da música ocidental e são usadas para compor melodias, harmonias e improvisar.
 
 Sendo essa uma **escala cromática**, a mais importante que existe porque ela tem todas as notas musicais, e é formada por 12 notas musicais, ou seja, temos as 7 notas naturais e 5 notas alteradas, são todas as notas que existem nesse universo da música. 
 
