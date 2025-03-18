@@ -781,7 +781,7 @@ Já na mão direita, eles são identificados pelas letras `p` (de polegar), `i` 
 
 <img src="https://github.com/user-attachments/assets/c2685b6f-cfa5-4a5d-aaff-1be9e32b4c18" align="right" height="177">
 
-A técnica **Pestana** é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nossa poupa do dedo para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. 
+A técnica **Pestana** é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nosso dedo inteiro (distal, média, proximal) para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. É importante ressaltar que para fazer uma boa pestana é necessário que nosso dedo se posicione o mais perto possível do traste, caso contrário o som pode ser abafado. 
 
 Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
 
