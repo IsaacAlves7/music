@@ -836,6 +836,8 @@ Além dos números, a tablatura pode conter símbolos específicos para indicar 
 
 Além da indicação das casas a serem tocadas, também podem aparecer símbolos na tablatura que indicam as técnicas que devem ser executadas. A seguir, vamos apresentar uma lista de símbolos que aparecem em uma tablatura de violão ou guitarra:
 
+Um **medley** é uma sequência de trechos de músicas diferentes tocadas ou cantadas de forma contínua, sem interrupções significativas entre elas. Geralmente, as músicas escolhidas compartilham algum tema, estilo ou artista em comum, criando uma transição fluida entre as faixas. Medleys são bastante utilizados em apresentações ao vivo, mashups, trilhas sonoras e até em competições musicais. Eles permitem que um artista ou banda apresente vários sucessos em pouco tempo, mantendo a energia do público.
+
 ## Slide
 O **slide** é uma técnica de mão esquerda que consiste em deslizar o dedo, ainda pressionando a corda, de uma determinada casa até uma outra casa alvo. Outro nome para essa técnica é portamento.
 
