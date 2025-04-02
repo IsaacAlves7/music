@@ -825,6 +825,35 @@ Segue abaixo as posições mais simples dos 7 acordes maiores:
   </tr>
 </table>
 
+Os **acordes menores** (minor chords) são bastante utilizados nas melodias das músicas. Após aprender as posições dos acordes maiores, você pode começar a treinar os acordes menores. A maioria deles não exige uma grande alteração na forma do acorde e geralmente acrescenta ou diminui o uso de um dos dedos a partir do acorde maior.
+
+Assim como os acordes maiores, é possível se fazer um acorde menor de diversas formas, mas é importante saber encaixar cada posição na hora certa, conforme o conjunto de acordes utilizado.
+
+Os acordes menores são formados com as notas 1, 3 e 5 da escala de cada acorde e também são chamados de tríades, assim como os maiores. A diferença para os acordes maiores é que a distância entre a nota 1 e 3 é de 1 tom e meio e entre a nota 3 e a 5 de 2 tons. Nos acordes maiores essa diferença é de 2 e 1 e meio, respectivamente.
+
+Segue abaixo as posições mais simples dos 7 acordes menores:
+
+<table>
+ <tr>
+    <td>Sol Menor (Gm)</td>
+    <td>Lá Menor (Am)</td>
+    <td>Ré Menor (Dm)</td>
+    <td>Dó Menor (Cm)</td>
+    <td>Mi Menor (Em)</td>
+    <td>Fá Menor (Fm)</td>
+    <td>Si Menor (Bm)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
