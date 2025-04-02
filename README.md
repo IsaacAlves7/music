@@ -758,6 +758,9 @@ E essa representação da nota pelos acordes é chamada de **diagrama de acordes
 
 O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
+> [!TIP]
+> Recomendo decorar a lista de acordes da técnica CAGED (Dó, Lá, Sol, Mi e Ré).
+
 Os símbolos de ataque da corda são:
 
 - `x` = não deve ser tocado
