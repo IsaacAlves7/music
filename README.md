@@ -752,11 +752,11 @@ Agora, vamos entender que através dessa ordem crescente e decrescente, podemos 
 
 Sendo essa uma **escala cromática**, a mais importante que existe porque ela tem todas as notas musicais, e é formada por 12 notas musicais, ou seja, temos as 7 notas naturais e 5 notas alteradas, são todas as notas que existem nesse universo da música. 
 
-<img src="https://github.com/user-attachments/assets/6cfb76f7-d5e3-4b84-bf58-b0f700ad800c" align="right" height="77">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/C_major_chord_for_guitar_%28open%29.svg" align="right" height="77">
 
 Agora, portanto, um **acorde** (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma <a href="">harmonia</a>. E essa representação da nota pelos acordes é chamada de **diagrama de acordes** que é uma ferramenta de notação musical assim como as tablaturas e as cifras, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
-<img src="https://github.com/user-attachments/assets/c2685b6f-cfa5-4a5d-aaff-1be9e32b4c18" align="right" height="77">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/F_major_chord_for_guitar.svg" height="77" align="right">
 
 Temos também a técnica **Pestana** que é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nosso dedo inteiro (distal, média, proximal) para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. É importante ressaltar que para fazer uma boa pestana é necessário que nosso dedo se posicione o mais perto possível do traste, caso contrário o som pode ser abafado. Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
 
@@ -779,7 +779,7 @@ Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são ide
 
 Já na mão direita, eles são identificados pelas letras `p` (de polegar), `i` (de indicador), `m` (de médio) e `a` (de anular/anelar). O mindinho, quando utilizado, pode aparecer com a letra `c` (do espanhol chiquillo), mas é algo menos usual. É recomendado uma posição melhor para os dedos, pois qualquer má-posição resultará na paralisação da corda resultando em pouca vibração ou abafamento do som, daí o som não ficará exato como diz o acorde. Outra dica bastante importante é que faz mais sentido alcançar a nota do que fazer o acorde.
 
-Os primeiros acordes que você deve aprender quando começa a tocar violão são os **acordes maiores**. Existem muitas maneiras de se fazer um acorde no violão, mas é importante saber encaixar cada posição na hora certa, conforme o conjunto de acordes utilizado. Os acordes maiores são formados com as notas 1, 3 e 5 da escala de cada acorde e também são chamados de **tríades**. Recomendo decorar a lista de acordes da técnica CAGED (<a href="">Dó</a>, <a href="">Lá</a>, <a href="">Sol</a>, <a href="">Mi</a> e <a href="">Ré</a>).
+Os primeiros acordes que você deve aprender quando começa a tocar violão são os **acordes maiores** (major chords). Existem muitas maneiras de se fazer um acorde no violão, mas é importante saber encaixar cada posição na hora certa, conforme o conjunto de acordes utilizado. Os acordes maiores são formados com as notas 1, 3 e 5 da escala de cada acorde e também são chamados de **tríades**. Recomendo decorar a lista de acordes da técnica CAGED (<a href="">Dó</a>, <a href="">Lá</a>, <a href="">Sol</a>, <a href="">Mi</a> e <a href="">Ré</a>).
 
 Segue abaixo as posições mais simples dos 7 acordes maiores:
 
