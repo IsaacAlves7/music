@@ -716,11 +716,11 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 - Overdrive é mais suave e orgânico, enquanto Distortion e Fuzz (que também são tipos de Drive) são mais agressivos e comprimidos.
 
 ## [Guitar] Leitura
-<a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-mindmap-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-observablehq-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-DSA-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Node.js-repository-000000?style=flat&logo=Node.js&logoColor=lime)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/React.js-repository-000000?style=flat&logo=React&logoColor=aqua)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/TypeScript-white?style=flat&logo=TypeScript&logoColor=blue)</a> 
-
-<img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
+<a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-mindmap-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-DSA-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Node.js-repository-000000?style=flat&logo=Node.js&logoColor=lime)</a>
 
 Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
+
+<img src="https://github.com/user-attachments/assets/71cdeb3b-5b5c-4588-bf54-c349c2f51ff3">
 
 > [!NOTE]
 > Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra. Através desse estudo intensivo você será capaz de tocar a sua primeira música.
