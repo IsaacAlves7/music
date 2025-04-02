@@ -754,9 +754,7 @@ Sendo essa uma **escala cromática**, a mais importante que existe porque ela te
 
 Agora, portanto, um **acorde** (chord) é a combinação de duas, três ou mais notas tocadas ao mesmo tempo, formando uma harmonia. 
 
-E essa representação da nota pelos acordes é chamada de **diagrama de acordes** que é uma ferramenta de notação musical assim como as tablaturas e as cifras, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. 
-
-O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
+E essa representação da nota pelos acordes é chamada de **diagrama de acordes** que é uma ferramenta de notação musical assim como as tablaturas e as cifras, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
 > [!TIP]
 > Recomendo decorar a lista de acordes da técnica CAGED (<a href="">Dó</a>, <a href="">Lá</a>, <a href="">Sol</a>, <a href="">Mi</a> e <a href="">Ré</a>).
