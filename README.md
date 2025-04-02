@@ -758,10 +758,7 @@ Agora, portanto, um **acorde** (chord) é a combinação de duas, três ou mais 
 
 E essa representação da nota pelos acordes é chamada de **diagrama de acordes** que é uma ferramenta de notação musical assim como as tablaturas e as cifras, nele você tem a indicação das 6 cordas nas linhas verticais, os trastes são representados pelas linhas horizontais e os números que ficam dentro do diagrama são os dedos que você irá usar. As casas e os trates são contadas de forma horizontal. O exemplo ao lado direiro é o acorde **Dó maior** (`C`). No caso do Dó maior, ele começa a ser tocado na quinta corda.
 
-<img src="https://github.com/user-attachments/assets/fe37b232-522c-4b1a-9ecd-b49c5b4f1513" align="right" height="177">
-
-> [!TIP]
-> Recomendo decorar a lista de acordes da técnica CAGED (<a href="">Dó</a>, <a href="">Lá</a>, <a href="">Sol</a>, <a href="">Mi</a> e <a href="">Ré</a>).
+Os primeiros acordes que você deve aprender quando começa a tocar violão são os **acordes maiores**. Existem muitas maneiras de se fazer um acorde no violão, mas é importante saber encaixar cada posição na hora certa, conforme o conjunto de acordes utilizado. Os acordes maiores são formados com as notas 1, 3 e 5 da escala de cada acorde e também são chamados de **tríades**.
 
 Os símbolos de ataque da corda são:
 
@@ -770,6 +767,32 @@ Os símbolos de ataque da corda são:
 - `○` = segue tocando
 
 Sobre a posição das mãos e dedos para tocar o instrumento, é muito importante compreender o papel de cada dedo para tocar violão/guitarra. Há uma nomenclatura correta para eles, ajudando a lidar com a prática.
+
+> [!TIP]
+> Recomendo decorar a lista de acordes da técnica CAGED (<a href="">Dó</a>, <a href="">Lá</a>, <a href="">Sol</a>, <a href="">Mi</a> e <a href="">Ré</a>).
+
+Segue abaixo as posições mais simples dos 7 acordes maiores:
+
+<table>
+ <tr>
+    <td>Sol Maior (G)</td>
+    <td>Lá Maior (A)</td>
+    <td>Ré Maior (D)</td>
+    <td>Dó Maior (C)</td>
+    <td>Mi Maior (E)</td>
+    <td>Fá Maior (F)</td>
+    <td>Si Maior (B)</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fe37b232-522c-4b1a-9ecd-b49c5b4f1513" height="177"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
 
