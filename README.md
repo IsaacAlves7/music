@@ -854,6 +854,10 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
   </tr>
 </table>
 
+Os **acordes com sétima** são muito utilizados para preparar um outro acorde, ou seja, antecipar o início de um refrão, ou indicar uma mudança na melodia. Como prova disso, é muito comum encontrar as sequências D7 + G, A7 + D, C7 + F nas músicas. O acorde de sétima, como também é chamado, é feito adicionando a sétima nota menor (de uma escala diatônica em relação a tônica da escala). Isso significa 10 semitons para menor e 11 semitons para um acorde maior.
+
+Segue abaixo as posições mais simples dos 7 acordes maiores com sétima:
+
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
