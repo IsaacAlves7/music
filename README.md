@@ -715,7 +715,7 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 - Todo Overdrive é um Drive, mas nem todo Drive é um Overdrive.-
 - Overdrive é mais suave e orgânico, enquanto Distortion e Fuzz (que também são tipos de Drive) são mais agressivos e comprimidos.
 
-## [Guitar] Leitura
+## Leitura
 <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-mindmap-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a>
 
 Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente).
