@@ -779,6 +779,8 @@ Agora, portanto, um **acorde** (chord) é a combinação de duas, três ou mais 
 
 Temos também a técnica **Pestana** que é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nosso dedo inteiro (distal, média, proximal) para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. É importante ressaltar que para fazer uma boa pestana é necessário que nosso dedo se posicione o mais perto possível do traste, caso contrário o som pode ser abafado. Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
 
+<img src="https://github.com/user-attachments/assets/5b5a4963-321b-4deb-98ba-88350338d1be" height="177" align="right">
+
 Os símbolos de ataque da corda são:
 
 - `x` = não deve ser tocado
@@ -813,7 +815,7 @@ Segue abaixo as posições mais simples dos 7 acordes maiores:
     <td>Si Maior (B)</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/fe37b232-522c-4b1a-9ecd-b49c5b4f1513" height="177"></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
