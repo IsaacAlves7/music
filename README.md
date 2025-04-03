@@ -798,7 +798,7 @@ Enquanto os intervalos que não possuem acidentes são entre:
 
 A partir de agora fica mais simples de entender o que são tons e semitons e quais notas possuem acidentes. Isso facilitará o seu aprendizado daqui para frente.
 
-Portanto, uma das formas mais simplistas de fazermos a leitura de uma música com a guitarra é usando a **tablatura** (TAB) que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. 
+Portanto, uma das formas mais simplistas de fazermos a leitura de uma música com a guitarra é usando a **tablatura** (TAB) que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. As tablaturas podem representar diversos detalhes de um solo de violão ou guitarra além das notas como efeitos a serem feitos com os dedos da mão esquerda, por exemplo.
 
 <img src="https://github.com/user-attachments/assets/07c21bea-88e5-4c21-b1f3-4af56bc847e8" align="left" height="177">
 
