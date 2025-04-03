@@ -959,7 +959,7 @@ Além da indicação das casas a serem tocadas, também podem aparecer símbolos
 
 Um **medley** é uma sequência de trechos de músicas diferentes tocadas ou cantadas de forma contínua, sem interrupções significativas entre elas. Geralmente, as músicas escolhidas compartilham algum tema, estilo ou artista em comum, criando uma transição fluida entre as faixas. Medleys são bastante utilizados em apresentações ao vivo, mashups, trilhas sonoras e até em competições musicais. Eles permitem que um artista ou banda apresente vários sucessos em pouco tempo, mantendo a energia do público.
 
-## Slide
+## Slides
 O **slide** é uma técnica de mão esquerda que consiste em deslizar o dedo, ainda pressionando a corda, de uma determinada casa até uma outra casa alvo. Outro nome para essa técnica é portamento.
 
 O símbolo é um / para slide ascendente ou \ para slide descendente, situado entre a casa em que se inicia o slide e a casa de chegada do slide. Esses símbolos também são usados para representar o uso do glissando nas tablaturas para slide guitar.
@@ -969,7 +969,7 @@ O **Palm muting** ou Abafamento é o ato de abafar as notas, é uma técnica que
 
 O símbolo para essa técnica é `.` ou `–` indicando o início do abafamento e o final dele. Na tablatura de guitarra, esse símbolo pode vir acompanhado de p.m., sigla para palm muting.
 
-## Vibrato
+## Vibratos
 O **vibrato** é outra técnica que altera a altura da nota sendo tocada. Contudo, não há necessidade de uma altura totalmente precisa – o importante é a oscilação constante da nota original por meio da vibração do dedo.
 
 O símbolo é `~` ao lado ou acima da casa.
