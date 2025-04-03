@@ -858,6 +858,27 @@ Os **acordes com sétima** são muito utilizados para preparar um outro acorde, 
 
 Segue abaixo as posições mais simples dos 7 acordes maiores com sétima:
 
+<table>
+ <tr>
+    <td>Dó com sétima (C7)</td>
+    <td>Ré com sétima (D7)</td>
+    <td>Lá com sétima (A7)</td>
+    <td>Sol com sétima (G7)</td>
+    <td>Fá com sétima (F7)</td>
+    <td>Si com sétima (B7)</td>
+    <td>Mi com sétima (E7)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
