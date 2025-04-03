@@ -747,6 +747,57 @@ A ordem se configura da seguinte forma e assim por diante (escala cromática):
 
 Agora, vamos entender que através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos isso de **escala** que é uma sequência de notas musicais organizadas em um padrão de tons e semitons, é uma sequência de notas sucessivamente de nomes diferentes organizadas dentro de uma mesma oitava, separadas por algum padrão de intervalos musicais. As escalas são um dos fundamentos da música ocidental e são usadas para compor melodias, harmonias e improvisar. Sendo essa uma **escala cromática**, a mais importante que existe porque ela tem todas as notas musicais, e é formada por 12 notas musicais, ou seja, temos as 7 notas naturais e 5 notas alteradas, são todas as notas que existem nesse universo da música. 
 
+Sustenidos e bemois são os tipos de derivações que se pode fazer a partir de algumas notas naturais:
+
+- Sustenido (#) = eleva a nota em meio tom
+- Bemol (b) = reduz a nota em meio tom
+- Dobrado sustenido (##) = eleva a nota em um tom
+- Dobrado bemol (bb) = reduz a nota em um tom
+
+Os acidentes musicais alteram a sonoridade original das notas, como por exemplo:
+
+- Dó# = Dó sustenido, ou uma nota de Dó arescida de meio tom
+- Dób = Dó bemol, ou uma nota de Dó diminuída em meio tom
+
+Ao introduzir os acidentes musicais na escala diatônica formamos a escala cromática, ou seja, a escala diatônica se trata de:
+
+```
+Dó – Ré – Mi – Fá – Sol – Lá – Si
+```
+
+A escala cromática ascendente de Dó se trata de:
+
+```
+Dó – Dó# – Ré – Ré# – Mi – Fá – Fá# – Sol – Sol# – Lá – Lá# – Si – Dó
+```
+
+Enquanto isso, a escala cromática descendente de Dó é:
+
+```
+Dó – Réb – Ré – Mib – Mi – Fá – Solb – Sol – Láb – Lá – Sib – Si – Dó
+```
+
+A escala cromática é formada por uma sequência de semitons onde estão representadas todas as notas que formam o sistema musical ocidental.
+
+Os acidentes musicais são os símbolos de sustenido (#) e bemol (b) colocados nas notas naturais. Esses símbolos representam a alteração das notas em um semitom para cima (sustenido) ou para baixo (bemol).
+
+Por exemplo, a nota Dó acrescida de um semitom se transforma na nota Dó#, assim como a nota Dób representa um semitom abaixo da nota Dó.
+
+Observando a escala cromática de Dó, é possível notar que os intervalos de notas que possuem acidentes são entre:
+
+- Dó e Ré
+- Ré e Mi
+- Fá e Sol
+- Sol e Lá
+- Lá e Si
+
+Enquanto os intervalos que não possuem acidentes são entre:
+
+- Mi e Fá
+- Si e Dó
+
+A partir de agora fica mais simples de entender o que são tons e semitons e quais notas possuem acidentes. Isso facilitará o seu aprendizado daqui para frente.
+
 Portanto, uma das formas mais simplistas de fazermos a leitura de uma música com a guitarra é usando a **tablatura** (TAB) que é um sistema de notação musical usada principalmente para instrumentos de corda, como violão, guitarra, baixo e viola caipira, que representa graficamente as casas e cordas a serem tocadas no braço do instrumento. 
 
 <img src="https://github.com/user-attachments/assets/07c21bea-88e5-4c21-b1f3-4af56bc847e8" align="left" height="177">
