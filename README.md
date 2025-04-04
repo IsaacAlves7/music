@@ -828,7 +828,7 @@ Agora, portanto, um **acorde** (chord) é a combinação de duas, três ou mais 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/F_major_chord_for_guitar.svg" height="77" align="right">
 
-Temos também a técnica **Pestana** que é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nosso dedo inteiro (distal, média, proximal) para tocar duas ou mais cordas de uma vez. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. É importante ressaltar que para fazer uma boa pestana é necessário que nosso dedo se posicione o mais perto possível do traste, caso contrário o som pode ser abafado. Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
+Temos também a técnica **Pestana** que é feita quando colocamos o nosso dedo o mais perto possível do traste onde em vez de pressionarmos como fazemos com o atrito, nós utilizamos nosso dedo inteiro (distal, média, proximal) para tocar duas ou mais cordas de uma vez, é como se simulacemos um capotraste com o nosso dedo. Na maioria das vezes utilizamos nosso dedo indicador da mão direita. É importante ressaltar que para fazer uma boa pestana é necessário que nosso dedo se posicione o mais perto possível do traste, caso contrário o som pode ser abafado. Essa técnica é muito utilizada para acordes como (`F`) **Fá maior**, (`C#m`) **Dó sustenido menor** e (`D7+` ou `Dmaj7`) **Ré maior com sétima maior**.
 
 <img src="https://github.com/user-attachments/assets/5b5a4963-321b-4deb-98ba-88350338d1be" height="177" align="right">
 
