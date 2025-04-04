@@ -870,9 +870,9 @@ Segue abaixo as posições mais simples dos 7 acordes maiores:
     <td><img src="https://github.com/user-attachments/assets/e579f996-04b2-455a-b153-9456d5115a30"></td>
     <td><img src="https://github.com/user-attachments/assets/c0f88579-1a3e-4372-8917-676cf6800058"></td>
     <td><img src="https://github.com/user-attachments/assets/bf7ad8da-c73d-41cc-9a10-d01433a1b2fa"></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/d78a0aa8-fecc-4872-8f8c-33b007354ebc"></td>
+    <td><img src="https://github.com/user-attachments/assets/44bf7d3b-36af-4477-a8ad-10937e63da43"></td>
+    <td><img src="https://github.com/user-attachments/assets/fd388b8e-36f8-4513-bd49-f2f74d287e56"></td>
   </tr>
 </table>
 
