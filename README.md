@@ -28,7 +28,7 @@ Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, *
 
 Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos. Os elementos principais de uma partitura são:
 
-1. O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
+O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
 
 ![image](https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283)
 
@@ -50,7 +50,7 @@ Se precisarmos representar notas mais graves ou agudas do que as nove notas repr
 
 <img src="https://github.com/user-attachments/assets/ffeffa2b-0357-40b7-a6c3-571abe34dc0c" align="right">
 
-2. Para definir qual nota ocupa cada linha ou espaço e a faixa das notas representadas no pentagrama, são utilizadas as claves, que permitem adaptar a escrita para as diferentes vozes ou instrumentos musicais. A **clave** é o símbolo no início do pentagrama que define a altura das notas (ex: clave de Sol, clave de Fá). Em notação musical, a clave musical é um símbolo utilizado.
+Para definir qual nota ocupa cada linha ou espaço e a faixa das notas representadas no pentagrama, são utilizadas as claves, que permitem adaptar a escrita para as diferentes vozes ou instrumentos musicais. A **clave** é o símbolo no início do pentagrama que define a altura das notas (ex: clave de Sol, clave de Fá). Em notação musical, a clave musical é um símbolo utilizado.
 
 Existem quatro tipos principais de claves na notação musical:
 
