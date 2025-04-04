@@ -924,7 +924,7 @@ Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
 <table>
  <tr>
     <td>Dó com sétima maior (C7)</td>
-    <td>Ré com sétima maior (D7)</td>
+    <td>Ré com sétima maior (D7 - Dmaj7)</td>
     <td>Lá com sétima maior (A7)</td>
     <td>Sol com sétima maior (G7)</td>
     <td>Fá com sétima maior (F7)</td>
