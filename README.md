@@ -923,12 +923,12 @@ Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0e4ed532-4b7c-49f2-92f3-f5ddd57bef90"></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/1ebe971c-bc10-4e30-9e2e-55c1ce88191c"></td>
+    <td><img src="https://github.com/user-attachments/assets/327ce444-956e-4628-a93e-610b620c109c"></td>
     <td><img src="https://github.com/user-attachments/assets/b1d98eac-8aec-4bac-a4cc-3bf87ef7968f"></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/dcc1afbb-e8b9-48d8-babc-96349d89d877"></td>
+    <td><img src="https://github.com/user-attachments/assets/15d72acb-119f-4d40-b8fa-2fdab69c3afc"></td>
+    <td><img src="https://github.com/user-attachments/assets/caafbe44-f1b2-44d2-b666-fd5a19a1cbb7"></td>
   </tr>
 </table>
 
