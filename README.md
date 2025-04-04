@@ -1016,9 +1016,6 @@ O símbolo para essa técnica é `x` sob a corda que deve ser pressionada.
 ## Percepção
 Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (Tríades), Chord Melody Style, Tétrades, Velocidade Rítmica
 
-# 🎶 Estilos
-Blues, Rock, Pop, Jazz, MPB e Gospel
-
 # 🎵 Solo e base
 
 # 🥁 Drum
