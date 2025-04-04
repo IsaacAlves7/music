@@ -940,6 +940,31 @@ Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
   </tr>
 </table>
 
+Os **acordes com sétima menor** são formações harmônicas que adicionam à tríade básica (maior ou menor) um intervalo de sétima menor acima da tônica. A sétima menor equivale a 10 semitons acima da nota fundamental. Esse intervalo adiciona uma característica mais rica, tensa ou "blueseira" ao acorde, sendo amplamente usado no jazz, blues, rock, soul e funk. O acorde mais comum com sétima menor é o dominante (ex: C7), que é formado pela tríade maior (C–E–G) e a sétima menor (B♭), criando a fórmula 1–3–5–♭7. Já o acorde menor com sétima menor (ex: Cm7) é composto por C–E♭–G–B♭, ou seja, 1–♭3–5–♭7. Existe também o acorde meio diminuto (ex: Cm7♭5), com a fórmula 1–♭3–♭5–♭7, e o acorde diminuto com sétima diminuta (C°7), cuja fórmula é 1–♭3–♭5–𝄫7 (sétima diminuta, um tom abaixo da sétima menor). A sonoridade da sétima menor dá aos acordes uma tensão suave que costuma pedir resolução, por isso são muito usados em cadências e progressões harmônicas como II–V–I (ex: Dm7–G7–Cmaj7). No campo harmônico maior, os acordes que naturalmente contêm a sétima menor são o II, III, e VI graus (todos menores com sétima), além do V grau (dominante com sétima). Na guitarra, acordes com sétima menor têm formas variadas, mas costumam incluir o dedo mindinho ou o dedo 3 na corda que representa a sétima. Por exemplo, o G7 pode ser tocado com os dedos formando G maior e adicionando a nota F. Esses acordes são essenciais para dar cor e movimento à harmonia, e dominar seu uso abre portas para improvisação e acompanhamento mais expressivos.
+
+Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
+
+<table>
+ <tr>
+    <td>Dó com sétima menor (Cm7)</td>
+    <td>Ré com sétima menor (Dm7)</td>
+    <td>Lá com sétima menor (Am7)</td>
+    <td>Sol com sétima menor (Gm7)</td>
+    <td>Fá com sétima menor (Fm7)</td>
+    <td>Si com sétima menor (Bm7)</td>
+    <td>Mi com sétima menor (Em7)</td>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+</table>
+
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
