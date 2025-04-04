@@ -866,10 +866,10 @@ Segue abaixo as posições mais simples dos 7 acordes maiores:
     <td>Si Maior (B)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/ce3098a6-9706-4f36-97d0-a0745e06d3b7"></td>
+    <td><img src="https://github.com/user-attachments/assets/e579f996-04b2-455a-b153-9456d5115a30"></td>
+    <td><img src="https://github.com/user-attachments/assets/c0f88579-1a3e-4372-8917-676cf6800058"></td>
+    <td><img src="https://github.com/user-attachments/assets/bf7ad8da-c73d-41cc-9a10-d01433a1b2fa"></td>
     <td></td>
     <td></td>
     <td></td>
