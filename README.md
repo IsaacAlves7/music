@@ -882,7 +882,9 @@ Segue abaixo as posições mais simples dos 7 acordes maiores:
   </tr>
 </table>
 
-Um acorde é possível de ser executado em varias posições diferentes. Pra referir um exemplo fácil, imagine um acorde A. As duas posições mais populares são acima ilustradas. Porém – é evidente – existem outras posições. E também é o mesmo acorde! Acorde A (lá maior) Acorde A com pestana.
+Um acorde é possível de ser executado em varias posições diferentes. Pra referir um exemplo fácil, imagine um acorde A. As duas posições mais populares são acima ilustradas. Porém – é evidente – existem outras posições. E também é o mesmo acorde! Acorde A (lá maior) Acorde A com pestana. Portanto, nós podemos variar o acorde, conforme o exemplo abaixo:
+
+![image](https://github.com/user-attachments/assets/1978b125-ca0b-45d9-8248-212000c5e7b4)
 
 Os **acordes menores** (minor chords) são bastante utilizados nas melodias das músicas. Após aprender as posições dos acordes maiores, você pode começar a treinar os acordes menores. A maioria deles não exige uma grande alteração na forma do acorde e geralmente acrescenta ou diminui o uso de um dos dedos a partir do acorde maior.
 
