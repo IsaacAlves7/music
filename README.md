@@ -22,7 +22,7 @@ Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, *
 
 - A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). O **intervalo** é a diferença de altura entre duas notas. São classificados quanto à simultaneidade ou não dos sons e à distância (altura) entre eles. Na música ocidental, os intervalos são estudados a partir da divisão diatônica da escala. As unidades de medida de intervalos, baseadas na escala logarítmica, são o tom e o semitom. Para intervalos menores que um semitom, são utilizados o savart e o cent (o mais utilizado atualmente).
 
-- A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de **dinâmica**, então tem a ver com a interpretação.
+- A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de **dinâmica**, então tem a ver com a interpretação. A intensidade é a força do som, também chamada de sonoridade. É uma propriedade do som que permite ao ouvinte distinguir se o som é fraco (baixa intensidade) ou se o som é forte (alta intensidade) e ela está relacionada à energia de vibração da fonte que emite as ondas sonoras. Ou seja, é a força do som, ou seja, a quantidade de energia que as ondas sonoras transmitem. É também conhecida como volume ou sonoridade. 
 
 > Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
 
