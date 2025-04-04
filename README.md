@@ -922,7 +922,7 @@ Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
     <td>Mi com sétima maior (E7)</td>
   </tr>
   <tr>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/0e4ed532-4b7c-49f2-92f3-f5ddd57bef90"></td>
     <td><img src=""></td>
     <td><img src=""></td>
     <td><img src="https://github.com/user-attachments/assets/b1d98eac-8aec-4bac-a4cc-3bf87ef7968f"></td>
