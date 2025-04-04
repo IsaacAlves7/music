@@ -967,6 +967,29 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
   </tr>
 </table>
 
+Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi elevada em um semitom. O símbolo usado para sustenido é ♯, e pode ser aplicado a qualquer acorde maior, menor, com sétima, diminuto, aumentado, etc. Quando dizemos "Dó sustenido" (C♯), por exemplo, estamos nos referindo a um acorde cuja base não é o Dó natural, mas a nota um semitom acima dele.
+
+Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
+
+Segue abaixo as posições mais simples dos 5 acordes sustenidos:
+
+<table>
+ <tr>
+    <td>Dó sustenido (C#)</td>
+    <td>Ré sustenido (D#)</td>
+    <td>Lá sustenido (A#)</td>
+    <td>Sol sustenido (G#)</td>
+    <td>Fá sustenido (F#)</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5fe0e858-3836-4f90-aabd-d6f4045c5998"></td>
+    <td><img src="https://github.com/user-attachments/assets/9e4e0bb2-d064-4ff9-ac7a-f8fb641bafe7"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+</table>
+
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
