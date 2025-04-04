@@ -898,12 +898,12 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/299c9004-0763-4e29-8a17-bd1acca0dcf2"></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/02067fc0-d2f8-4054-aff9-4172ceb85a3e"></td>
+    <td><img src="https://github.com/user-attachments/assets/3d7b0683-a13a-4606-a72e-35bec3831e78"></td>
+    <td><img src="https://github.com/user-attachments/assets/3d12a870-da5b-451a-a27d-7e15021c45cd"></td>
+    <td><img src="https://github.com/user-attachments/assets/c9711732-f1af-42ab-af8c-fa6cb119415d"></td>
+    <td><img src="https://github.com/user-attachments/assets/93a931ce-1a2c-4493-95ac-00e9cfc446be"></td>
+    <td><img src="https://github.com/user-attachments/assets/ae30b0a3-6b66-41f0-8000-ce309fd04c6d"></td>
   </tr>
 </table>
 
