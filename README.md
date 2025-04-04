@@ -957,8 +957,8 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
     <td>Mi com sétima menor (Em7)</td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/5fe0e858-3836-4f90-aabd-d6f4045c5998"></td>
+    <td><img src="https://github.com/user-attachments/assets/9e4e0bb2-d064-4ff9-ac7a-f8fb641bafe7"></td>
     <td><img src=""></td>
     <td><img src=""></td>
     <td><img src=""></td>
