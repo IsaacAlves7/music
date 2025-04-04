@@ -846,6 +846,8 @@ Os símbolos de ataque da corda são:
 
 Sobre a posição das mãos e dedos para tocar o instrumento, é muito importante compreender o papel de cada dedo para tocar violão/guitarra. Há uma nomenclatura correta para eles, ajudando a lidar com a prática tanto para a mão esquerda quanto na mão direita. 
 
+É fundamental compreender a posição das mãos e o papel de cada dedo ao tocar violão ou guitarra, pois isso afeta diretamente a técnica, precisão, velocidade e até a prevenção de lesões. Tanto na mão esquerda (responsável por pressionar as cordas no braço do instrumento) quanto na mão direita (responsável por tocar as cordas, seja com os dedos ou com palheta), existe uma nomenclatura e organização específicas que facilitam o estudo e a prática.
+
 <img src="https://github.com/user-attachments/assets/fb963f51-ca41-4670-ae22-f5fe1b27f242" align="right" height="277">
 
 Na mão esquerda (a que pressiona as cordas, no caso dos destros), eles são identificados de 1 a 4. Lembrando que o polegar não está incluído, pois seu lugar é quase sempre atrás do braço.
