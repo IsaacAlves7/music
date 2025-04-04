@@ -907,19 +907,19 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
   </tr>
 </table>
 
-Os **acordes com sétima** são muito utilizados para preparar um outro acorde, ou seja, antecipar o início de um refrão, ou indicar uma mudança na melodia. Como prova disso, é muito comum encontrar as sequências D7 + G, A7 + D, C7 + F nas músicas. O acorde de sétima, como também é chamado, é feito adicionando a sétima nota menor (de uma escala diatônica em relação a tônica da escala). Isso significa 10 semitons para menor e 11 semitons para um acorde maior.
+Os **acordes com sétima maior** são muito utilizados para preparar um outro acorde, ou seja, antecipar o início de um refrão, ou indicar uma mudança na melodia. Como prova disso, é muito comum encontrar as sequências D7 + G, A7 + D, C7 + F nas músicas. O acorde de sétima, como também é chamado, é feito adicionando a sétima nota menor (de uma escala diatônica em relação a tônica da escala). Isso significa 10 semitons para menor e 11 semitons para um acorde maior.
 
-Segue abaixo as posições mais simples dos 7 acordes maiores com sétima:
+Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
 
 <table>
  <tr>
-    <td>Dó com sétima (C7)</td>
-    <td>Ré com sétima (D7)</td>
-    <td>Lá com sétima (A7)</td>
-    <td>Sol com sétima (G7)</td>
-    <td>Fá com sétima (F7)</td>
-    <td>Si com sétima (B7)</td>
-    <td>Mi com sétima (E7)</td>
+    <td>Dó com sétima maior (C7)</td>
+    <td>Ré com sétima maior (D7)</td>
+    <td>Lá com sétima maior (A7)</td>
+    <td>Sol com sétima maior (G7)</td>
+    <td>Fá com sétima maior (F7)</td>
+    <td>Si com sétima maior (B7)</td>
+    <td>Mi com sétima maior (E7)</td>
   </tr>
   <tr>
     <td></td>
