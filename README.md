@@ -897,13 +897,13 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
     <td>Si Menor (Bm)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/299c9004-0763-4e29-8a17-bd1acca0dcf2"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
   </tr>
 </table>
 
