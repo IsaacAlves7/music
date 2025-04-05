@@ -981,6 +981,8 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos:
   </tr>
 </table>
 
+
+
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
 - D#
