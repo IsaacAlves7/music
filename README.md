@@ -118,6 +118,7 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 | `𝅘𝅥𝅰`     | Fusa | 32 | 1/8 tempo | `𝅀` |
 | `𝅘𝅥𝅱`     | Semifusa | 64 | 1/16 tempo | `𝅁` |
 
+Exemplo de partitura:
 
 ![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
 
