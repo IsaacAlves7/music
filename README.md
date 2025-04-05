@@ -713,7 +713,7 @@ Já o termo *Drive* sozinho, sem especificar, pode se referir a qualquer pedal o
 - Overdrive é mais suave e orgânico, enquanto Distortion e Fuzz (que também são tipos de Drive) são mais agressivos e comprimidos.
 
 # 🎸 Leitura da guitarra
-<a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-mindmap-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-chords-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-TABs-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-Scales-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a>
+<a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-mindmap-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-chords-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-TABs-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-Scales-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a> <a href="https://www.mindmeister.com/map/2678931126">![JS](https://img.shields.io/badge/Guitar-Chords_Progression-000000?style=flat&logo=Guitar&logoColor=ffd60a)</a>
 
 Como vimos anteriormente sobre <a href="https://github.com/IsaacAlves7/music?tab=readme-ov-file#-sound-and-music-theory">som e teoria musical</a>, as **notas musicais** são os elementos mínimos de um som, contendo símbolos que representam sons específicos. Quando uma corda vibra, ela movimenta as moléculas de ar ao seu redor. Essa agitação das moléculas ocorre na mesma frequência de vibração da corda. O ouvido humano capta essa vibração do ar e a processa atribuindo um som ao cérebro. Para cada frequência de vibração, o cérebro atribui um som diferente (uma nota diferente). Esse é um estudo focado em Leitura, Tons e Notas, Intervalos, Escalas, Acordes, Tablaturas, Ritmo + Tempo e Batidas da guitarra. Através desse estudo intensivo você será capaz de tocar a sua primeira música.
 
@@ -999,6 +999,24 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
     <td><img src=""></td>
   </tr>
 </table>
+
+Uma **progressão de acordes** (chord progression) é uma sequência de acordes tocados em uma ordem específica dentro de uma música. Em outras palavras é como se os acordes “caminham” de um para o outro, criando harmonia e sustentando a melodia. Por que é importante? Dá estrutura à música, cria sensações como **tensão**, **resolução**, **tristeza**, **alegria** etc. É usada para compor, improvisar ou acompanhar.
+
+Exemplo simples: Na tonalidade de Dó maior (C)
+
+```txt
+C – G – Am – F
+```
+
+Essa progressão é super comum e soa agradável porque os acordes estão relacionados entre si dentro da tonalidade de C maior.
+
+Alguns tipos comuns de progressões:
+
+| Números | Acordes em C maior | Nome comum |
+|---------|---------------------|-------------|
+| I – IV – V | C – F – G | Progressão clássica |
+| I – V – vi – IV | C – G – Am – F | "Progressão pop" |
+| ii – V – I | Dm – G – C | Muito usada no jazz |
 
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
