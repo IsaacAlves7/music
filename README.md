@@ -996,7 +996,7 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
     <td><img src=""></td>
     <td><img src=""></td>
     <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/8ed367f3-f534-41b8-9099-d9e681ff7bc7"></td>
   </tr>
 </table>
 
