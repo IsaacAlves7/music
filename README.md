@@ -977,7 +977,7 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos maiores:
     <td><img src="https://github.com/user-attachments/assets/5dfdd60c-1493-4c49-85f3-79e2cac5c799"></td>
     <td><img src="https://github.com/user-attachments/assets/b31d67ac-394c-43d0-bd21-c79b8d27ee0e"></td>
     <td><img src="https://github.com/user-attachments/assets/5f94b0c6-1706-46a6-b8d8-07f5082fc06f"></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/9056c60f-e361-4d31-bf26-69aee7617a3a"></td>
   </tr>
 </table>
 
