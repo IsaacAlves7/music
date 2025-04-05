@@ -962,15 +962,15 @@ Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi ele
 
 Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
 
-Segue abaixo as posições mais simples dos 5 acordes sustenidos:
+Segue abaixo as posições mais simples dos 5 acordes sustenidos maiores:
 
 <table>
  <tr>
-    <td>Dó sustenido (C#)</td>
-    <td>Ré sustenido (D#)</td>
-    <td>Lá sustenido (A#)</td>
-    <td>Sol sustenido (G#)</td>
-    <td>Fá sustenido (F#)</td>
+    <td>Dó sustenido maior (C#)</td>
+    <td>Ré sustenido maior (D#)</td>
+    <td>Lá sustenido maior (A#)</td>
+    <td>Sol sustenido maior (G#)</td>
+    <td>Fá sustenido maior (F#)</td>
   </tr>
   <tr>
     <td><img src=""></td>
@@ -981,7 +981,24 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos:
   </tr>
 </table>
 
+Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
 
+<table>
+ <tr>
+    <td>Dó sustenido menor (C#m)</td>
+    <td>Ré sustenido menor (D#m)</td>
+    <td>Lá sustenido menor (A#m)</td>
+    <td>Sol sustenido menor (G#m)</td>
+    <td>Fá sustenido menor (F#m)</td>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+</table>
 
 <a href="https://www.youtube.com/shorts/3Y3RHl7dHUw?feature=share">Progressão de Acordes Famosa</a>: (Capo 3)
 
