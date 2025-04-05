@@ -28,6 +28,14 @@ Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, *
 
 > Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
 
+Em inglês, grave e agudo na música são traduzidos como:
+
+- Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
+- Médio = **Middle** (Meio) (quando se refere à região média em geral)
+- Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
+
+Mas, como funciona? A frequência de um som é medida em hertz (Hz), e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
+
 Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos. Os elementos principais de uma partitura são:
 
 O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (Dó, Ré, Mi, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama.
@@ -112,14 +120,6 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 
 
 ![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
-
-Em inglês, grave e agudo na música são traduzidos como:
-
-- Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
-- Médio = **Middle** (Meio) (quando se refere à região média em geral)
-- Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
-
-Mas, como funciona? A frequência de um som é medida em **hertz (Hz)**, e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
 
 Pois bem, como mencionado anteriormente, um **instrumento musical** é um objeto criado ou adaptado para produzir sons musicais, usado para criar melodias, ritmos ou harmonias. Portanto, como temos muitos tipos de instrumentos, eles são caracterizados como:
 
