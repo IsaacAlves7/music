@@ -951,9 +951,9 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
     <td><img src="https://github.com/user-attachments/assets/9e4e0bb2-d064-4ff9-ac7a-f8fb641bafe7"></td>
     <td><img src="https://github.com/user-attachments/assets/1b8e0214-4bb8-4edc-8238-26f54114aa7e"></td>
     <td><img src="https://github.com/user-attachments/assets/4d0efeff-f99a-4563-9084-a5993804aedc"></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/cf23f4a8-38da-418d-8bbe-21844360bc2e"></td>
+    <td><img src="https://github.com/user-attachments/assets/b337bd7c-8149-4f4b-8c99-8fb373af1b44"></td>
+    <td><img src="https://github.com/user-attachments/assets/827b8d85-9ba4-49d4-a72d-1bc7bc60477a"></td>
   </tr>
 </table>
 
