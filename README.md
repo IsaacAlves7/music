@@ -973,7 +973,7 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos maiores:
     <td>Fá sustenido maior (F#)</td>
   </tr>
   <tr>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/bcf60729-bd6d-441f-8eda-a4f2b8465fda"></td>
     <td><img src=""></td>
     <td><img src=""></td>
     <td><img src=""></td>
