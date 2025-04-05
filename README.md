@@ -14,6 +14,8 @@ No caso, das **notas musicais**, que é um termo empregado para designar o menor
 
 De forma geral, podemos relacionar as notas a um alfabeto musical que dá possibilidade de associar determinadas frequências (ou conjuntos de frequências) a nomes comuns, viabilizando a composição de músicas ou qualquer outro tipo de manifestação sonora de forma clara e compreensível. Sem as notas musicais, uma partitura provavelmente seria escrita como uma sequência de números relativamente extensos, correspondentes as frequências que se espera ouvir.
 
+Existem sete notas musicais, você precisa falar essas notas de forma ascendente e descendente, ou seja, dó, ré, mi, fá, sol, lá, si. E descendente: si, lá, sol, fá, mi, ré, dó.
+
 Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música, veja abaixo:
 
 - A **duração** se relaciona com a **rítmica musical** e a **duração do som**. É o tempo de produção de um som (indicado na escrita musical pela figura da nota e pelo andamento). A rítmica é a porta de entrada da música, que é um dos elementos fundamentais, a rítmica e o ritmo musical não são exatamente a mesma coisa, embora estejam relacionados. Rítmica é um conceito mais amplo que estuda o ritmo, incluindo suas variações e aplicações. Em música, a rítmica pode abranger a percepção, execução e criação de padrões rítmicos, além do ensino e desenvolvimento da consciência rítmica nos músicos.
@@ -110,18 +112,6 @@ O **compasso** é a organização rítmica de uma música, delimitada por pulsos
 
 
 ![image](https://github.com/user-attachments/assets/031335b7-d052-48d8-8b1d-0090f2574ec2)
-
-Existem sete notas musicais:
-
-1. Dó
-2. Ré
-3. Mi
-4. Fá
-5. Sol
-6. Lá
-7. Si
-
-Você precisa falar essas notas de forma ascendente e descendente, ou seja, dó, ré, mi, fá, sol, lá, si. E descendente: si, lá, sol, fá, mi, ré, dó.
 
 Em inglês, grave e agudo na música são traduzidos como:
 
