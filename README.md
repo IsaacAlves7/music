@@ -908,6 +908,50 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
   </tr>
 </table>
 
+Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi elevada em um semitom. O símbolo usado para sustenido é ♯, e pode ser aplicado a qualquer acorde maior, menor, com sétima, diminuto, aumentado, etc. Quando dizemos "Dó sustenido" (C♯), por exemplo, estamos nos referindo a um acorde cuja base não é o Dó natural, mas a nota um semitom acima dele.
+
+Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
+
+Segue abaixo as posições mais simples dos 5 acordes sustenidos maiores:
+
+<table>
+ <tr>
+    <td>Dó sustenido maior (C#)</td>
+    <td>Ré sustenido maior (D#)</td>
+    <td>Lá sustenido maior (A#)</td>
+    <td>Sol sustenido maior (G#)</td>
+    <td>Fá sustenido maior (F#)</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bcf60729-bd6d-441f-8eda-a4f2b8465fda"></td>
+    <td><img src="https://github.com/user-attachments/assets/5dfdd60c-1493-4c49-85f3-79e2cac5c799"></td>
+    <td><img src="https://github.com/user-attachments/assets/b31d67ac-394c-43d0-bd21-c79b8d27ee0e"></td>
+    <td><img src="https://github.com/user-attachments/assets/5f94b0c6-1706-46a6-b8d8-07f5082fc06f"></td>
+    <td><img src="https://github.com/user-attachments/assets/9056c60f-e361-4d31-bf26-69aee7617a3a"></td>
+  </tr>
+</table>
+
+Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
+
+<table>
+ <tr>
+    <td>Dó sustenido menor (C#m)</td>
+    <td>Ré sustenido menor (D#m)</td>
+    <td>Lá sustenido menor (A#m)</td>
+    <td>Sol sustenido menor (G#m)</td>
+    <td>Fá sustenido menor (F#m)</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cae08bef-b829-4fe3-9036-fc25659c4353"></td>
+    <td><img src="https://github.com/user-attachments/assets/d741e2a4-052d-4ab7-9ca0-fcccda45f51a"></td>
+    <td><img src="https://github.com/user-attachments/assets/3c921820-7ee1-498e-a8d0-0d81ef6e7615"></td>
+    <td><img src="https://github.com/user-attachments/assets/69761f2f-928c-483a-ad19-f46246b32663"></td>
+    <td><img src="https://github.com/user-attachments/assets/8ed367f3-f534-41b8-9099-d9e681ff7bc7"></td>
+  </tr>
+</table>
+
+Os **acordes bemois**
+
 Os **acordes com sétima maior** são muito utilizados para preparar um outro acorde, ou seja, antecipar o início de um refrão, ou indicar uma mudança na melodia. Como prova disso, é muito comum encontrar as sequências D7 + G, A7 + D, C7 + F nas músicas. O acorde de sétima, como também é chamado, é feito adicionando a sétima nota menor (de uma escala diatônica em relação a tônica da escala). Isso significa 10 semitons para menor e 11 semitons para um acorde maior.
 
 Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
@@ -960,47 +1004,8 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
 
 Os **acordes com nona** são acordes que incluem, além das notas básicas (tônica, terça e quinta), a **nona nota** da escala a partir da tônica. Essa nona é, na prática, a **segunda nota da escala**, mas tocada uma oitava acima. Eles criam uma sonoridade mais rica, colorida e expressiva, muito usada em gêneros como jazz, MPB, rock e pop. A nona pode ser adicionada a acordes maiores, menores ou dominantes, resultando em diferentes variações como `add9`, `maj9`, `9`, `m9`, entre outros.
 
-Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi elevada em um semitom. O símbolo usado para sustenido é ♯, e pode ser aplicado a qualquer acorde maior, menor, com sétima, diminuto, aumentado, etc. Quando dizemos "Dó sustenido" (C♯), por exemplo, estamos nos referindo a um acorde cuja base não é o Dó natural, mas a nota um semitom acima dele.
-
-Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
-
-Segue abaixo as posições mais simples dos 5 acordes sustenidos maiores:
-
-<table>
- <tr>
-    <td>Dó sustenido maior (C#)</td>
-    <td>Ré sustenido maior (D#)</td>
-    <td>Lá sustenido maior (A#)</td>
-    <td>Sol sustenido maior (G#)</td>
-    <td>Fá sustenido maior (F#)</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/bcf60729-bd6d-441f-8eda-a4f2b8465fda"></td>
-    <td><img src="https://github.com/user-attachments/assets/5dfdd60c-1493-4c49-85f3-79e2cac5c799"></td>
-    <td><img src="https://github.com/user-attachments/assets/b31d67ac-394c-43d0-bd21-c79b8d27ee0e"></td>
-    <td><img src="https://github.com/user-attachments/assets/5f94b0c6-1706-46a6-b8d8-07f5082fc06f"></td>
-    <td><img src="https://github.com/user-attachments/assets/9056c60f-e361-4d31-bf26-69aee7617a3a"></td>
-  </tr>
-</table>
-
-Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
-
-<table>
- <tr>
-    <td>Dó sustenido menor (C#m)</td>
-    <td>Ré sustenido menor (D#m)</td>
-    <td>Lá sustenido menor (A#m)</td>
-    <td>Sol sustenido menor (G#m)</td>
-    <td>Fá sustenido menor (F#m)</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cae08bef-b829-4fe3-9036-fc25659c4353"></td>
-    <td><img src="https://github.com/user-attachments/assets/d741e2a4-052d-4ab7-9ca0-fcccda45f51a"></td>
-    <td><img src="https://github.com/user-attachments/assets/3c921820-7ee1-498e-a8d0-0d81ef6e7615"></td>
-    <td><img src="https://github.com/user-attachments/assets/69761f2f-928c-483a-ad19-f46246b32663"></td>
-    <td><img src="https://github.com/user-attachments/assets/8ed367f3-f534-41b8-9099-d9e681ff7bc7"></td>
-  </tr>
-</table>
+> [!TIP]
+> O importante é sempre alcançar/ focar no primeiro acorde não baixo Dm9/F
 
 Uma **progressão de acordes** (chord progression) é uma sequência de acordes tocados em uma ordem específica dentro de uma música. Em outras palavras é como se os acordes “caminham” de um para o outro, criando harmonia e sustentando a melodia. Por que é importante? Dá estrutura à música, cria sensações como **tensão**, **resolução**, **tristeza**, **alegria** etc. É usada para compor, improvisar ou acompanhar.
 
@@ -1028,9 +1033,6 @@ Alguns tipos comuns de progressões:
 - G#7+/C#
 
 <a href="https://www.youtube.com/shorts/zMb-ezTwwbY">Progressão de Acordes para tocar com estilo</a>:
-
-> [!TIP]
-> O importante é sempre alcançar/ focar no primeiro acorde não baixo Dm9/F
 
 O tom original `A` (Lá maior) nessa tonalidade é bastante comum em músicas do estilo gospel/congregacional, e é uma escolha boa para encaixar bem a melodia na voz de tenores ou vozes masculinas médias. Se você estiver criando uma cifra para essa música, começar em A (Lá maior) é uma boa opção para manter o tom original. Os acordes da tonalidade de `A` geralmente incluem:
 
