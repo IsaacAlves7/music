@@ -950,7 +950,9 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
   </tr>
 </table>
 
-Os **acordes bemois**
+Os **acordes bemois** são acordes cuja nota fundamental (tônica) foi abaixada em um semitom, sendo representados pelo símbolo `♭`. Assim como os sustenidos, os bemóis podem formar qualquer tipo de acorde: maior, menor, com sétima, diminuto, aumentado, etc. Quando você vê, por exemplo, `D♭` (Ré bemol maior), significa que o acorde está sendo construído a partir de uma nota um semitom abaixo de Ré.
+
+Para montar um acorde bemol, basta pegar a estrutura de um acorde natural e descer cada nota um semitom. Por exemplo, o acorde `D` (Ré maior) é formado por `D–F♯–A`. O acorde `D♭` (Ré bemol maior) será `D♭–F–A♭`.
 
 Na teoria musical, também existem **acordes com sétima** que são acordes além das três notas básicas (tônica, terça e quinta), incluem também a sétima nota a partir da tônica. Essa adição dá mais profundidade, emoção e complexidade ao som do acorde. 
 
