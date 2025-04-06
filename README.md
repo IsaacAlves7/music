@@ -958,6 +958,8 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
   </tr>
 </table>
 
+Os **acordes com nona** são acordes que incluem, além das notas básicas (tônica, terça e quinta), a **nona nota** da escala a partir da tônica. Essa nona é, na prática, a **segunda nota da escala**, mas tocada uma oitava acima. Eles criam uma sonoridade mais rica, colorida e expressiva, muito usada em gêneros como jazz, MPB, rock e pop. A nona pode ser adicionada a acordes maiores, menores ou dominantes, resultando em diferentes variações como `add9`, `maj9`, `9`, `m9`, entre outros.
+
 Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi elevada em um semitom. O símbolo usado para sustenido é ♯, e pode ser aplicado a qualquer acorde maior, menor, com sétima, diminuto, aumentado, etc. Quando dizemos "Dó sustenido" (C♯), por exemplo, estamos nos referindo a um acorde cuja base não é o Dó natural, mas a nota um semitom acima dele.
 
 Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
