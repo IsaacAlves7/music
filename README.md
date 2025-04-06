@@ -994,13 +994,13 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima maior:
 
 <table>
  <tr>
-    <td>Dó com sétima menor (C7+ ou Cmaj7)</td>
-    <td>Ré com sétima menor (D7+ ou Dmaj7)</td>
-    <td>Lá com sétima menor (A7+ ou Amaj7)</td>
-    <td>Sol com sétima menor (G7+ ou Gmaj7)</td>
-    <td>Fá com sétima menor (F7+ ou Fmaj7)</td>
-    <td>Si com sétima menor (B7+ ou Bmaj7)</td>
-    <td>Mi com sétima menor (E7+ ou Emaj7)</td>
+    <td>Dó com sétima maior (C7+ ou Cmaj7)</td>
+    <td>Ré com sétima maior (D7+ ou Dmaj7)</td>
+    <td>Lá com sétima maior (A7+ ou Amaj7)</td>
+    <td>Sol com sétima maior (G7+ ou Gmaj7)</td>
+    <td>Fá com sétima maior (F7+ ou Fmaj7)</td>
+    <td>Si com sétima maior (B7+ ou Bmaj7)</td>
+    <td>Mi com sétima maior (E7+ ou Emaj7)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/5fe0e858-3836-4f90-aabd-d6f4045c5998"></td>
