@@ -1005,7 +1005,7 @@ Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
 Os **acordes com nona** são acordes que incluem, além das notas básicas (tônica, terça e quinta), a **nona nota** da escala a partir da tônica. Essa nona é, na prática, a **segunda nota da escala**, mas tocada uma oitava acima. Eles criam uma sonoridade mais rica, colorida e expressiva, muito usada em gêneros como jazz, MPB, rock e pop. A nona pode ser adicionada a acordes maiores, menores ou dominantes, resultando em diferentes variações como `add9`, `maj9`, `9`, `m9`, entre outros.
 
 > [!TIP]
-> O importante é sempre alcançar/ focar no primeiro acorde não baixo Dm9/F
+> O importante é sempre alcançar/ focar no primeiro acorde não baixo `Dm9/F`. O mais importante musicalmente é entender que o acorde base é `Dm9`, ou seja, a função harmônica dele vem do Ré menor com nona. O "`/F`" apenas modifica a sonoridade dando uma cor ou condução de baixo diferente, não muda o tipo do acorde, nem sua função (ele continua sendo um acorde menor com nona). Portanto, serve para criar movimento harmônico, ligação entre acordes, ou dar peso emocional.
 
 Uma **progressão de acordes** (chord progression) é uma sequência de acordes tocados em uma ordem específica dentro de uma música. Em outras palavras é como se os acordes “caminham” de um para o outro, criando harmonia e sustentando a melodia. Por que é importante? Dá estrutura à música, cria sensações como **tensão**, **resolução**, **tristeza**, **alegria** etc. É usada para compor, improvisar ou acompanhar.
 
