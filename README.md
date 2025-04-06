@@ -992,8 +992,8 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
     <td>Fá sustenido menor (F#m)</td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/cae08bef-b829-4fe3-9036-fc25659c4353"></td>
+    <td><img src="https://github.com/user-attachments/assets/d741e2a4-052d-4ab7-9ca0-fcccda45f51a"></td>
     <td><img src="https://github.com/user-attachments/assets/3c921820-7ee1-498e-a8d0-0d81ef6e7615"></td>
     <td><img src="https://github.com/user-attachments/assets/69761f2f-928c-483a-ad19-f46246b32663"></td>
     <td><img src="https://github.com/user-attachments/assets/8ed367f3-f534-41b8-9099-d9e681ff7bc7"></td>
