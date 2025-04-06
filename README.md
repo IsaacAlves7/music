@@ -952,19 +952,30 @@ Segue abaixo as posições mais simples dos 5 acordes sustenidos menores:
 
 Os **acordes bemois**
 
-Os **acordes com sétima maior** são muito utilizados para preparar um outro acorde, ou seja, antecipar o início de um refrão, ou indicar uma mudança na melodia. Como prova disso, é muito comum encontrar as sequências D7 + G, A7 + D, C7 + F nas músicas. O acorde de sétima, como também é chamado, é feito adicionando a sétima nota menor (de uma escala diatônica em relação a tônica da escala). Isso significa 10 semitons para menor e 11 semitons para um acorde maior.
+Na teoria musical, também existem **acordes com sétima** que são acordes além das três notas básicas (tônica, terça e quinta), incluem também a sétima nota a partir da tônica. Essa adição dá mais profundidade, emoção e complexidade ao som do acorde. 
 
-Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
+Estrutura de um acorde com sétima:
+
+1. Tônica → ponto de partida (ex: C)
+2. Terça → define se o acorde é maior ou menor
+3. Quinta → dá estabilidade
+4. Sétima → adiciona tensão, suavidade ou sofisticação
+
+Esses acordes possuem três vertentes principais de acordes com sétima, e entender isso clareia bastante as escolhas harmônicas.
+
+Os **acordes com sétima menor** (dominante) são formações harmônicas que adicionam à tríade básica (maior ou menor) um intervalo de sétima menor acima da tônica. A sétima menor equivale a 10 semitons acima da nota fundamental. Esse intervalo adiciona uma característica mais rica, tensa ou "blueseira" ao acorde, sendo amplamente usado no jazz, blues, rock, soul e funk. O acorde mais comum com sétima menor é o dominante (ex: `C7`), que é formado pela tríade maior (C–E–G) e a sétima menor (B♭), criando a fórmula 1–3–5–♭7. Já o acorde menor com sétima menor (ex: Cm7) é composto por C–E♭–G–B♭, ou seja, 1–♭3–5–♭7. Existe também o acorde meio diminuto (ex: Cm7♭5), com a fórmula 1–♭3–♭5–♭7, e o acorde diminuto com sétima diminuta (C°7), cuja fórmula é 1–♭3–♭5–𝄫7 (sétima diminuta, um tom abaixo da sétima menor). A sonoridade da sétima menor dá aos acordes uma tensão suave que costuma pedir resolução, por isso são muito usados em cadências e progressões harmônicas como II–V–I (ex: Dm7–G7–Cmaj7). No campo harmônico maior, os acordes que naturalmente contêm a sétima menor são o II, III, e VI graus (todos menores com sétima), além do V grau (dominante com sétima). Na guitarra, acordes com sétima menor têm formas variadas, mas costumam incluir o dedo mindinho ou o dedo 3 na corda que representa a sétima. Por exemplo, o G7 pode ser tocado com os dedos formando G maior e adicionando a nota F. Esses acordes são essenciais para dar cor e movimento à harmonia, e dominar seu uso abre portas para improvisação e acompanhamento mais expressivos.
+
+Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
 
 <table>
  <tr>
-    <td>Dó com sétima maior (C7)</td>
-    <td>Ré com sétima maior (D7 - Dmaj7)</td>
-    <td>Lá com sétima maior (A7)</td>
-    <td>Sol com sétima maior (G7)</td>
-    <td>Fá com sétima maior (F7)</td>
-    <td>Si com sétima maior (B7)</td>
-    <td>Mi com sétima maior (E7)</td>
+    <td>Dó com sétima menor (C7)</td>
+    <td>Ré com sétima menor (D7)</td>
+    <td>Lá com sétima menor (A7)</td>
+    <td>Sol com sétima menor (G7)</td>
+    <td>Fá com sétima menor (F7)</td>
+    <td>Si com sétima menor (B7)</td>
+    <td>Mi com sétima menor (E7)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0e4ed532-4b7c-49f2-92f3-f5ddd57bef90"></td>
@@ -977,19 +988,44 @@ Segue abaixo as posições mais simples dos 7 acordes maiores com sétima maior:
   </tr>
 </table>
 
-Os **acordes com sétima menor** são formações harmônicas que adicionam à tríade básica (maior ou menor) um intervalo de sétima menor acima da tônica. A sétima menor equivale a 10 semitons acima da nota fundamental. Esse intervalo adiciona uma característica mais rica, tensa ou "blueseira" ao acorde, sendo amplamente usado no jazz, blues, rock, soul e funk. O acorde mais comum com sétima menor é o dominante (ex: C7), que é formado pela tríade maior (C–E–G) e a sétima menor (B♭), criando a fórmula 1–3–5–♭7. Já o acorde menor com sétima menor (ex: Cm7) é composto por C–E♭–G–B♭, ou seja, 1–♭3–5–♭7. Existe também o acorde meio diminuto (ex: Cm7♭5), com a fórmula 1–♭3–♭5–♭7, e o acorde diminuto com sétima diminuta (C°7), cuja fórmula é 1–♭3–♭5–𝄫7 (sétima diminuta, um tom abaixo da sétima menor). A sonoridade da sétima menor dá aos acordes uma tensão suave que costuma pedir resolução, por isso são muito usados em cadências e progressões harmônicas como II–V–I (ex: Dm7–G7–Cmaj7). No campo harmônico maior, os acordes que naturalmente contêm a sétima menor são o II, III, e VI graus (todos menores com sétima), além do V grau (dominante com sétima). Na guitarra, acordes com sétima menor têm formas variadas, mas costumam incluir o dedo mindinho ou o dedo 3 na corda que representa a sétima. Por exemplo, o G7 pode ser tocado com os dedos formando G maior e adicionando a nota F. Esses acordes são essenciais para dar cor e movimento à harmonia, e dominar seu uso abre portas para improvisação e acompanhamento mais expressivos.
+Os **acordes com sétima maior** são muito utilizados para preparar um outro acorde, ou seja, antecipar o início de um refrão, ou indicar uma mudança na melodia. Como prova disso, é muito comum encontrar as sequências D7 + G, A7 + D, C7 + F nas músicas. O acorde de sétima, como também é chamado, é feito adicionando a sétima nota menor (de uma escala diatônica em relação a tônica da escala). Isso significa 10 semitons para menor e 11 semitons para um acorde maior.
 
-Segue abaixo as posições mais simples dos 7 acordes com sétima menor:
+Segue abaixo as posições mais simples dos 7 acordes com sétima maior:
 
 <table>
  <tr>
-    <td>Dó com sétima menor (Cm7)</td>
-    <td>Ré com sétima menor (Dm7)</td>
-    <td>Lá com sétima menor (Am7)</td>
-    <td>Sol com sétima menor (Gm7)</td>
-    <td>Fá com sétima menor (Fm7)</td>
-    <td>Si com sétima menor (Bm7)</td>
-    <td>Mi com sétima menor (Em7)</td>
+    <td>Dó com sétima menor (C7+ ou Cmaj7)</td>
+    <td>Ré com sétima menor (D7+ ou Dmaj7)</td>
+    <td>Lá com sétima menor (A7+ ou Amaj7)</td>
+    <td>Sol com sétima menor (G7+ ou Gmaj7)</td>
+    <td>Fá com sétima menor (F7+ ou Fmaj7)</td>
+    <td>Si com sétima menor (B7+ ou Bmaj7)</td>
+    <td>Mi com sétima menor (E7+ ou Emaj7)</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5fe0e858-3836-4f90-aabd-d6f4045c5998"></td>
+    <td><img src="https://github.com/user-attachments/assets/9e4e0bb2-d064-4ff9-ac7a-f8fb641bafe7"></td>
+    <td><img src="https://github.com/user-attachments/assets/1b8e0214-4bb8-4edc-8238-26f54114aa7e"></td>
+    <td><img src="https://github.com/user-attachments/assets/4d0efeff-f99a-4563-9084-a5993804aedc"></td>
+    <td><img src="https://github.com/user-attachments/assets/cf23f4a8-38da-418d-8bbe-21844360bc2e"></td>
+    <td><img src="https://github.com/user-attachments/assets/b337bd7c-8149-4f4b-8c99-8fb373af1b44"></td>
+    <td><img src="https://github.com/user-attachments/assets/827b8d85-9ba4-49d4-a72d-1bc7bc60477a"></td>
+  </tr>
+</table>
+
+Os **acordes menores com sétima menor** são acordes formados por quatro notas: Tônica + terça menor + quinta justa + sétima menor. Eles combinam a sonoridade triste/suave dos acordes menores com uma sétima que traz mais profundidade emocional, muito usados em jazz, MPB, soul, R&B e até pop/rock.
+
+Segue abaixo as posições mais simples dos 7 acordes menores com sétima menor:
+
+<table>
+ <tr>
+    <td>Dó menor com sétima menor (Cm7)</td>
+    <td>Ré menor com sétima menor (Dm7)</td>
+    <td>Lá menor com sétima menor (Am7)</td>
+    <td>Sol menor com sétima menor (Gm7)</td>
+    <td>Fá menor com sétima menor (Fm7)</td>
+    <td>Si menor com sétima menor (Bm7)</td>
+    <td>Mi menor com sétima menor (Em7)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/5fe0e858-3836-4f90-aabd-d6f4045c5998"></td>
