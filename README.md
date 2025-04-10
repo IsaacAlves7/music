@@ -26,7 +26,12 @@ Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, *
 
 - A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de **dinâmica**, então tem a ver com a interpretação. A intensidade é a força do som, também chamada de sonoridade. É uma propriedade do som que permite ao ouvinte distinguir se o som é fraco (baixa intensidade) ou se o som é forte (alta intensidade) e ela está relacionada à energia de vibração da fonte que emite as ondas sonoras. Ou seja, é a força do som, ou seja, a quantidade de energia que as ondas sonoras transmitem. É também conhecida como volume ou sonoridade. 
 
-Se aprofundando mais sobre esses temas, já que estamos aprendendo sobre princípios básicos da música, 
+Se aprofundando mais sobre esses temas, já que estamos aprendendo sobre os princípios básicos da música, as notas musicais são os sons que ouvimos com alturas diferentes: `Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si` (em inglês: `C`, `D`, `E`, `F`, `G`, `A`, `B`). E a **distância** entre notas musicais é o espaço entre a altura (frequência sonora) de uma nota e outra. Portanto o _tom_ e _semitom_ são distâncias entre notas musicais. 
+
+Pense que as notas estão enfileiradas em uma escada de sons — cada degrau tem uma altura diferente.
+
+- Se você subir 1 degrau (1 semitom), o som sobe um pouquinho.
+- Se subir 2 degraus (1 tom), o som sobe um pouco mais.
 
 Um **semitom** ou **meio-tom** é o menor intervalo entre duas notas musicais da escala diatônica. O tamanho exato de um semitom (em relação às frequências) dependerá do temperamento que é utilizado. O intervalo de segunda menor é considerado fortemente dissonante.
 
