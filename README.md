@@ -744,19 +744,21 @@ A ordem se configura da seguinte forma e assim por diante (escala cromática):
 
 Agora, vamos entender que através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos isso de **escala** que é uma sequência de notas musicais organizadas em um padrão de tons e semitons, é uma sequência de notas sucessivamente de nomes diferentes organizadas dentro de uma mesma oitava, separadas por algum padrão de intervalos musicais. As escalas são um dos fundamentos da música ocidental e são usadas para compor melodias, harmonias e improvisar. Sendo essa uma **escala cromática**, a mais importante que existe porque ela tem todas as notas musicais, e é formada por 12 notas musicais, ou seja, temos as 7 notas naturais e 5 notas alteradas, são todas as notas que existem nesse universo da música. 
 
-Sustenidos e bemois são os tipos de derivações que se pode fazer a partir de algumas notas naturais:
+Lembrando que sustenidos e bemois são os tipos de derivações que se pode fazer a partir de algumas notas naturais:
 
-- Sustenido (#) = eleva a nota em meio tom
-- Bemol (b) = reduz a nota em meio tom
-- Dobrado sustenido (##) = eleva a nota em um tom
-- Dobrado bemol (bb) = reduz a nota em um tom
+- Sustenido (`#`) = eleva a nota em meio tom
+- Bemol (`b`) = reduz a nota em meio tom
+- Dobrado sustenido (`##`) = eleva a nota em um tom
+- Dobrado bemol (`bb`) = reduz a nota em um tom
+
+E a escala cromática anda de meio em meio-tom (1/2) ou semitom, ou seja, do `C` pro `C#` nós vamos ter meio-tom, e do `C#` pro `D` nós vamos ter meio-tom, por exemplo, no instrumento ela se comporta da mesma forma, praticamente é o braço da guitarra a escala cromática.
 
 Os acidentes musicais alteram a sonoridade original das notas, como por exemplo:
 
 - Dó# = Dó sustenido, ou uma nota de Dó arescida de meio tom
 - Dób = Dó bemol, ou uma nota de Dó diminuída em meio tom
 
-Ao introduzir os acidentes musicais na escala diatônica formamos a escala cromática, ou seja, a escala diatônica se trata de:
+Ao introduzir os acidentes musicais na **escala diatônica** formamos a escala cromática, ou seja, a escala diatônica se trata de:
 
 ```
 Dó – Ré – Mi – Fá – Sol – Lá – Si
