@@ -14,7 +14,7 @@ No caso, das **notas musicais**, que é um termo empregado para designar o menor
 
 De forma geral, podemos relacionar as notas a um alfabeto musical que dá possibilidade de associar determinadas frequências (ou conjuntos de frequências) a nomes comuns, viabilizando a composição de músicas ou qualquer outro tipo de manifestação sonora de forma clara e compreensível. Sem as notas musicais, uma partitura provavelmente seria escrita como uma sequência de números relativamente extensos, correspondentes as frequências que se espera ouvir.
 
-Existem sete notas musicais, você precisa falar essas notas de forma ascendente e descendente, ou seja, Dó, Ré, Mi, Fá, Sol, Lá, Si. E descendente: Si, Lá, Sol, Fá, Mi, Ré, Dó.
+Existem sete notas musicais, você precisa falar essas notas de forma ascendente e descendente, ou seja, `Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si`. E descendente: `Si`, `Lá`, `Sol`, `Fá`, `Mi`, `Ré`, `Dó`.
 
 Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música, veja abaixo:
 
