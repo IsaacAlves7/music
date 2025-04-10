@@ -742,7 +742,7 @@ A ordem se configura da seguinte forma e assim por diante (escala cromática):
 11. `A#` - Lá sustenido
 12. `B` - Si (H no alemão)
 
-Agora, vamos entender que através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos isso de **escala** que é uma sequência de notas musicais organizadas em um padrão de tons e semitons, é uma sequência de notas sucessivamente de nomes diferentes organizadas dentro de uma mesma oitava, separadas por algum padrão de intervalos musicais. As escalas são um dos fundamentos da música ocidental e são usadas para compor melodias, harmonias e improvisar. Sendo essa uma **escala cromática**, a mais importante que existe porque ela tem todas as notas musicais, e é formada por 12 notas musicais, ou seja, temos as 7 notas naturais e 5 notas alteradas, são todas as notas que existem nesse universo da música. 
+Agora, vamos entender que através dessa ordem crescente e decrescente, podemos ser guiados para realizar acordes, chamamos isso de **escala** (scale) que é uma sequência de notas musicais organizadas em um padrão de tons e semitons, é uma sequência de notas sucessivamente de nomes diferentes organizadas dentro de uma mesma oitava, separadas por algum padrão de intervalos musicais. As escalas são um dos fundamentos da música ocidental e são usadas para compor melodias, harmonias e improvisar. Sendo essa uma **escala cromática**, a mais importante que existe porque ela tem todas as notas musicais, e é formada por 12 notas musicais, ou seja, temos as 7 notas naturais e 5 notas alteradas, são todas as notas que existem nesse universo da música. 
 
 Lembrando que sustenidos e bemois são os tipos de derivações que se pode fazer a partir de algumas notas naturais:
 
