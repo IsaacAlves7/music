@@ -22,7 +22,10 @@ Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, *
 
 - O **timbre** é o atributo especial de cada som. A qualidade de um determinado som que permite reconhecer a sua origem, tipo a cor do som. Timbre é uma característica sonora que permite distinguir um som de outro, mesmo que tenham a mesma altura e intensidade. É o que faz com que um violino soe diferente de uma flauta, por exemplo. O timbre é determinado pela forma como as ondas sonoras se propagam e interagem com o meio e com o instrumento que as produz.
 
-- A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). O **intervalo** é a diferença de altura entre duas notas. São classificados quanto à simultaneidade ou não dos sons e à distância (altura) entre eles. Na música ocidental, os intervalos são estudados a partir da divisão diatônica da escala. As unidades de medida de intervalos, baseadas na **escala logarítmica**, são o **tom** e o **semitom**. Para intervalos menores que um semitom, são utilizados o savart e o cent (o mais utilizado atualmente).
+- A **altura** do som é a propriedade que define se um som é **grave**, **médio** e **agudo**, ou seja, se ele possui uma **frequência** mais baixa ou mais alta (indicado na escrita musical pela posição da nota na pauta e pela clave - Melodia e Harmonia). O **intervalo** é a diferença de altura entre duas notas. São classificados quanto à simultaneidade ou não dos sons e à distância (altura) entre eles. Na música ocidental, os intervalos são estudados a partir da divisão diatônica da escala. As unidades de medida de intervalos, baseadas na **escala logarítmica**, são o **tom** e o **semitom**. Para intervalos menores que um semitom, são utilizados o savart e o cent (o mais utilizado atualmente). Mas, como funciona? A frequência de um som é medida em hertz (Hz), e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz). Em inglês, grave e agudo na música são traduzidos como:
+     - Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
+     - Médio = **Middle** (Meio) (quando se refere à região média em geral)
+     - Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
 
 - A **intensidade** é a propriedade do som ser mais forte ou mais fraco, indicado na escrita musical pelos sinais de **dinâmica**, então tem a ver com a interpretação. A intensidade é a força do som, também chamada de sonoridade. É uma propriedade do som que permite ao ouvinte distinguir se o som é fraco (baixa intensidade) ou se o som é forte (alta intensidade) e ela está relacionada à energia de vibração da fonte que emite as ondas sonoras. Ou seja, é a força do som, ou seja, a quantidade de energia que as ondas sonoras transmitem. É também conhecida como volume ou sonoridade. 
 
@@ -33,19 +36,19 @@ Pense que as notas estão enfileiradas em uma escada de sons — cada degrau tem
 - Se você subir 1 degrau (1 semitom), o som sobe um pouquinho.
 - Se subir 2 degraus (1 tom), o som sobe um pouco mais.
 
+Um **tom** é uma medida de distância entre duas notas musicais. Ele representa dois semitons, ou seja, duas casas no violão/guitarra ou duas teclas vizinhas no piano (contando branca e preta).
+
+Em música, tom pode ter vários significados:
+
+- Pode ser um intervalo utilizado na escala diatônica que corresponde à diferença de altura entre duas teclas brancas do piano quando há uma tecla preta entre elas ou ainda entre duas teclas pretas (ou como é mencionado em livros antigos de teoria musical: tono, que é o termo original encontrado nas literaturas teórico-musicais espanholas e italianas).
+- Pode se referir à nota em relação à qual se constrói uma escala diatônica no sistema tonal clássico.
+- Também se refere à altura de um som na escala geral dos sons.
+
 Um **semitom** ou **meio-tom** é o menor intervalo entre duas notas musicais da escala diatônica. O tamanho exato de um semitom (em relação às frequências) dependerá do temperamento que é utilizado. O intervalo de segunda menor é considerado fortemente dissonante.
 
 Um semitom corresponde à diferença de altura entre duas teclas adjacentes do piano (uma branca e a preta adjacente, ou duas brancas quando não há uma preta entre elas). Também é o intervalo entre duas notas produzidas ao apoiar o dedo sobre duas casas adjacentes na mesma corda de uma guitarra, por exemplo. Os exemplos sonoros abaixo mostram um intervalo de um semitom melodicamente (duas notas em sequência) e harmonicamente (as duas notas simultaneamente).
 
 > Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
-
-Em inglês, grave e agudo na música são traduzidos como:
-
-- Grave = **Low** (baixo) ou **Bass** (quando se refere à região grave em geral)
-- Médio = **Middle** (Meio) (quando se refere à região média em geral)
-- Agudo = **High** (alto) ou **Treble** (quando se refere à região aguda em geral)
-
-Mas, como funciona? A frequência de um som é medida em hertz (Hz), e quanto maior a frequência, mais agudo ele soa. Os **sons de baixa frequência** são graves (exemplo: a sexta corda solta da guitarra - E2 ≈ 82 Hz). **Sons de alta frequência** são agudos (exemplo: a primeira corda solta da guitarra - E4 ≈ 329 Hz).
 
 Sobre a leitura de sons e teoria musical, temos as **partituras** que são sistemas de notação musical sendo elas escritas musicais que representam graficamente os sons de uma música. Elas contêm símbolos que indicam notas musicais, ritmo, dinâmica, articulação e outras informações essenciais para a execução da peça por músicos. Os elementos principais de uma partitura são:
 
