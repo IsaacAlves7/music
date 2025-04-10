@@ -751,7 +751,7 @@ Lembrando que sustenidos e bemois são os tipos de derivações que se pode faze
 - Dobrado sustenido (`##`) = eleva a nota em um tom
 - Dobrado bemol (`bb`) = reduz a nota em um tom
 
-E a escala cromática anda de meio em meio-tom (1/2) ou semitom, ou seja, do `C` pro `C#` nós vamos ter meio-tom, e do `C#` pro `D` nós vamos ter meio-tom, por exemplo, no instrumento ela se comporta da mesma forma, praticamente é o braço da guitarra a escala cromática.
+E a escala cromática anda de meio em meio-tom (1/2) ou semitom, ou seja, do `C` pro `C#` nós vamos ter meio-tom, e do `C#` pro `D` nós vamos ter meio-tom, por exemplo, no instrumento ela se comporta da mesma forma, praticamente é o braço da guitarra a escala cromática. Ou seja, cada casa é um semitom que vamos andando no instrumento, ou seja, a sua construção inteira é feita por semitons na escala cromática.
 
 Os acidentes musicais alteram a sonoridade original das notas, como por exemplo:
 
