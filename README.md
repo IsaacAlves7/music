@@ -14,7 +14,7 @@ No caso, das **notas musicais**, que é um termo empregado para designar o menor
 
 De forma geral, podemos relacionar as notas a um alfabeto musical que dá possibilidade de associar determinadas frequências (ou conjuntos de frequências) a nomes comuns, viabilizando a composição de músicas ou qualquer outro tipo de manifestação sonora de forma clara e compreensível. Sem as notas musicais, uma partitura provavelmente seria escrita como uma sequência de números relativamente extensos, correspondentes as frequências que se espera ouvir.
 
-Existem sete notas musicais, você precisa falar essas notas de forma ascendente e descendente, ou seja, `Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si`. E descendente: `Si`, `Lá`, `Sol`, `Fá`, `Mi`, `Ré`, `Dó`.
+Existem sete notas musicais, você precisa falar essas notas de forma ascendente e descendente, ou seja, `Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si`. E descendente: `Si`, `Lá`, `Sol`, `Fá`, `Mi`, `Ré`, `Dó`. Assim, temos a **escala diatônica**.
 
 Nas notas musicais, a frequência vibratória são 4 propriedades: **Altura**, **Timbre**, **Intensidade** e **Duração**. Cada uma dessas propriedades se relaciona com um dos aspectos, um dos elementos da música, veja abaixo:
 
@@ -36,17 +36,15 @@ Pense que as notas estão enfileiradas em uma escada de sons — cada degrau tem
 - Se você subir 1 degrau (1 semitom), o som sobe um pouquinho.
 - Se subir 2 degraus (1 tom), o som sobe um pouco mais.
 
-Um **tom** é uma medida de distância entre duas notas musicais. Ele representa dois semitons, ou seja, duas casas no violão/guitarra ou duas teclas vizinhas no piano (contando branca e preta).
+Um **semitom** ou **meio-tom** é o menor intervalo entre duas notas musicais da escala diatônica. O tamanho exato de um semitom (em relação às frequências) dependerá do temperamento que é utilizado. O intervalo de segunda menor é considerado fortemente dissonante. Um semitom corresponde à diferença de altura entre duas teclas adjacentes do piano (uma branca e a preta adjacente, ou duas brancas quando não há uma preta entre elas). Também é o intervalo entre duas notas produzidas ao apoiar o dedo sobre duas casas adjacentes na mesma corda de uma guitarra, por exemplo. Os exemplos sonoros abaixo mostram um intervalo de um semitom melodicamente (duas notas em sequência) e harmonicamente (as duas notas simultaneamente).
+
+Um **tom** é uma medida de distância entre duas notas musicais. Ele representa dois semitons, ou seja, duas casas no violão/guitarra ou duas teclas vizinhas no piano (contando branca e preta). Um tom é um intervalo utilizado na escala diatônica (e consequentemente em grande parte da música ocidental). Corresponde à diferença de altura entre duas teclas brancas do piano quando há uma tecla preta entre elas ou ainda entre duas teclas pretas. O tamanho exato de um semitom (em relação às frequências) depende do temperamento que é utilizado. Os exemplos sonoros abaixo mostram um intervalo de um tom melodicamente (duas notas em sequência) e harmônicamente (as duas notas simultaneamente).
 
 Em música, tom pode ter vários significados:
 
 - Pode ser um intervalo utilizado na escala diatônica que corresponde à diferença de altura entre duas teclas brancas do piano quando há uma tecla preta entre elas ou ainda entre duas teclas pretas (ou como é mencionado em livros antigos de teoria musical: tono, que é o termo original encontrado nas literaturas teórico-musicais espanholas e italianas).
 - Pode se referir à nota em relação à qual se constrói uma escala diatônica no sistema tonal clássico.
 - Também se refere à altura de um som na escala geral dos sons.
-
-Um **semitom** ou **meio-tom** é o menor intervalo entre duas notas musicais da escala diatônica. O tamanho exato de um semitom (em relação às frequências) dependerá do temperamento que é utilizado. O intervalo de segunda menor é considerado fortemente dissonante.
-
-Um semitom corresponde à diferença de altura entre duas teclas adjacentes do piano (uma branca e a preta adjacente, ou duas brancas quando não há uma preta entre elas). Também é o intervalo entre duas notas produzidas ao apoiar o dedo sobre duas casas adjacentes na mesma corda de uma guitarra, por exemplo. Os exemplos sonoros abaixo mostram um intervalo de um semitom melodicamente (duas notas em sequência) e harmonicamente (as duas notas simultaneamente).
 
 > Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
 
