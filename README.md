@@ -1180,3 +1180,5 @@ Existem diversos tipos de teclado musical, cada um com características únicas 
 💻 Controlador MIDI – Não produz som próprio, mas controla software musical em computadores, ideal para produção musical.
 
 📢 Arranjador – Contém ritmos e acompanhamentos automáticos, facilitando a criação de músicas completas.
+
+A primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial de **duas teclas pretas** e **três teclas pretas**
