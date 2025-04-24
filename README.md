@@ -52,7 +52,7 @@ Sobre a leitura de sons e teoria musical, temos as **partituras** que são siste
 
 O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços onde as notas musicais são escritas. A pauta ou pentagrama é o conjunto de 5 linhas horizontais, paralelas e equidistantes que formam, entre si, 4 espaços onde são escritas as notas. A música, como regra geral, é escrita num conjunto de 5 linhas paralelas que chamamos de Pauta ou pentagrama. Pauta é o nome do conjunto de linhas utilizado para escrever as notas musicais de uma partitura, no sistema de notação da música ocidental. Atualmente, a pauta contém 5 linhas e por isso também é chamado às vezes de pentagrama. Na música, a altura está associada às notas musicais (`Dó`, `Ré`, `Mi`, etc), que são classificadas em diferentes oitavas. Cada nota tem uma frequência específica e pode ser representada em partituras pela sua posição no pentagrama. 
 
-Vamos ilustrar em um exemplo abaixo, onde estou utilizando uma partitura com uma clave de sol e um compasso 4/4 é classificado como um ritmo quaternário, pois possui quatro tempos por compasso, cada um geralmente marcado por uma semínima:
+Vamos ilustrar em um exemplo abaixo, onde estou utilizando uma partitura com a clave de sol e a cifra indicadora de compasso 4/4 que indica como a música é estruturada ritmicamente, pois possui quatro tempos por compasso, cada um geralmente marcado por uma semínima:
 
 ![image](https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283)
 
