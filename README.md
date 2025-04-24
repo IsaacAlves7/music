@@ -1161,6 +1161,6 @@ Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (T
 # 🥁 Drum
 
 # 🎹 Musical Keyboard
-![image](https://github.com/user-attachments/assets/14e2b240-1942-4d53-804b-c281fb11939d)
+<a href="https://www.onlinepianist.com/virtual-piano"><img src="https://github.com/user-attachments/assets/0c56c3f1-bec8-467c-b38b-46a7b6934538"></a>
 
-
+Entre uma 
