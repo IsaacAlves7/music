@@ -1163,4 +1163,13 @@ Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (T
 # 🎹 Musical Keyboard
 <a href="https://www.onlinepianist.com/virtual-piano"><div align="center"><img src="https://github.com/user-attachments/assets/0c56c3f1-bec8-467c-b38b-46a7b6934538"></div></a>
 
-Entre uma 
+Um **teclado musical** tradicional (Musical Keyboard), como um piano acústico, normalmente tem 88 teclas no total. Destas, 52 são brancas e 36 são pretas. As teclas brancas correspondem às notas naturais (`Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si`), enquanto as pretas formam os sustenidos e bemóis. Se estiver pensando em teclados eletrônicos, alguns modelos podem ter 61, 76 ou 49 teclas, dependendo do tamanho e propósito.
+
+Existem diversos tipos de teclado musical, cada um com características únicas para diferentes estilos e propósitos. Aqui estão alguns dos mais comuns:
+
+🎹 Piano acústico – Pode ser de cauda ou vertical, oferecendo um som rico e natural através de cordas e martelos.
+🎼 Teclado eletrônico – Compacto e versátil, possui sons digitais e é ótimo para iniciantes e músicos que precisam de portabilidade.
+🎛️ Sintetizador – Produz e manipula sons eletrônicos, sendo muito utilizado em música eletrônica e experimental.
+🎶 Órgão – Clássico em igrejas e jazz, tem um som característico e pode contar com múltiplos teclados manuais e pedais.
+💻 Controlador MIDI – Não produz som próprio, mas controla software musical em computadores, ideal para produção musical.
+📢 Arranjador – Contém ritmos e acompanhamentos automáticos, facilitando a criação de músicas completas.
