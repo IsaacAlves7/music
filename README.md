@@ -1161,3 +1161,6 @@ Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (T
 # 🥁 Drum
 
 # 🎹 Musical Keyboard
+![image](https://github.com/user-attachments/assets/14e2b240-1942-4d53-804b-c281fb11939d)
+
+
