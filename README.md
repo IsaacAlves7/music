@@ -1161,7 +1161,9 @@ Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (T
 # 🥁 Drum
 
 # 🎹 Musical Keyboard
-<div align="center"><a href="https://www.onlinepianist.com/virtual-piano"><img src="https://github.com/user-attachments/assets/0c56c3f1-bec8-467c-b38b-46a7b6934538"></a></div>
+<a href="">![JS](https://img.shields.io/badge/Musical_Keyboard-chords-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="">![JS](https://img.shields.io/badge/Musical_Keyboard-chords-000000?style=flat&logo=piano&logoColor=ffd60a)</a> 
+
+<div align="center"><a href="https://www.onlinepianist.com/virtual-piano"><img src="https://github.com/user-attachments/assets/0c56c3f1-bec8-467c-b38b-46a7b6934538"></a></div><br>
 
 Um **teclado musical** tradicional (Musical Keyboard), como um piano acústico, normalmente tem 88 teclas no total. Destas, 52 são brancas e 36 são pretas. As teclas brancas correspondem às notas naturais (`Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si`), enquanto as pretas formam os sustenidos e bemóis. Se estiver pensando em teclados eletrônicos, alguns modelos podem ter 61, 76 ou 49 teclas, dependendo do tamanho e propósito.
 
