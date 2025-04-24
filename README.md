@@ -1181,4 +1181,4 @@ Existem diversos tipos de teclado musical, cada um com características únicas 
 
 📢 Arranjador – Contém ritmos e acompanhamentos automáticos, facilitando a criação de músicas completas.
 
-A primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial de **duas teclas pretas** e **três teclas pretas**
+A primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial de **duas teclas pretas** e **três teclas pretas**, e antes de uma tecla preta dessa, a tecla branca possui a nota `Dó`
