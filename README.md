@@ -1183,4 +1183,7 @@ Existem diversos tipos de teclado musical, cada um com características únicas 
 
 📢 Arranjador – Contém ritmos e acompanhamentos automáticos, facilitando a criação de músicas completas.
 
-A primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial de **duas teclas pretas** e **três teclas pretas**, e antes de duas teclas pretas, a tecla branca anterior possui a nota `Dó`, depois o `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si` e assim por diante.
+A primeira tecla branca do teclado musical depende do tamanho do instrumento! Em um teclado de 88 teclas, como um piano tradicional, a primeira tecla branca à esquerda corresponde à nota Lá (A). Se for um teclado menor, com 61 ou 76 teclas, a nota inicial pode ser Dó (C). Isso acontece porque teclados compactos geralmente começam na oitava seguinte, eliminando algumas notas graves.
+
+Então, a primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial, por padrão, de **duas teclas pretas** e **três teclas pretas**, e antes de duas teclas pretas, a tecla branca anterior possui a nota `Dó`, depois o `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si` e assim por diante.
+
