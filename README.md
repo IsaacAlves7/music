@@ -36,7 +36,7 @@ Pense que as notas estão enfileiradas em uma escada de sons — cada degrau tem
 - Se você subir 1 degrau (1 semitom), o som sobe um pouquinho.
 - Se subir 2 degraus (1 tom), o som sobe um pouco mais.
 
-Um **semitom** ou **meio-tom** é o menor intervalo entre duas notas musicais da escala diatônica. O tamanho exato de um semitom (em relação às frequências) dependerá do temperamento que é utilizado. O intervalo de segunda menor é considerado fortemente dissonante. Um semitom corresponde à diferença de altura entre duas teclas adjacentes do piano (uma branca e a preta adjacente, ou duas brancas quando não há uma preta entre elas). Também é o intervalo entre duas notas produzidas ao apoiar o dedo sobre duas casas adjacentes na mesma corda de uma guitarra, por exemplo. Os exemplos sonoros abaixo mostram um intervalo de um semitom melodicamente (duas notas em sequência) e harmonicamente (as duas notas simultaneamente).
+Um **semitom** ou **meio-tom** (1/2) é o menor intervalo entre duas notas musicais da escala diatônica. O tamanho exato de um semitom (em relação às frequências) dependerá do temperamento que é utilizado. O intervalo de segunda menor é considerado fortemente dissonante. Um semitom corresponde à diferença de altura entre duas teclas adjacentes do piano (uma branca e a preta adjacente, ou duas brancas quando não há uma preta entre elas). Também é o intervalo entre duas notas produzidas ao apoiar o dedo sobre duas casas adjacentes na mesma corda de uma guitarra, por exemplo. Os exemplos sonoros abaixo mostram um intervalo de um semitom melodicamente (duas notas em sequência) e harmonicamente (as duas notas simultaneamente).
 
 Um **tom** é uma medida de distância entre duas notas musicais. Ele representa dois semitons, ou seja, duas casas no violão/guitarra ou duas teclas vizinhas no piano (contando branca e preta). Um tom é um intervalo utilizado na escala diatônica (e consequentemente em grande parte da música ocidental). Corresponde à diferença de altura entre duas teclas brancas do piano quando há uma tecla preta entre elas ou ainda entre duas teclas pretas. O tamanho exato de um semitom (em relação às frequências) depende do temperamento que é utilizado. Os exemplos sonoros abaixo mostram um intervalo de um tom melodicamente (duas notas em sequência) e harmônicamente (as duas notas simultaneamente).
 
@@ -45,6 +45,23 @@ Em música, tom pode ter vários significados:
 - Pode ser um intervalo utilizado na escala diatônica que corresponde à diferença de altura entre duas teclas brancas do piano quando há uma tecla preta entre elas ou ainda entre duas teclas pretas (ou como é mencionado em livros antigos de teoria musical: tono, que é o termo original encontrado nas literaturas teórico-musicais espanholas e italianas).
 - Pode se referir à nota em relação à qual se constrói uma escala diatônica no sistema tonal clássico.
 - Também se refere à altura de um som na escala geral dos sons.
+
+Se aprofundando mais sobre essa teoria dos intervalos musicais, temos os **Acidentes** ou **alterações** são símbolos utilizados na notação musical para modificar a altura da nota imediatamente à sua direita e de todas as notas na mesma posição da pauta até o final do compasso corrente, tornando-as *meio tom mais graves* ou *meio tom mais agudas*, são representadas pelo símbolo **sustenido**(`♯`) ou **bemol**(`♭`) sendo que o sustenido representa o aumento da nota em um semi-tom e o bemol a diminuição da mesma. Esses símbolos, na partitura musical, aparecem ao lado esquerdo da nota a ser alterada.
+
+Nem todas as notas estão separadas por um tom inteiro:
+- **1 tom** equivale a dois **semitons**.  
+- **1 sustenido (#)** eleva a nota em **1 semitom**. Exemplo: Dó → Dó#  
+- **1 bemol (♭)** abaixa a nota em **1 semitom**. Exemplo: Ré → Ré♭  
+
+Agora, algumas notas naturais estão separadas por **apenas meio tom**, como:
+- **Mi → Fá** (meio tom, sem tecla preta entre elas).  
+- **Si → Dó** (também meio tom).  
+
+Então, dependendo da nota de origem, o deslocamento pode ser **um tom inteiro ou apenas meio tom**, conforme a organização da escala cromática. Isso é crucial para entender a harmonia e a construção de acordes!  
+
+Existem também os **sustenidos duplos** (Double Sharp) e os **bemois duplos** (Double Flat). Os primeiros representados pelo símbolo sustenido duplo `𝄪`, fazem a frequência do som, em que estão aplicados, subir um tom. Os segundos, os bemóis duplos, representados pelo símbolo `♭♭`, fazem a altura do som, frequência, descer um tom. Existem também os **bequadros** que anulam as alterações provocadas pelos sustenidos e pelos bemois.
+
+Os acidentes têm esse nome pois representam alterações que ocorrem de forma eventual ou acidental ao longo de uma música. Quando uma nota deve ser executada com afinação elevada ou reduzida ao longo de toda a partitura, não se utilizam acidentes, mas sim **armaduras de clave** que indicam a tonalidade da composição. Os símbolos utilizados na armadura de clave são os mesmos, mas somente quando ocorrem junto a uma nota são chamados de acidentes.
 
 > Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
 
@@ -99,12 +116,6 @@ Normalmente, em uma partitura, cada instrumento ou voz é representado por uma p
 ![image](https://github.com/user-attachments/assets/5781aef0-9094-48cc-9b07-45292e2f3924)
 
 Em partituras escritas para conjuntos musicais, os sistemas também são utilizados para representar a execução simultânea de todas as vozes, como na partitura para coral mostrada a seguir.
-
-Além das claves, temos os **Acidentes** ou **alterações** são símbolos utilizados na notação musical para modificar a altura da nota imediatamente à sua direita e de todas as notas na mesma posição da pauta até o final do compasso corrente, tornando-as **meio tom mais graves** ou **meio tom mais agudas**, são representadas pelo símbolo **sustenido**(`♯`) ou **bemol**(`♭`) sendo que o sustenido representa o aumento da nota em um semi-tom e o bemol a diminuição da mesma. Esses símbolos, na partitura musical, aparecem ao lado esquerdo da nota a ser alterada.
-
-Existem também os **sustenidos duplos** (Double Sharp) e os **bemois duplos** (Double Flat). Os primeiros representados pelo símbolo sustenido duplo `𝄪`, fazem a frequência do som, em que estão aplicados, subir um tom. Os segundos, os bemóis duplos, representados pelo símbolo `♭♭`, fazem a altura do som, frequência, descer um tom. Existem também os **bequadros** que anulam as alterações provocadas pelos sustenidos e pelos bemois.
-
-Os acidentes têm esse nome pois representam alterações que ocorrem de forma eventual ou acidental ao longo de uma música. Quando uma nota deve ser executada com afinação elevada ou reduzida ao longo de toda a partitura, não se utilizam acidentes, mas sim **armaduras de clave** que indicam a tonalidade da composição. Os símbolos utilizados na armadura de clave são os mesmos, mas somente quando ocorrem junto a uma nota são chamados de acidentes.
 
 Enfim, foi desenvolvido dentro de uma concepção do que é música através de seis elementos, dos quais tem três que são mais importantes. Os três elementos da música mais importantes são o **ritmo**, **melodia** e **harmonia**.
 
