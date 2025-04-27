@@ -933,6 +933,35 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
   </tr>
 </table>
 
+Os **acordes diminutos** são um tipo de acorde que transmite tensão e instabilidade na música, sendo muito usados para criar movimento e transição entre harmonias. Um acorde diminuto é formado por terças menores empilhadas, criando um som denso e enigmático. Exemplo:
+
+```txt
+Dó diminuto (C°) → C – E♭ – G♭
+```
+
+Segue abaixo as posições mais simples dos 7 acordes diminutos:
+
+<table>
+ <tr>
+    <td>Sol diminuto (G°)</td>
+    <td>Lá diminuto (A°)</td>
+    <td>Ré diminuto (D°)</td>
+    <td>Dó diminuto (C°)</td>
+    <td>Mi diminuto (E°)</td>
+    <td>Fá diminuto (F°)</td>
+    <td>Si diminuto (B°)</td>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+</table>
+
 Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi elevada em um semitom. O símbolo usado para sustenido é ♯, e pode ser aplicado a qualquer acorde maior, menor, com sétima, diminuto, aumentado, etc. Quando dizemos "Dó sustenido" (C♯), por exemplo, estamos nos referindo a um acorde cuja base não é o Dó natural, mas a nota um semitom acima dele.
 
 Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
