@@ -1236,3 +1236,4 @@ A primeira tecla branca do teclado musical depende do tamanho do instrumento! Em
 
 Então, a primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial, por padrão, de **duas teclas pretas** e **três teclas pretas**, e antes de duas teclas pretas, a tecla branca anterior possui a nota `Dó`, depois o `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si` e assim por diante.
 
+https://www.youtube.com/shorts/qaTy8pKWPDQ
