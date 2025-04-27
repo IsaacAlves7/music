@@ -954,11 +954,11 @@ Segue abaixo as posições mais simples dos 7 acordes diminutos:
   <tr>
     <td><img src=""></td>
     <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/06968fb2-362e-4cc2-b8a7-34c8f3a9ba6f"></td>
+    <td><img src="https://github.com/user-attachments/assets/0b4b8a1a-a687-419a-8022-db9ff6c1f4cd"></td>
     <td><img src=""></td>
     <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/6928b1a8-2f90-4ea8-9101-7dbf2d141508"></td>
   </tr>
 </table>
 
