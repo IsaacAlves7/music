@@ -962,6 +962,13 @@ Segue abaixo as posições mais simples dos 7 acordes diminutos:
   </tr>
 </table>
 
+Quinta diminuta – O aspecto mais marcante é a quinta diminuta (intervalo reduzido em um semitom), o que dá ao acorde seu som tenso e instável.
+
+- Meio diminuto (`ø`) → Tem uma sétima menor, exemplo: `C – E♭ – G♭ – B♭ (Cø)`.
+- Diminuto completo (`°7`) → Tem uma sétima diminuta, exemplo: `C – E♭ – G♭ – A♭ (C°7)`.
+
+Uso musical – Aparece muito no jazz, música clássica e bossa nova, funcionando bem como um acorde de passagem, conectando harmonias de forma fluida e expressiva.
+
 Os **acordes sustenidos** são acordes cuja nota fundamental (a tônica) foi elevada em um semitom. O símbolo usado para sustenido é ♯, e pode ser aplicado a qualquer acorde maior, menor, com sétima, diminuto, aumentado, etc. Quando dizemos "Dó sustenido" (C♯), por exemplo, estamos nos referindo a um acorde cuja base não é o Dó natural, mas a nota um semitom acima dele.
 
 Para montar qualquer acorde sustenido, basta pegar a formação do acorde natural e subir cada nota da estrutura um semitom. Por exemplo, o C (Dó maior) é formado por C–E–G (1–3–5). Já o C♯ (Dó sustenido maior) será C♯–E♯–G♯. Perceba que E♯ é enarmonicamente igual a F, mas na escrita teórica ele é mantido como E♯ para preservar a estrutura do acorde (tônica–terça–quinta).
