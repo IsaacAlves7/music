@@ -1143,6 +1143,8 @@ O tom original `A` (Lá maior) nessa tonalidade é bastante comum em músicas do
 - F#m (Fá sustenido menor)
 - G#° (Sol sustenido diminuto)
 
+- https://www.youtube.com/shorts/EP5CiycZvkE?feature=share
+
 ## Técnicas
 > CAGED, Tocar de ouvido, Velocidade, Independência dos dedos, Riffs e Licks, Grooves, Medley
 
