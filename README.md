@@ -933,7 +933,7 @@ Segue abaixo as posições mais simples dos 7 acordes menores:
   </tr>
 </table>
 
-Os **acordes diminutos** são um tipo de acorde que transmite tensão e instabilidade na música, sendo muito usados para criar movimento e transição entre harmonias. Um acorde diminuto é formado por terças menores empilhadas, criando um som denso e enigmático. Exemplo:
+Os **acordes diminutos** (`°`) são um tipo de acorde que transmite tensão e instabilidade na música, sendo muito usados para criar movimento e transição entre harmonias. Um acorde diminuto é formado por terças menores empilhadas, criando um som denso e enigmático. Exemplo:
 
 ```txt
 Dó diminuto (C°) → C – E♭ – G♭
@@ -952,12 +952,12 @@ Segue abaixo as posições mais simples dos 7 acordes diminutos:
     <td>Si diminuto (B°)</td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/b7a3262b-eacc-4856-98b4-b4ae24261bd1"></td>
+    <td><img src="https://github.com/user-attachments/assets/f7f11cd0-c0a3-4871-b67c-ff33a74beed1"></td>
     <td><img src="https://github.com/user-attachments/assets/06968fb2-362e-4cc2-b8a7-34c8f3a9ba6f"></td>
     <td><img src="https://github.com/user-attachments/assets/0b4b8a1a-a687-419a-8022-db9ff6c1f4cd"></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/user-attachments/assets/07538522-1599-48c6-bd87-86e1153fc9ed"></td>
+    <td><img src="https://github.com/user-attachments/assets/2205a05c-dfd6-481c-be02-7f8ecfefadc3"></td>
     <td><img src="https://github.com/user-attachments/assets/6928b1a8-2f90-4ea8-9101-7dbf2d141508"></td>
   </tr>
 </table>
