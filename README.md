@@ -533,10 +533,6 @@ Considerações práticas:
 - Pedais individuais facilitam ajustes rápidos durante performances
 - Pedaleiras modernas têm qualidade sonora comparável aos pedais individuais em muitos casos
 
-Antes de falar sobre os principais tipos de pedais e pedaleiras, vamos ver os nossos conectores, como funciona a parte de cabeamento de som por trás dos panos de um aparelho elétrico de som:
-
-<img src="https://github.com/user-attachments/assets/dce0bc8b-11f6-4776-aef6-78ebebe9ca01" align="left">
-
 A escolha entre pedais individuais e pedaleiras depende muito do estilo musical, orçamento, necessidade de portabilidade e preferências pessoais do guitarrista. E ambos podem ser usados em conjunto, vamos ver alguns exemplos de pedais e pedaleiras abaixo:
 
 ---
