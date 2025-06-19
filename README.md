@@ -71,9 +71,9 @@ O **Pentagrama** (Pauta) que é um conjunto de cinco linhas e quatro espaços on
 
 ![Captura de tela 2025-04-24 173631](https://github.com/user-attachments/assets/df265f87-1139-41b3-a4b3-3125b37c5651)
 
-Vamos ilustrar em um exemplo abaixo, onde estou utilizando uma partitura com a clave de sol e a cifra indicadora de compasso 4/4 que indica como a música é estruturada ritmicamente, pois possui quatro tempos por compasso, cada um geralmente marcado por uma semínima:
+<img src="https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283" align="left">
 
-![image](https://github.com/user-attachments/assets/20e2f8e8-379a-49c6-8458-b33ca8862283)
+Vamos ilustrar em um exemplo abaixo, onde estou utilizando uma partitura com a clave de sol e a cifra indicadora de compasso 4/4 que indica como a música é estruturada ritmicamente, pois possui quatro tempos por compasso, cada um geralmente marcado por uma semínima:
 
 No início do uso da pauta usava-se apenas uma linha colorida, datada do século IX. Tempos depois outras linhas foram sendo acrescentadas, o pentagrama que usamos hoje, estabelecido no século XI, foi definitivamente usado a partir do século XVII. São 5 linhas e 4 espaços entre elas. As linhas e epaços são contadas de baixo para cima.
 
