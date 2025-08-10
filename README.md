@@ -1207,10 +1207,6 @@ Harmonia, Pentatônica, Improvisação, Levadas, Efeitos, Técnica de arpejos (T
 
 https://www.youtube.com/shorts/PiCUnoawZo8?feature=share
 
-# 🎵 Solo e base
-
-# 🥁 Drum
-
 # 🎹 Musical Keyboard
 <a href="">![JS](https://img.shields.io/badge/Musical_Keyboard-chords-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="https://virtualpiano.net/">![JS](https://img.shields.io/badge/Musical_Keyboard-App-000000?style=flat&logo=piano&logoColor=ffd60a)</a> 
 
