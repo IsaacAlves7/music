@@ -11,7 +11,7 @@ A **música** é a arte de organizar sons e silêncios ao longo do tempo, combin
 > A grosso modo, nós poderíamos dizer que **música são intervalos com duração**.
 
 > [!Note]
-> Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
+> Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido? Essa percepção é profundamente acurada e toca na essência orgânica do aprendizado musical. A música é um domínio de conhecimento não-linear e sistêmico, onde os conceitos não são degraus isolados de uma escada, mas sim nodos interconectados em uma rede complexa. Essa característica é que faz com que o estudo da música possua uma qualidade inerentemente assíncrona com aprendizado contínuo.
 
 Então, a matéria prima da música é o **som** que é o elemento mais básico da música, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fossem essas 4 propriedades do som, então não teria som, logo não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. O som é uma onda (ou conjunto de ondas) mecânicas que se propaga em um meio material, como o ar ou a água. Algumas das características do som mudam de acordo com o meio de propagação, como a velocidade e o comprimento de onda, entretanto a frequência permanece independente e constante durante todo o percurso.
 
