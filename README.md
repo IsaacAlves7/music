@@ -10,6 +10,9 @@ A **música** é a arte de organizar sons e silêncios ao longo do tempo, combin
 
 > A grosso modo, nós poderíamos dizer que **música são intervalos com duração**.
 
+> [!Note]
+> Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
+
 Então, a matéria prima da música é o **som** que é o elemento mais básico da música, pelo qual tem quatro propriedades. É importante saber aqui que essas 4 propriedades do som é que delineiam tudo o que a gente toca. Se não fossem essas 4 propriedades do som, então não teria som, logo não teria música porque música é som. E som é vibração, no caso, a frequência vibratória. O som é uma onda (ou conjunto de ondas) mecânicas que se propaga em um meio material, como o ar ou a água. Algumas das características do som mudam de acordo com o meio de propagação, como a velocidade e o comprimento de onda, entretanto a frequência permanece independente e constante durante todo o percurso.
 
 No caso, das **notas musicais**, que é um termo empregado para designar o menor elemento de um som, determinada por uma fonte sonora que durante um tempo de duração emite uma frequência sonora medida em hertz (Hz), a qual descreverá em termos físicos se a nota é grave ou aguda (altura), que pode ser representada por um símbolo em uma partitura ou letra em uma tablatura. 
@@ -64,8 +67,6 @@ Então, dependendo da nota de origem, o deslocamento pode ser **um tom inteiro o
 Existem também os **sustenidos duplos** (Double Sharp) e os **bemois duplos** (Double Flat). Os primeiros representados pelo símbolo sustenido duplo `𝄪`, fazem a frequência do som, em que estão aplicados, subir um tom. Os segundos, os bemóis duplos, representados pelo símbolo `♭♭`, fazem a altura do som, frequência, descer um tom. Existem também os **bequadros** que anulam as alterações provocadas pelos sustenidos e pelos bemois.
 
 Os acidentes têm esse nome pois representam alterações que ocorrem de forma eventual ou acidental ao longo de uma música. Quando uma nota deve ser executada com afinação elevada ou reduzida ao longo de toda a partitura, não se utilizam acidentes, mas sim **armaduras de clave** que indicam a tonalidade da composição. Os símbolos utilizados na armadura de clave são os mesmos, mas somente quando ocorrem junto a uma nota são chamados de acidentes.
-
-> Pra quem não entendeu muito bem essa teoria, fique tranquilo, acompanhe o conteúdo, pois tudo isso se relaciona em conjunto. Afinal, o que seria da música se não fosse um conjunto unido?
 
 Na teoria musical, um **naipe** é um conceito fundamental que se refere à **altura ou tessitura característica de um instrumento ou voz** dentro de uma peça musical. Diferente da clave, que indica a afixação das notas na pauta, o naipe define o **registro ou a região sonora** em que um instrumento ou voz naturalmente se situa e onde sua sonoridade é mais rica e equilibrada.
 
