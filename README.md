@@ -196,9 +196,9 @@ Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geral
 
 <table>
      <tr>
-          <td><img src="https://github.com/user-attachments/assets/2630b316-7eb3-4980-9b09-8e97b1a1b4cd"></td>
-          <td><img src="https://github.com/user-attachments/assets/b848ccc9-9e60-4526-815c-7e7d5aa58ec8"></td>
-          <td><img src="https://github.com/user-attachments/assets/f7fd924e-53de-4b53-97cd-68286cdd6b4e"></td>
+          <td><img src="https://github.com/user-attachments/assets/2630b316-7eb3-4980-9b09-8e97b1a1b4cd" height="777"></td>
+          <td><img src="https://github.com/user-attachments/assets/b848ccc9-9e60-4526-815c-7e7d5aa58ec8" height="777"></td>
+          <td><img src="https://github.com/user-attachments/assets/f7fd924e-53de-4b53-97cd-68286cdd6b4e" height="777"></td>
      </tr>
 </table>
 
