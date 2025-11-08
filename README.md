@@ -194,10 +194,13 @@ Já o ukulele, originário do Havaí, também possui quatro cordas, mas é geral
 | Altura do som | Agudo | Médio | Grave | Agudo | Médio |
 | Corpo | Largo | Reduzido | Largo | Largo | Largo |
 
-![527617184_731124533182539_697789139113177606_n](https://github.com/user-attachments/assets/2630b316-7eb3-4980-9b09-8e97b1a1b4cd)
-![536484055_122108259800975262_4457921481759362788_n](https://github.com/user-attachments/assets/b848ccc9-9e60-4526-815c-7e7d5aa58ec8)
-![78a7527f4b44ac0c474678a2351bf7ae](https://github.com/user-attachments/assets/f7fd924e-53de-4b53-97cd-68286cdd6b4e)
-
+<table>
+     <tr>
+          <td><img src="https://github.com/user-attachments/assets/2630b316-7eb3-4980-9b09-8e97b1a1b4cd"></td>
+          <td><img src="https://github.com/user-attachments/assets/b848ccc9-9e60-4526-815c-7e7d5aa58ec8"></td>
+          <td><img src="https://github.com/user-attachments/assets/f7fd924e-53de-4b53-97cd-68286cdd6b4e"></td>
+     </tr>
+</table>
 
 # 🎸 Guitar
 <img src="https://github.com/user-attachments/assets/d3e84a35-7d01-4077-87e0-d1232a6c2d66" align="right" height="77">
