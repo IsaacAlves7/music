@@ -1263,7 +1263,7 @@ A primeira tecla branca do teclado musical depende do tamanho do instrumento! Em
 
 Então, a primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial, por padrão, de **duas teclas pretas** e **três teclas pretas**, e antes de duas teclas pretas, a tecla branca anterior possui a nota `Dó`, depois o `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si` e assim por diante.
 
-https://www.youtube.com/shorts/qaTy8pKWPDQ
+<img src="https://github.com/user-attachments/assets/f8bf19c2-8e91-466e-868a-6a90534cb571" align="right" height="277">
 
 O pedal de **sustain** (ou “sustêiner”, como muita gente chama no dia a dia) é o pedal responsável por **prolongar o som** das notas tocadas no piano ou no teclado. Quando você toca uma nota normalmente, o som vibra por um tempo curto e depois se apaga. Mas quando você pisa no pedal de sustain, essa vibração continua mesmo depois que seus dedos deixam as teclas, fazendo o som “segurar”, “encher” e se misturar com as outras notas, criando aquela ambiência característica que se escuta em praticamente qualquer peça de piano.
 
