@@ -1259,8 +1259,27 @@ Existem diversos tipos de teclado musical, cada um com características únicas 
 
 📢 Arranjador – Contém ritmos e acompanhamentos automáticos, facilitando a criação de músicas completas.
 
-A primeira tecla branca do teclado musical depende do tamanho do instrumento! Em um teclado de 88 teclas, como um piano tradicional, a primeira tecla branca à esquerda corresponde à nota Lá (A). Se for um teclado menor, com 61 ou 76 teclas, a nota inicial pode ser Dó (C). Isso acontece porque teclados compactos geralmente começam na oitava seguinte, eliminando algumas notas graves.
+A primeira tecla branca do teclado musical depende do tamanho do instrumento! Em um teclado de 88 teclas, como um piano tradicional, a primeira tecla branca à esquerda corresponde à nota Lá ($A$). Se for um teclado menor, com 61 ou 76 teclas, a nota inicial pode ser Dó ($C$). Isso acontece porque teclados compactos geralmente começam na oitava seguinte, eliminando algumas notas graves.
 
 Então, a primeira coisa que você vai notar no teclado é que ele tem sempre um conjunto sequencial, por padrão, de **duas teclas pretas** e **três teclas pretas**, e antes de duas teclas pretas, a tecla branca anterior possui a nota `Dó`, depois o `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si` e assim por diante.
 
 https://www.youtube.com/shorts/qaTy8pKWPDQ
+
+O pedal de **sustain** (ou “sustêiner”, como muita gente chama no dia a dia) é o pedal responsável por **prolongar o som** das notas tocadas no piano ou no teclado. Quando você toca uma nota normalmente, o som vibra por um tempo curto e depois se apaga. Mas quando você pisa no pedal de sustain, essa vibração continua mesmo depois que seus dedos deixam as teclas, fazendo o som “segurar”, “encher” e se misturar com as outras notas, criando aquela ambiência característica que se escuta em praticamente qualquer peça de piano.
+
+No piano acústico, esse pedal afasta os **amortecedores** das cordas. Quando você levanta os dedos, as cordas continuam livres para vibrar, e isso prolonga o som. Além disso, como todas as cordas ficam sem amortecedor, elas passam a **ressonar entre si**, criando harmônicos que dão uma profundidade muito maior ao som. É por isso que, quando o sustain está pressionado, mesmo notas que você não tocou diretamente podem “vibrar junto” e preencher o ambiente.
+
+Nos teclados e pianos digitais, o pedal de sustain funciona por meio de um **sensor eletrônico** que envia um sinal ao instrumento dizendo que você está mantendo o som aberto. A simulação tenta imitar exatamente o comportamento do piano acústico, inclusive a ressonância das cordas e o prolongamento natural da vibração. Sem esse pedal, tocar músicas mais expressivas no teclado fica praticamente impossível, porque grande parte do fraseado, da ligação entre notas, da intensidade emocional e até mesmo do “legato” depende desse prolongamento do som.
+
+Em termos musicais, o sustain é essencial para criar continuidade, suavidade e profundidade na execução. Ele permite que acordes se mantenham enquanto a mão se move para outras posições, facilita transições melódicas sem cortes abruptos e adiciona riqueza harmônica ao conjunto. Por isso, o pedal de sustain é considerado o **pedal principal** tanto no piano quanto no teclado — e é o primeiro que qualquer pianista aprende a usar, porque ele está diretamente ligado à expressividade musical.
+
+# 🥁 Bateria
+Como vimos anteriormente, a **bateria** (Drum) é um instrumento de rítmo e percussão, é um **conjunto de tambores** (de diversos tamanhos e timbres) e de **pratos** e outros instrumentos de percussão colocados de forma conveniente com a intenção de serem percutidos por um único músico, denominado baterista, geralmente, com o auxílio de **um par de baquetas**, vassourinhas ou bilros segurados por ambas as mãos, embora, em alguns casos, certos executantes possam também usar as próprias mãos nuas para percutir o instrumento em questão. Vejamos um modelo de bateria, com o conjunto comum (drum set/ drum kit) mais a frente.
+
+Basicamente, a bateria depende de três partes que são as mais importantes do conjunto:
+
+- **Bumbo** que possuem o som mais grave/forte da bateria tocado com o pé,
+
+- **Caixa** tocado com a mão,
+
+- **Chimbau** que pode ser tocado com a mão ou pé.
