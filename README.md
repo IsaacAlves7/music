@@ -1290,4 +1290,4 @@ Basicamente, a bateria depende de três partes que são as mais importantes do c
 
 5. **Caixa** tocado com a mão, tambor com esteira na pele de resposta;
 
-6. **Chimbau** que pode ser tocado com a mão ou pé.
+6. **Prato de choque ou chimbal (ou hi-hat)** que pode ser tocado com a mão ou pé, usado para marcação do compasso e condução da música;
