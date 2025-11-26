@@ -76,9 +76,26 @@ Na teoria musical, um **naipe** é um conceito fundamental que se refere à **al
 
 A ideia central do naipe está intimamente ligada à **identidade tímbrica** de cada instrumento. Por exemplo, uma flauta tem um naipe agudo, enquanto um contrabaixo tem um naipe grave. Quando compositores orquestram uma obra, eles consideram os naipes dos instrumentos para criar equilíbrio, contraste e cores sonoras específicas. O naipe ajuda a determinar qual instrumento é mais adequado para executar uma melodia principal, um acompanhamento harmônico ou uma linha de baixo, baseando-se não apenas na extensão técnica do instrumento, mas na qualidade do som que ele produz em determinados registros.
 
-Na prática orquestral, os instrumentos são agrupados por **famílias de naipes**: os **sopros** (madeiras e metais), **cordas** (violinos, violas, violoncelos e contrabaixos), e **percussão**. Cada família possui naipes que se sobrepõem e interagem, criando uma paleta sonora completa. Os violinos, por exemplo, ocupam o naipe agudo das cordas, enquanto os violoncelos e contrabaixos cobrem o naipe grave. Essa organização permite que o compositor explore combinações como a do naipe médio das violas com o naipe agudo dos oboés, resultando em uma fusão única de timbres.
+Na prática orquestral, os instrumentos são agrupados por *famílias de naipes*: 
 
-Além disso, o naipe é crucial na **vocalização**. As vozes humanas são classificadas em naipes específicos: **soprano** (agudo feminino), **mezzo-soprano** (médio feminino), **contralto** (grave feminino), **tenor** (agudo masculino), **barítono** (médio masculino) e **baixo** (grave masculino). Em um coro, a distribuição por naipes garante que cada parte da harmonia — do soprano luminoso ao baixo profundo — seja executada com a ressonância ideal.
+1. **sopros** (madeiras e metais),
+2. **cordas** (violinos, violas, violoncelos e contrabaixos),
+3. **percussão**.
+
+Cada família possui naipes que se sobrepõem e interagem, criando uma paleta sonora completa. 
+
+Os violinos, por exemplo, ocupam o naipe agudo das cordas, enquanto os violoncelos e contrabaixos cobrem o naipe grave. Essa organização permite que o compositor explore combinações como a do naipe médio das violas com o naipe agudo dos oboés, resultando em uma fusão única de timbres.
+
+Além disso, o naipe é crucial na **vocalização**. As vozes humanas são classificadas em naipes específicos: 
+
+- **soprano** (agudo feminino),
+- **mezzo-soprano** (médio feminino),
+- **contralto** (grave feminino),
+- **tenor** (agudo masculino),
+- **barítono** (médio masculino)
+- **baixo** (grave masculino).
+
+Em um coro, a distribuição por naipes garante que cada parte da harmonia do soprano luminoso ao baixo profundo seja executada com a ressonância ideal.
 
 Vale ressaltar que o naipe não se limita à altura absoluta, mas também à **densidade harmônica** e ao **papel musical**. Em um acorde de quatro partes, por exemplo, as notas são distribuídas entre os naipes: o soprano carrega a melodia principal, o contralto preenche a harmonia, o tenor conecta as vozes médias e o baixo estabelece a fundamentação. Essa disposição evita que as vozes se "amontoem" em uma única região, garantindo clareza e equilíbrio.
 
