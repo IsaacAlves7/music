@@ -1288,6 +1288,6 @@ Basicamente, a bateria depende de três partes que são as mais importantes do c
 
 4. **Bumbo** que possuem o som mais grave/forte da bateria tocado com o pé;
 
-5. **Caixa** tocado com a mão, tambor com esteira na pele de resposta;
+5. **Caixa, caixa-de-guerra (do original em inglês war snare)** ou caixeta clara é um instrumento musical percussivo bi-membranofone (duas peles distendidas) da família do tambor percutido, composto por: um corpo cilíndrico de pequena seção (caixa rasa de 10~15 cm); com duas peles de alta sensibilidade a batida, fixadas por meio de aros metálicos, e; esteira de metal constituída por pequenas molas, em contato com a pele inferior, que vibra após a pele superior ser percutida, produzindo um som característico das marchas militares. Tocado com a mão, tambor com esteira na pele de resposta;
 
 6. **Prato de choque ou chimbal (ou hi-hat)** que pode ser tocado com a mão ou pé, usado para marcação do compasso e condução da música.
