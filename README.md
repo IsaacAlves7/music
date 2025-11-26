@@ -1291,7 +1291,7 @@ Nos teclados e pianos digitais, o pedal de sustain funciona por meio de um **sen
 Em termos musicais, o sustain é essencial para criar continuidade, suavidade e profundidade na execução. Ele permite que acordes se mantenham enquanto a mão se move para outras posições, facilita transições melódicas sem cortes abruptos e adiciona riqueza harmônica ao conjunto. Por isso, o pedal de sustain é considerado o **pedal principal** tanto no piano quanto no teclado — e é o primeiro que qualquer pianista aprende a usar, porque ele está diretamente ligado à expressividade musical.
 
 # 🥁 Bateria
-<a href="">![JS](https://img.shields.io/badge/Drum-guide-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="https://virtualpiano.net/">![JS](https://img.shields.io/badge/Drum-App-000000?style=flat&logo=piano&logoColor=ffd60a)</a> 
+<a href="">![JS](https://img.shields.io/badge/Drum-guide-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="https://virtualpiano.net/">![JS](https://img.shields.io/badge/Drum-App-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="">![JS](https://img.shields.io/badge/Drum-guide-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="https://virtualpiano.net/">![JS](https://img.shields.io/badge/Drum-App-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="">![JS](https://img.shields.io/badge/Drum-guide-000000?style=flat&logo=piano&logoColor=ffd60a)</a> <a href="https://virtualpiano.net/">![JS](https://img.shields.io/badge/Drum-App-000000?style=flat&logo=piano&logoColor=ffd60a)</a> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Drum_set.svg" align="right" height="277">
 
