@@ -1286,8 +1286,8 @@ Basicamente, a bateria depende de três partes que são as mais importantes do c
 
 3. **Tom-tom** que normalmente ficam por cima do bumbo;
 
-4. **Bumbo** que possuem o som mais grave/forte da bateria tocado com o pé,
+4. **Bumbo** que possuem o som mais grave/forte da bateria tocado com o pé;
 
 5. **Caixa** tocado com a mão, tambor com esteira na pele de resposta;
 
-6. **Prato de choque ou chimbal (ou hi-hat)** que pode ser tocado com a mão ou pé, usado para marcação do compasso e condução da música;
+6. **Prato de choque ou chimbal (ou hi-hat)** que pode ser tocado com a mão ou pé, usado para marcação do compasso e condução da música.
