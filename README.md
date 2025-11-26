@@ -1274,20 +1274,20 @@ Nos teclados e pianos digitais, o pedal de sustain funciona por meio de um **sen
 Em termos musicais, o sustain é essencial para criar continuidade, suavidade e profundidade na execução. Ele permite que acordes se mantenham enquanto a mão se move para outras posições, facilita transições melódicas sem cortes abruptos e adiciona riqueza harmônica ao conjunto. Por isso, o pedal de sustain é considerado o **pedal principal** tanto no piano quanto no teclado — e é o primeiro que qualquer pianista aprende a usar, porque ele está diretamente ligado à expressividade musical.
 
 # 🥁 Bateria
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Drum_set.svg" align="right" height="377">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Drum_set.svg" align="right" height="277">
 
 Como vimos anteriormente, a **bateria** (Drum) é um instrumento de rítmo e percussão, é um **conjunto de tambores** (de diversos tamanhos e timbres) e de **pratos** e outros instrumentos de percussão colocados de forma conveniente com a intenção de serem percutidos por um único músico, denominado baterista, geralmente, com o auxílio de **um par de baquetas**, vassourinhas ou bilros segurados por ambas as mãos, embora, em alguns casos, certos executantes possam também usar as próprias mãos nuas para percutir o instrumento em questão. Vejamos um modelo de bateria, com o conjunto comum (drum set/ drum kit) mais a frente.
 
 Basicamente, a bateria depende de três partes que são as mais importantes do conjunto:
 
-1. **Prato de condução**
+1. **Prato de condução** usado para a marcação do compasso e condução da música;
 
-2. **Surdo**
+2. **Surdo** é um tambor cilíndrico de som grave tipicamente feito de madeira e pode ou não possuir peles em ambos os lados. Este tipo de tambor baixo representa a extensão mais grave dos timbalões. Este tipo de tambor baixo é tradicionalmente usado em escolas de samba, cada escola tendo em média de 25 a 35 unidades na sua bateria. Também é encontrado em torcidas organizadas aonde eles ditam o ritmo e são considerados o "coração" da torcida. Sua função principal no samba é a marcação do tempo. Surdos também podem ser encontrados em bandas marciais ou militares e geralmente são utilizados para marcar o pulso binário da marcha, em conjunto com o bumbo e a caixa.
 
-3. **Tom-tom**
+3. **Tom-tom** que normalmente ficam por cima do bumbo;
 
 4. **Bumbo** que possuem o som mais grave/forte da bateria tocado com o pé,
 
-5. **Caixa** tocado com a mão,
+5. **Caixa** tocado com a mão, tambor com esteira na pele de resposta;
 
 6. **Chimbau** que pode ser tocado com a mão ou pé.
