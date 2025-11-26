@@ -1288,6 +1288,14 @@ Basicamente, a bateria depende de três partes que são as mais importantes do c
 
 4. **Bumbo** que possuem o som mais grave/forte da bateria tocado com o pé;
 
-5. **Caixa, caixa-de-guerra (do original em inglês war snare)** ou caixeta clara é um instrumento musical percussivo bi-membranofone (duas peles distendidas) da família do tambor percutido, composto por: um corpo cilíndrico de pequena seção (caixa rasa de 10~15 cm); com duas peles de alta sensibilidade a batida, fixadas por meio de aros metálicos, e; esteira de metal constituída por pequenas molas, em contato com a pele inferior, que vibra após a pele superior ser percutida, produzindo um som característico das marchas militares. Tocado com a mão, tambor com esteira na pele de resposta;
+5. **Caixa, caixa-de-guerra (do original em inglês war snare)** ou caixeta clara é um instrumento musical percussivo bi-membranofone (duas peles distendidas) da família do tambor percutido, composto por: um corpo cilíndrico de pequena seção (caixa rasa de 10~15 cm); com duas peles de alta sensibilidade a batida, fixadas por meio de aros metálicos, e; esteira de metal constituída por pequenas molas, em contato com a pele inferior, que vibra após a pele superior ser percutida, produzindo um som característico das marchas militares. Tocado com a mão, tambor com esteira na pele de resposta.
+
+Piccolo, tarol ou tarola (do original em inglês snare drum ou shallow snare drum: "tambor de caixa rasa") é um instrumento bimembranofone da família da caixa, com afinação um pouco mais aguda e som mais nítido, devido a ter um corpo com seção menor, e apresenta esteiras em ambas as peles. Popularmente distingue-se o tarol da caixa pelo formato do corpo; onde o tarol tem geralmente uma distância menor das membranas, em torno dos 10 cm, e a caixa pode ter acima de 15 cm.
+
+De uma maneira geral, e dependendo dos modelos, a esteira pode ser afastada da pele inferior mediante uma alavanca, permitindo também a execução de ritmos sem a presença do som repicado.
+
+A caixa é um elemento essencial: na formação da bateria musical, na ala de bateria das agremiações carnavalescas (escolas de samba) e, na banda militar.
+
+O instrumento normalmente é tocando com uso de baquetas (do italiano bacchetta ou bacchio), um objeto em forma de pequeno bastão, e com uma das extremidades arredondadas usada para percutir, fabricado principalmente de madeiras ou fibras. Existem padrões do músico baterista/percussionista segurarem as baquetas em suas mãos, chamados de grip ou pegada. Existem sete tipos de manuseio: traditional grip, matched, french, american, german, ancient, overhand; as fundamentais são a traditional e a matched.
 
 6. **Prato de choque ou chimbal (ou hi-hat)** que pode ser tocado com a mão ou pé, usado para marcação do compasso e condução da música.
