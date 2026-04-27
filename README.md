@@ -1,5 +1,7 @@
 <a href="https://github.com/IsaacAlves7/music"><img src="https://github.com/user-attachments/assets/51aaec0b-2015-40d7-85ce-69385232f6f5"></a>
 
+> Versículo chave: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." - Provérbios 16:3
+
 # 🎶 This repository is about music from scratch
 🎸🥁🎶 Esse é um repositório focado em música, com técnicas profissionais de grandes músicos de instrumentos de corda, canto, teclado e bateria. Através desse repositório você vai saber todos os segredos para evoluir no ramo musical.
 
