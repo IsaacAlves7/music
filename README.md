@@ -1220,6 +1220,33 @@ Além da indicação das casas a serem tocadas, também podem aparecer símbolos
 
 Um **medley** é uma sequência de trechos de músicas diferentes tocadas ou cantadas de forma contínua, sem interrupções significativas entre elas. Geralmente, as músicas escolhidas compartilham algum tema, estilo ou artista em comum, criando uma transição fluida entre as faixas. Medleys são bastante utilizados em apresentações ao vivo, mashups, trilhas sonoras e até em competições musicais. Eles permitem que um artista ou banda apresente vários sucessos em pouco tempo, mantendo a energia do público.
 
+O **reggae** na guitarra é menos sobre “tocar muito” e mais sobre *tocar no lugar certo*. O coração do estilo é o **skank**: acordes curtos, secos, entrando *fora do tempo forte*, normalmente nos tempos 2 e 4 do compasso. Enquanto bateria e baixo seguram o groove, a guitarra entra como um “ataque percussivo”.
+
+Se você pensar em um compasso 4/4 contando “1 e 2 e 3 e 4 e”, o golpe da guitarra costuma cair no **“e” depois do 2 e do 4**. É por isso que soa meio “contratempo”, dando aquela sensação relaxada e balançada típica do reggae. O segredo é: **não deixe o acorde soar**. Você ataca e já abafa com a mão esquerda, criando um som curto e estalado.
+
+Em termos de harmonia, o reggae usa muito **acordes maiores, menores e sétimas**, geralmente em shapes simples (triades ou acordes com pestana). Nada muito cheio, porque o espaço é importante — menos é mais aqui.
+
+Agora, sobre o timbre, ele é bem característico: limpo, brilhante e seco.
+
+O básico mesmo é:
+
+* guitarra com captador single coil (tipo Strat ajuda bastante, mas não é obrigatório)
+* amplificador limpo, sem distorção
+
+Efeitos? Poucos, mas usados com intenção:
+
+O mais importante é o **delay**. Ele cria aquele “eco rítmico” que complementa o groove. O ideal é ajustar o delay em tempo com a música (geralmente colcheia ou colcheia pontuada), com poucas repetições e volume moderado — só pra preencher, não pra embolar.
+
+Reverb também entra, mas leve. Só pra dar ambiência, sem deixar o som “lavado”.
+
+Alguns guitarristas usam um toque de **chorus** bem sutil, mas isso já é mais opcional.
+
+Distorção praticamente não existe no reggae tradicional. Se usar, é algo bem leve, tipo um overdrive só pra dar corpo — nada de saturação forte.
+
+Agora o ponto que muita gente ignora: o **controle da mão direita e o mute da mão esquerda são mais importantes que qualquer pedal**. Se você errar isso, pode ter o melhor setup do mundo que não vai soar reggae.
+
+Resumindo na prática: você vai tocar acordes curtos, fora do tempo forte, com som limpo, usando um delay leve pra dar profundidade — e deixando espaço pro groove respirar.
+
 ## Slides
 O **slide** é uma técnica de mão esquerda que consiste em deslizar o dedo, ainda pressionando a corda, de uma determinada casa até uma outra casa alvo. Outro nome para essa técnica é portamento.
 
