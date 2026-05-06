@@ -77,7 +77,7 @@ Em música, tom pode ter vários significados:
 - Pode se referir à nota em relação à qual se constrói uma escala diatônica no sistema tonal clássico.
 - Também se refere à altura de um som na escala geral dos sons.
 
-Se aprofundando mais sobre essa teoria dos intervalos musicais, temos os **Acidentes** ou **alterações** são símbolos utilizados na notação musical para modificar a altura da nota imediatamente à sua direita e de todas as notas na mesma posição da pauta até o final do compasso corrente, tornando-as *meio tom mais graves* ou *meio tom mais agudas*, são representadas pelo símbolo **sustenido**(`♯`) ou **bemol**(`♭`) sendo que o sustenido representa o aumento da nota em um semi-tom e o bemol a diminuição da mesma. Esses símbolos, na partitura musical, aparecem ao lado esquerdo da nota a ser alterada.
+Se aprofundando mais sobre essa teoria dos intervalos musicais, temos os **Acidentes** ou **alterações** são símbolos utilizados na notação musical para modificar a altura da nota imediatamente à sua direita e de todas as notas na mesma posição da pauta até o final do compasso corrente, tornando-as *meio tom mais graves* ou *meio tom mais agudas*, são representadas pelo símbolo **sustenido**(`♯`) ou **bemol**(`♭`), ambos são bem parecidos na prática (como Chaves e Chapolin), mas na teoria são diferentes sendo que o sustenido representa o aumento da nota em um semi-tom e o bemol a diminuição da mesma. Esses símbolos, na partitura musical, aparecem ao lado esquerdo da nota a ser alterada.
 
 Nem todas as notas estão separadas por um tom inteiro:
 - **1 tom** equivale a dois **semitons**.  
