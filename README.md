@@ -516,7 +516,7 @@ Mesmo com todas essas especificações, a guitarra também conta com ferramentas
 > [!Warning]
 > Em casos de ruídos, chiados ou interferências na guitarra em equipamentos externos, não é recomendado fazer **aterramento**, isso pode danificar os equipamentos, procure analizar por partes ou fazer **blindagem** na guitarra. É recomendado utilizar um **estabilizador** também. Outra dica importante é sobre os pedais e pedaleiras, muito cuidado com a fonte e a voltagem, se você quer que o tempo de vida útil dela dure por bastante tempo, sugiro a você não remover ela continuamente do aparelho, faça desmontagens quando for bastante necessário, pois qualquer dano na fonte pode resultar na perda dela ou mal funcionamento do aparelho. 
 
-# 🔊 Amplificadores
+# 🔊 AMP - Amplificadores
 <img src="https://github.com/user-attachments/assets/2e9b036b-c98f-4d1e-acc8-00901ecd22b8" align="right" height="377">
 
 Os **Amplificadores** de guitarra (AMP - Amplifiers) são equipamentos destinados a ampliar o som de um instrumento elétrico e essenciais para guitarristas elétricos e eletroacústicos. Eles servem para captar o sinal elétrico fraco produzido pelos captadores da guitarra e amplificá-lo, tornando-o audível através de alto-falantes. Os amplificadores têm duas funções principais:
@@ -540,6 +540,9 @@ Existem basicamente dois tipos principais de amplificadores:
 
 Há também **amplificadores híbridos** (que combinam válvulas e transistores)
 - Exemplos: Cabeçote Meteoro Guitarra Space Junior F350 Faiska + Caixa 212GS, VOX VT Series (Valvetronix), Marshall CODE Series, Blackstar HT Series, Orange Micro Terror/Micro Dark, Peavey Vypyr Series, Hughes & Kettner TubeMeister Series, Line 6 DT Series, Fender Mustang GTX, Mesa Boogie Mark V:25, Laney Cub Series, Marshall DSL20
+
+> [!Important]
+> Uma coisa é a potência do cabeçote (AMP - Amplificador), outra coisa é a potência da caixa de som. 
 
 E **amplificadores digitais** que usam modelagem digital para simular diversos tipos de amplificadores, são tipos de simuladores de timbres de amplificadores que são na verdade aparelhos digitais com circuitos à base de ship, isso já há muito tempo.
 
