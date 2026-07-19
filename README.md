@@ -591,7 +591,9 @@ Em resumo, pedais são unidades individuais para efeitos específicos, enquanto 
 
 <img src="https://github.com/user-attachments/assets/1c8637af-c907-4a73-a6da-7f3a0b0b75ce" align="right" height="377">
 
-As **pedaleiras** são unidades maiores que combinam vários pedais em um único dispositivo. Muitas pedaleiras são **digitais**, com múltiplos efeitos programáveis, e permitem que o guitarrista altere facilmente os efeitos, combine sons e até crie presets para diferentes músicas ou partes de uma performance. Pedaleiras de maior qualidade também oferecem controle MIDI, loopers e outras funcionalidades avançadas. O exemplo ao lado é um modelo de pedaleira Behringer V-AMP2, ela é uma pedaleira focada em modelagem de amplificadores e efeitos, com simulações de amps, gabinetes, noise gate e efeitos como delay, reverb, chorus, flanger, compressor, entre outros, mas não conta com função de gravação ou looping.
+As **pedaleiras** são unidades maiores que combinam vários pedais em um único dispositivo. Muitas pedaleiras são **digitais**, com múltiplos efeitos programáveis, e permitem que o guitarrista altere facilmente os efeitos, combine sons e até crie presets para diferentes músicas ou partes de uma performance. Pedaleiras de maior qualidade também oferecem controle MIDI, loopers e outras funcionalidades avançadas. 
+
+O exemplo ao lado é um modelo de pedaleira Behringer V-AMP2, ela é uma pedaleira focada em modelagem de amplificadores e efeitos, com simulações de amps, gabinetes, noise gate e efeitos como delay, reverb, chorus, flanger, compressor, entre outros, mas não conta com função de gravação ou looping.
 
 <table>
    <tr>
