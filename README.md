@@ -5,6 +5,9 @@
 # 🎶 This repository is about music from scratch
 🎸🥁🎶 Esse é um repositório focado em música, com técnicas profissionais de grandes músicos de instrumentos de corda, canto, teclado e bateria. Através desse repositório você vai saber todos os segredos para evoluir no ramo musical.
 
+- https://chordcraft.org/
+- https://thunderfret.com/
+
 # 🎼 Sound and Music Theory
 <img src="https://github.com/user-attachments/assets/9d302b8e-7efc-405e-ad90-050d97677f22" align="right" height="77">
 
